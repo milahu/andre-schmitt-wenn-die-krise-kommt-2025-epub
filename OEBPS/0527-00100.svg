@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0527-00100.avif"/>
+<text x="43.0" y="248.0" xml:space="preserve"> </text>
+<text x="43.0" y="249.0">
+  <tspan x="43.0" y="271.5" font-size="39.0px" textLength="42.0" lengthAdjust="spacingAndGlyphs">3.</tspan>
+  <tspan x="106.0" y="270.0" font-size="42.0px" textLength="294.0" lengthAdjust="spacingAndGlyphs">Checklisten</tspan>
+  <tspan x="43.0" y="384.5" font-size="33.0px" textLength="77.0" lengthAdjust="spacingAndGlyphs">3.1.</tspan>
+  <tspan x="139.0" y="387.5" font-size="45.0px" textLength="313.0" lengthAdjust="spacingAndGlyphs">Hausapotheke</tspan>
+  <tspan x="466.0" y="388.5" font-size="5.0px" textLength="24.0" lengthAdjust="spacingAndGlyphs">-</tspan>
+  <tspan x="506.0" y="384.5" font-size="33.0px" textLength="76.0" lengthAdjust="spacingAndGlyphs">Das</tspan>
+  <tspan x="598.0" y="383.0" font-size="36.0px" textLength="121.0" lengthAdjust="spacingAndGlyphs">sollte</tspan>
+  <tspan x="734.0" y="383.0" font-size="36.0px" textLength="236.0" lengthAdjust="spacingAndGlyphs">vorhanden</tspan>
+  <tspan x="987.0" y="383.0" font-size="36.0px" textLength="85.0" lengthAdjust="spacingAndGlyphs">sein</tspan>
+</text>
+</svg>

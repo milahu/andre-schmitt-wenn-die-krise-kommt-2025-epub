@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0636-00100.avif"/>
+<text x="766.0" y="562.0" xml:space="preserve"> </text>
+<text x="766.0" y="563.0">
+  <tspan x="766.0" y="598.5" font-size="67.0px" textLength="100.0" lengthAdjust="spacingAndGlyphs">08</tspan>
+  <tspan x="895.0" y="606.5" font-size="87.0px" textLength="384.0" lengthAdjust="spacingAndGlyphs">Werbung</tspan>
+</text>
+</svg>

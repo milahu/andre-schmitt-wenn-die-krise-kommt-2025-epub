@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0599-00100.avif"/>
+<text x="42.0" y="16.0" xml:space="preserve"> </text>
+<text x="42.0" y="17.0">
+  <tspan x="42.0" y="35.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="68.0" y="32.5" font-size="29.0px" textLength="123.0" lengthAdjust="spacingAndGlyphs">Einsatz</tspan>
+  <tspan x="203.0" y="36.0" font-size="22.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="279.0" y="32.0" font-size="30.0px" textLength="121.0" lengthAdjust="spacingAndGlyphs">Alarm-</tspan>
+  <tspan x="415.0" y="32.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="495.0" y="36.0" font-size="38.0px" textLength="495.0" lengthAdjust="spacingAndGlyphs">Benachrichtigungssystemen</tspan>
+  <tspan x="1006.0" y="32.0" font-size="30.0px" textLength="49.0" lengthAdjust="spacingAndGlyphs">bei</tspan>
+  <tspan x="1071.0" y="36.5" font-size="37.0px" textLength="183.0" lengthAdjust="spacingAndGlyphs">Störungen</tspan>
+</text>
+<text x="43.0" y="103.0" xml:space="preserve"> </text>
+<text x="43.0" y="104.0">
+  <tspan x="43.0" y="120.5" font-size="29.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">Hier</tspan>
+  <tspan x="126.0" y="120.0" font-size="30.0px" textLength="69.0" lengthAdjust="spacingAndGlyphs">sind</tspan>
+  <tspan x="211.0" y="124.5" font-size="37.0px" textLength="104.0" lengthAdjust="spacingAndGlyphs">einige</tspan>
+  <tspan x="330.0" y="120.0" font-size="30.0px" textLength="159.0" lengthAdjust="spacingAndGlyphs">nützliche</tspan>
+  <tspan x="505.0" y="120.0" font-size="30.0px" textLength="87.0" lengthAdjust="spacingAndGlyphs">Links</tspan>
+  <tspan x="606.0" y="120.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="686.0" y="123.0" font-size="36.0px" textLength="136.0" lengthAdjust="spacingAndGlyphs">Quellen</tspan>
+  <tspan x="836.0" y="124.5" font-size="21.0px" textLength="73.0" lengthAdjust="spacingAndGlyphs">zum</tspan>
+  <tspan x="923.0" y="120.0" font-size="30.0px" textLength="120.0" lengthAdjust="spacingAndGlyphs">Thema</tspan>
+  <tspan x="1059.0" y="119.5" font-size="31.0px" textLength="426.0" lengthAdjust="spacingAndGlyphs">Kommunikationsausfall:</tspan>
+</text>
+<text x="42.0" y="169.0" xml:space="preserve"> </text>
+<text x="42.0" y="170.0">
+  <tspan x="42.0" y="190.0" font-size="10.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="68.0" y="186.0" font-size="30.0px" textLength="199.0" lengthAdjust="spacingAndGlyphs">Bundesamt</tspan>
+  <tspan x="279.0" y="185.5" font-size="31.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">für</tspan>
+  <tspan x="343.0" y="186.0" font-size="30.0px" textLength="176.0" lengthAdjust="spacingAndGlyphs">Sicherheit</tspan>
+  <tspan x="533.0" y="186.0" font-size="28.0px" textLength="28.0" lengthAdjust="spacingAndGlyphs">in</tspan>
+  <tspan x="576.0" y="186.0" font-size="30.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="647.0" y="185.5" font-size="31.0px" textLength="359.0" lengthAdjust="spacingAndGlyphs">Informationstechnik</tspan>
+  <tspan x="1019.0" y="188.0" font-size="36.0px" textLength="88.0" lengthAdjust="spacingAndGlyphs">(BSI):</tspan>
+  <tspan x="1122.0" y="189.5" font-size="39.0px" textLength="446.0" lengthAdjust="spacingAndGlyphs">https://www.bsi.bund.de</tspan>
+</text>
+<text x="42.0" y="235.0" xml:space="preserve"> </text>
+<text x="42.0" y="236.0">
+  <tspan x="42.0" y="256.0" font-size="10.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="68.0" y="252.0" font-size="30.0px" textLength="177.0" lengthAdjust="spacingAndGlyphs">Deutscher</tspan>
+  <tspan x="259.0" y="256.0" font-size="38.0px" textLength="406.0" lengthAdjust="spacingAndGlyphs">IT-Sicherheitskongress:</tspan>
+  <tspan x="680.0" y="255.5" font-size="39.0px" textLength="699.0" lengthAdjust="spacingAndGlyphs">https://www.it-sicherheitskongress.de/</tspan>
+</text>
+<text x="42.0" y="301.0" xml:space="preserve"> </text>
+<text x="42.0" y="302.0">
+  <tspan x="42.0" y="322.0" font-size="10.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="68.0" y="322.0" font-size="38.0px" textLength="355.0" lengthAdjust="spacingAndGlyphs">Bundesnetzagentur:</tspan>
+  <tspan x="439.0" y="321.5" font-size="39.0px" textLength="656.0" lengthAdjust="spacingAndGlyphs">https://www.bundesnetzagentur.de/</tspan>
+</text>
+<text x="42.0" y="390.0" xml:space="preserve"> </text>
+<text x="42.0" y="391.0">
+  <tspan x="42.0" y="406.0" font-size="30.0px" textLength="210.0" lengthAdjust="spacingAndGlyphs">Lastabwurf</tspan>
+</text>
+<text x="43.0" y="450.0" xml:space="preserve"> </text>
+<text x="43.0" y="451.0">
+  <tspan x="43.0" y="472.0" font-size="30.0px" textLength="199.0" lengthAdjust="spacingAndGlyphs">Lastabwurf</tspan>
+  <tspan x="258.0" y="472.0" font-size="30.0px" textLength="129.0" lengthAdjust="spacingAndGlyphs">bezieht</tspan>
+  <tspan x="403.0" y="472.0" font-size="30.0px" textLength="65.0" lengthAdjust="spacingAndGlyphs">sich</tspan>
+  <tspan x="486.0" y="472.0" font-size="30.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">auf</tspan>
+  <tspan x="558.0" y="472.5" font-size="29.0px" textLength="72.0" lengthAdjust="spacingAndGlyphs">eine</tspan>
+  <tspan x="648.0" y="472.0" font-size="30.0px" textLength="396.0" lengthAdjust="spacingAndGlyphs">SicherheitsmaRnahme</tspan>
+  <tspan x="1062.0" y="472.5" font-size="29.0px" textLength="40.0" lengthAdjust="spacingAndGlyphs">im</tspan>
+  <tspan x="1121.0" y="475.5" font-size="35.0px" textLength="193.0" lengthAdjust="spacingAndGlyphs">Stromnetz,</tspan>
+  <tspan x="1333.0" y="476.5" font-size="21.0px" textLength="53.0" lengthAdjust="spacingAndGlyphs">um</tspan>
+  <tspan x="1405.0" y="472.5" font-size="29.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">eine</tspan>
+  <tspan x="1495.0" y="473.0" font-size="44.0px" textLength="214.0" lengthAdjust="spacingAndGlyphs">Überlastung</tspan>
+  <tspan x="1728.0" y="472.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1812.0" y="476.0" font-size="38.0px" textLength="194.0" lengthAdjust="spacingAndGlyphs">potenzielle</tspan>
+  <tspan x="42.0" y="538.0" font-size="30.0px" textLength="148.0" lengthAdjust="spacingAndGlyphs">Schäden</tspan>
+  <tspan x="203.0" y="542.5" font-size="21.0px" textLength="39.0" lengthAdjust="spacingAndGlyphs">an</tspan>
+  <tspan x="256.0" y="538.0" font-size="30.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">den</tspan>
+  <tspan x="333.0" y="539.0" font-size="28.0px" textLength="138.0" lengthAdjust="spacingAndGlyphs">Geräten</tspan>
+  <tspan x="485.0" y="538.5" font-size="29.0px" textLength="40.0" lengthAdjust="spacingAndGlyphs">im</tspan>
+  <tspan x="539.0" y="538.5" font-size="29.0px" textLength="184.0" lengthAdjust="spacingAndGlyphs">Stromnetz</tspan>
+  <tspan x="735.0" y="542.5" font-size="21.0px" textLength="37.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="785.0" y="538.0" font-size="30.0px" textLength="201.0" lengthAdjust="spacingAndGlyphs">verhindern.</tspan>
+  <tspan x="1000.0" y="538.0" font-size="30.0px" textLength="97.0" lengthAdjust="spacingAndGlyphs">Dabei</tspan>
+  <tspan x="1109.0" y="538.0" font-size="30.0px" textLength="74.0" lengthAdjust="spacingAndGlyphs">wird</tspan>
+  <tspan x="1197.0" y="538.5" font-size="29.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">eine</tspan>
+  <tspan x="1282.0" y="539.0" font-size="44.0px" textLength="214.0" lengthAdjust="spacingAndGlyphs">Überlastung</tspan>
+  <tspan x="1510.0" y="538.0" font-size="30.0px" textLength="97.0" lengthAdjust="spacingAndGlyphs">durch</tspan>
+  <tspan x="1619.0" y="538.0" font-size="30.0px" textLength="196.0" lengthAdjust="spacingAndGlyphs">Abschalten</tspan>
+  <tspan x="1827.0" y="542.5" font-size="21.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="1901.0" y="538.0" font-size="30.0px" textLength="104.0" lengthAdjust="spacingAndGlyphs">Teilen</tspan>
+  <tspan x="42.0" y="604.0" font-size="30.0px" textLength="58.0" lengthAdjust="spacingAndGlyphs">des</tspan>
+  <tspan x="114.0" y="605.0" font-size="28.0px" textLength="223.0" lengthAdjust="spacingAndGlyphs">Stromnetzes</tspan>
+  <tspan x="349.0" y="607.0" font-size="36.0px" textLength="194.0" lengthAdjust="spacingAndGlyphs">verhindert,</tspan>
+  <tspan x="559.0" y="608.5" font-size="21.0px" textLength="52.0" lengthAdjust="spacingAndGlyphs">um</tspan>
+  <tspan x="626.0" y="604.5" font-size="29.0px" textLength="72.0" lengthAdjust="spacingAndGlyphs">eine</tspan>
+  <tspan x="712.0" y="608.0" font-size="38.0px" textLength="137.0" lengthAdjust="spacingAndGlyphs">größere</tspan>
+  <tspan x="863.0" y="608.0" font-size="38.0px" textLength="371.0" lengthAdjust="spacingAndGlyphs">Stromunterbrechung</tspan>
+  <tspan x="1249.0" y="604.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">oder</tspan>
+  <tspan x="1342.0" y="604.5" font-size="29.0px" textLength="93.0" lengthAdjust="spacingAndGlyphs">einen</tspan>
+  <tspan x="1451.0" y="604.0" font-size="30.0px" textLength="226.0" lengthAdjust="spacingAndGlyphs">Stromausfall</tspan>
+  <tspan x="1689.0" y="608.5" font-size="21.0px" textLength="38.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="1741.0" y="604.0" font-size="30.0px" textLength="196.0" lengthAdjust="spacingAndGlyphs">vermeiden.</tspan>
+  <tspan x="43.0" y="695.0" font-size="36.0px" textLength="146.0" lengthAdjust="spacingAndGlyphs">Quellen:</tspan>
+</text>
+<text x="44.0" y="742.0" xml:space="preserve"> </text>
+<text x="44.0" y="743.0">
+  <tspan x="44.0" y="759.0" font-size="28.0px" textLength="27.0" lengthAdjust="spacingAndGlyphs">1.</tspan>
+  <tspan x="91.0" y="759.0" font-size="28.0px" textLength="72.0" lengthAdjust="spacingAndGlyphs">IEEE</tspan>
+  <tspan x="182.0" y="758.5" font-size="31.0px" textLength="178.0" lengthAdjust="spacingAndGlyphs">Standards</tspan>
+  <tspan x="376.0" y="759.0" font-size="28.0px" textLength="210.0" lengthAdjust="spacingAndGlyphs">Association.</tspan>
+  <tspan x="605.0" y="761.0" font-size="36.0px" textLength="123.0" lengthAdjust="spacingAndGlyphs">(2019).</tspan>
+  <tspan x="748.0" y="759.0" font-size="28.0px" textLength="73.0" lengthAdjust="spacingAndGlyphs">IEEE</tspan>
+  <tspan x="841.0" y="759.0" font-size="28.0px" textLength="228.0" lengthAdjust="spacingAndGlyphs">1547.8-2019</tspan>
+  <tspan x="1085.0" y="762.5" font-size="3.0px" textLength="20.0" lengthAdjust="spacingAndGlyphs">—</tspan>
+  <tspan x="1123.0" y="759.0" font-size="28.0px" textLength="73.0" lengthAdjust="spacingAndGlyphs">IEEE</tspan>
+  <tspan x="1215.0" y="758.5" font-size="31.0px" textLength="100.0" lengthAdjust="spacingAndGlyphs">Guide</tspan>
+  <tspan x="1332.0" y="758.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">for</tspan>
+  <tspan x="1399.0" y="762.0" font-size="38.0px" textLength="201.0" lengthAdjust="spacingAndGlyphs">Application</tspan>
+  <tspan x="1619.0" y="758.0" font-size="30.0px" textLength="36.0" lengthAdjust="spacingAndGlyphs">of</tspan>
+  <tspan x="1673.0" y="758.5" font-size="31.0px" textLength="194.0" lengthAdjust="spacingAndGlyphs">Distributed</tspan>
+  <tspan x="1887.0" y="763.5" font-size="37.0px" textLength="120.0" lengthAdjust="spacingAndGlyphs">Energy</tspan>
+  <tspan x="43.0" y="825.0" font-size="28.0px" textLength="173.0" lengthAdjust="spacingAndGlyphs">Resources</tspan>
+  <tspan x="228.0" y="824.0" font-size="30.0px" textLength="76.0" lengthAdjust="spacingAndGlyphs">with</tspan>
+  <tspan x="320.0" y="824.0" font-size="30.0px" textLength="127.0" lengthAdjust="spacingAndGlyphs">Electric</tspan>
+  <tspan x="462.0" y="825.0" font-size="28.0px" textLength="108.0" lengthAdjust="spacingAndGlyphs">Power</tspan>
+  <tspan x="583.0" y="829.0" font-size="36.0px" textLength="153.0" lengthAdjust="spacingAndGlyphs">Systems.</tspan>
+</text>
+<text x="43.0" y="874.0" xml:space="preserve"> </text>
+<text x="43.0" y="875.0">
+  <tspan x="43.0" y="891.0" font-size="28.0px" textLength="28.0" lengthAdjust="spacingAndGlyphs">2.</tspan>
+  <tspan x="84.0" y="891.0" font-size="28.0px" textLength="165.0" lengthAdjust="spacingAndGlyphs">American</tspan>
+  <tspan x="265.0" y="894.5" font-size="37.0px" textLength="128.0" lengthAdjust="spacingAndGlyphs">Society</tspan>
+  <tspan x="405.0" y="890.5" font-size="31.0px" textLength="36.0" lengthAdjust="spacingAndGlyphs">of</tspan>
+  <tspan x="455.0" y="890.0" font-size="30.0px" textLength="196.0" lengthAdjust="spacingAndGlyphs">Mechanical</tspan>
+  <tspan x="665.0" y="895.5" font-size="37.0px" textLength="180.0" lengthAdjust="spacingAndGlyphs">Engineers.</tspan>
+  <tspan x="860.0" y="893.0" font-size="36.0px" textLength="123.0" lengthAdjust="spacingAndGlyphs">(2019).</tspan>
+  <tspan x="996.0" y="891.5" font-size="29.0px" textLength="101.0" lengthAdjust="spacingAndGlyphs">ASME</tspan>
+  <tspan x="1112.0" y="894.0" font-size="34.0px" textLength="205.0" lengthAdjust="spacingAndGlyphs">B31Q-2019</tspan>
+  <tspan x="1329.0" y="894.5" font-size="3.0px" textLength="20.0" lengthAdjust="spacingAndGlyphs">-</tspan>
+  <tspan x="1362.0" y="894.0" font-size="38.0px" textLength="139.0" lengthAdjust="spacingAndGlyphs">Pipeline</tspan>
+  <tspan x="1517.0" y="890.0" font-size="30.0px" textLength="173.0" lengthAdjust="spacingAndGlyphs">Personnel</tspan>
+  <tspan x="1704.0" y="893.0" font-size="36.0px" textLength="236.0" lengthAdjust="spacingAndGlyphs">Qualification.</tspan>
+</text>
+<text x="42.0" y="940.0" xml:space="preserve"> </text>
+<text x="42.0" y="941.0">
+  <tspan x="42.0" y="957.0" font-size="28.0px" textLength="29.0" lengthAdjust="spacingAndGlyphs">3.</tspan>
+  <tspan x="86.0" y="956.0" font-size="30.0px" textLength="228.0" lengthAdjust="spacingAndGlyphs">International</tspan>
+  <tspan x="329.0" y="956.0" font-size="30.0px" textLength="282.0" lengthAdjust="spacingAndGlyphs">Electrotechnical</tspan>
+  <tspan x="624.0" y="957.0" font-size="28.0px" textLength="224.0" lengthAdjust="spacingAndGlyphs">Commission.</tspan>
+  <tspan x="862.0" y="959.0" font-size="36.0px" textLength="123.0" lengthAdjust="spacingAndGlyphs">(2019).</tspan>
+  <tspan x="1000.0" y="957.0" font-size="28.0px" textLength="52.0" lengthAdjust="spacingAndGlyphs">IEC</tspan>
+  <tspan x="1065.0" y="957.0" font-size="28.0px" textLength="253.0" lengthAdjust="spacingAndGlyphs">60909-0:2019</tspan>
+  <tspan x="1330.0" y="960.5" font-size="3.0px" textLength="20.0" lengthAdjust="spacingAndGlyphs">-</tspan>
+  <tspan x="1362.0" y="956.5" font-size="31.0px" textLength="220.0" lengthAdjust="spacingAndGlyphs">Short-circuit</tspan>
+  <tspan x="1595.0" y="958.0" font-size="26.0px" textLength="143.0" lengthAdjust="spacingAndGlyphs">currents</tspan>
+  <tspan x="1752.0" y="957.0" font-size="28.0px" textLength="28.0" lengthAdjust="spacingAndGlyphs">in</tspan>
+  <tspan x="1793.0" y="960.0" font-size="38.0px" textLength="213.0" lengthAdjust="spacingAndGlyphs">three-phase</tspan>
+  <tspan x="42.0" y="1026.5" font-size="21.0px" textLength="54.0" lengthAdjust="spacingAndGlyphs">a.c.</tspan>
+  <tspan x="111.0" y="1028.5" font-size="35.0px" textLength="140.0" lengthAdjust="spacingAndGlyphs">systems</tspan>
+  <tspan x="262.0" y="1026.5" font-size="3.0px" textLength="20.0" lengthAdjust="spacingAndGlyphs">—</tspan>
+  <tspan x="296.0" y="1023.0" font-size="28.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">Part</tspan>
+  <tspan x="379.0" y="1023.0" font-size="28.0px" textLength="30.0" lengthAdjust="spacingAndGlyphs">O:</tspan>
+  <tspan x="424.0" y="1022.0" font-size="30.0px" textLength="195.0" lengthAdjust="spacingAndGlyphs">Calculation</tspan>
+  <tspan x="634.0" y="1022.0" font-size="30.0px" textLength="36.0" lengthAdjust="spacingAndGlyphs">of</tspan>
+  <tspan x="682.0" y="1024.0" font-size="26.0px" textLength="152.0" lengthAdjust="spacingAndGlyphs">currents.</tspan>
+</text>
+<text x="41.0" y="1072.0" xml:space="preserve"> </text>
+<text x="41.0" y="1073.0">
+  <tspan x="41.0" y="1089.0" font-size="28.0px" textLength="30.0" lengthAdjust="spacingAndGlyphs">4.</tspan>
+  <tspan x="94.0" y="1093.5" font-size="37.0px" textLength="202.0" lengthAdjust="spacingAndGlyphs">Energy.gov.</tspan>
+  <tspan x="319.0" y="1091.0" font-size="36.0px" textLength="96.0" lengthAdjust="spacingAndGlyphs">(n.d.).</tspan>
+  <tspan x="438.0" y="1089.5" font-size="29.0px" textLength="106.0" lengthAdjust="spacingAndGlyphs">Smart</tspan>
+  <tspan x="566.0" y="1088.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">Grid.</tspan>
+  <tspan x="667.0" y="1092.5" font-size="39.0px" textLength="186.0" lengthAdjust="spacingAndGlyphs">Abgerufen</tspan>
+  <tspan x="876.0" y="1092.5" font-size="21.0px" textLength="52.0" lengthAdjust="spacingAndGlyphs">am</tspan>
+  <tspan x="951.0" y="1089.0" font-size="28.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">20.</tspan>
+  <tspan x="1026.0" y="1089.0" font-size="28.0px" textLength="84.0" lengthAdjust="spacingAndGlyphs">März</tspan>
+  <tspan x="1132.0" y="1092.0" font-size="34.0px" textLength="97.0" lengthAdjust="spacingAndGlyphs">2023,</tspan>
+  <tspan x="1251.0" y="1092.5" font-size="21.0px" textLength="62.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="1337.0" y="1092.5" font-size="39.0px" textLength="668.0" lengthAdjust="spacingAndGlyphs">https://www.energy.qov/oe/services/</tspan>
+</text>
+</svg>

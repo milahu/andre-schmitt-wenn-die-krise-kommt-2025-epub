@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0169-00100.avif"/>
+<text x="47.0" y="752.0" xml:space="preserve"> </text>
+<text x="47.0" y="753.0">
+  <tspan x="47.0" y="776.5" font-size="35.0px" textLength="258.0" lengthAdjust="spacingAndGlyphs">Voll-Expression</tspan>
+  <tspan x="317.0" y="777.0" font-size="20.0px" textLength="59.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="388.0" y="773.5" font-size="41.0px" textLength="92.0" lengthAdjust="spacingAndGlyphs">Ärger</tspan>
+</text>
+<text x="48.0" y="836.0" xml:space="preserve"> </text>
+<text x="48.0" y="837.0">
+  <tspan x="48.0" y="853.0" font-size="10.0px" textLength="10.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="69.0" y="853.5" font-size="29.0px" textLength="294.0" lengthAdjust="spacingAndGlyphs">Zusammengezogene</tspan>
+  <tspan x="373.0" y="853.0" font-size="30.0px" textLength="198.0" lengthAdjust="spacingAndGlyphs">Augenbrauen,</tspan>
+  <tspan x="584.0" y="850.0" font-size="24.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">nach</tspan>
+  <tspan x="661.0" y="850.5" font-size="23.0px" textLength="76.0" lengthAdjust="spacingAndGlyphs">innen</tspan>
+  <tspan x="748.0" y="850.0" font-size="24.0px" textLength="123.0" lengthAdjust="spacingAndGlyphs">vertikale</tspan>
+  <tspan x="882.0" y="849.5" font-size="25.0px" textLength="130.0" lengthAdjust="spacingAndGlyphs">Stimfalte</tspan>
+  <tspan x="48.0" y="942.0" font-size="10.0px" textLength="10.0" lengthAdjust="spacingAndGlyphs">*</tspan>
+  <tspan x="70.0" y="939.0" font-size="22.0px" textLength="108.0" lengthAdjust="spacingAndGlyphs">Unteres</tspan>
+  <tspan x="188.0" y="941.5" font-size="31.0px" textLength="125.0" lengthAdjust="spacingAndGlyphs">Augenlid</tspan>
+  <tspan x="326.0" y="938.5" font-size="23.0px" textLength="31.0" lengthAdjust="spacingAndGlyphs">ist</tspan>
+  <tspan x="367.0" y="943.0" font-size="28.0px" textLength="167.0" lengthAdjust="spacingAndGlyphs">angespannt</tspan>
+</text>
+<text x="49.0" y="991.0" xml:space="preserve"> </text>
+<text x="49.0" y="992.0">
+  <tspan x="49.0" y="1007.5" font-size="31.0px" textLength="334.0" lengthAdjust="spacingAndGlyphs">(“zusammengekniffen”)</tspan>
+</text>
+<text x="48.0" y="1081.0" xml:space="preserve"> </text>
+<text x="48.0" y="1082.0">
+  <tspan x="48.0" y="1096.0" font-size="10.0px" textLength="10.0" lengthAdjust="spacingAndGlyphs">*</tspan>
+  <tspan x="69.0" y="1096.5" font-size="29.0px" textLength="294.0" lengthAdjust="spacingAndGlyphs">Zusammengepresste</tspan>
+</text>
+</svg>

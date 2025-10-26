@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0521-00100.avif"/>
+<text x="365.0" y="561.0" xml:space="preserve"> </text>
+<text x="365.0" y="562.0">
+  <tspan x="365.0" y="605.5" font-size="87.0px" textLength="299.0" lengthAdjust="spacingAndGlyphs">Kapitel</tspan>
+  <tspan x="693.0" y="598.5" font-size="67.0px" textLength="102.0" lengthAdjust="spacingAndGlyphs">04</tspan>
+  <tspan x="821.0" y="606.5" font-size="11.0px" textLength="46.0" lengthAdjust="spacingAndGlyphs">-</tspan>
+  <tspan x="898.0" y="597.0" font-size="70.0px" textLength="195.0" lengthAdjust="spacingAndGlyphs">Fazit</tspan>
+  <tspan x="1125.0" y="597.5" font-size="69.0px" textLength="154.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1310.0" y="606.5" font-size="87.0px" textLength="376.0" lengthAdjust="spacingAndGlyphs">Anhänge</tspan>
+</text>
+</svg>

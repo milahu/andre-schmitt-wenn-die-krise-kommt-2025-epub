@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0277-00100.avif"/>
+<text x="42.0" y="16.0" xml:space="preserve"> </text>
+<text x="42.0" y="17.0">
+  <tspan x="42.0" y="33.5" font-size="27.0px" textLength="107.0" lengthAdjust="spacingAndGlyphs">ersten</tspan>
+  <tspan x="164.0" y="32.0" font-size="30.0px" textLength="65.0" lengthAdjust="spacingAndGlyphs">drei</tspan>
+  <tspan x="245.0" y="32.5" font-size="29.0px" textLength="131.0" lengthAdjust="spacingAndGlyphs">Monate</tspan>
+  <tspan x="391.0" y="32.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">nach</tspan>
+  <tspan x="485.0" y="32.0" font-size="30.0px" textLength="164.0" lengthAdjust="spacingAndGlyphs">Ausbruch</tspan>
+  <tspan x="664.0" y="32.5" font-size="29.0px" textLength="89.0" lengthAdjust="spacingAndGlyphs">eines</tspan>
+  <tspan x="769.0" y="34.5" font-size="35.0px" textLength="175.0" lengthAdjust="spacingAndGlyphs">Blackouts,</tspan>
+  <tspan x="960.0" y="36.0" font-size="22.0px" textLength="53.0" lengthAdjust="spacingAndGlyphs">um</tspan>
+  <tspan x="1028.0" y="32.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">auch</tspan>
+  <tspan x="1123.0" y="32.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="1189.0" y="32.0" font-size="30.0px" textLength="203.0" lengthAdjust="spacingAndGlyphs">Nachwehen</tspan>
+  <tspan x="1406.0" y="36.5" font-size="21.0px" textLength="38.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="1459.0" y="36.0" font-size="38.0px" textLength="175.0" lengthAdjust="spacingAndGlyphs">umgehen.</tspan>
+</text>
+</svg>

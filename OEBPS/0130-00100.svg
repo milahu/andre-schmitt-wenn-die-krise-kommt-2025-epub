@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0130-00100.avif"/>
+<text x="43.0" y="15.0" xml:space="preserve"> </text>
+<text x="43.0" y="16.0">
+  <tspan x="43.0" y="36.0" font-size="38.0px" textLength="218.0" lengthAdjust="spacingAndGlyphs">Bevölkerung</tspan>
+  <tspan x="278.0" y="32.5" font-size="29.0px" textLength="39.0" lengthAdjust="spacingAndGlyphs">ist</tspan>
+  <tspan x="331.0" y="31.5" font-size="31.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">auf</tspan>
+  <tspan x="402.0" y="32.0" font-size="30.0px" textLength="146.0" lengthAdjust="spacingAndGlyphs">haltbare</tspan>
+  <tspan x="564.0" y="32.0" font-size="30.0px" textLength="231.0" lengthAdjust="spacingAndGlyphs">Lebensmittel</tspan>
+  <tspan x="809.0" y="36.5" font-size="37.0px" textLength="216.0" lengthAdjust="spacingAndGlyphs">angewiesen.</tspan>
+  <tspan x="1043.0" y="36.5" font-size="37.0px" textLength="162.0" lengthAdjust="spacingAndGlyphs">Engpässe</tspan>
+  <tspan x="1222.0" y="32.0" font-size="30.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1303.0" y="36.5" font-size="37.0px" textLength="269.0" lengthAdjust="spacingAndGlyphs">Rationierungen</tspan>
+  <tspan x="1587.0" y="31.5" font-size="31.0px" textLength="116.0" lengthAdjust="spacingAndGlyphs">führen</tspan>
+  <tspan x="1719.0" y="36.5" font-size="21.0px" textLength="37.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="1774.0" y="32.0" font-size="30.0px" textLength="150.0" lengthAdjust="spacingAndGlyphs">Unruhen</tspan>
+  <tspan x="1941.0" y="32.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="41.0" y="98.0" font-size="30.0px" textLength="141.0" lengthAdjust="spacingAndGlyphs">sozialen</tspan>
+  <tspan x="197.0" y="102.5" font-size="37.0px" textLength="232.0" lengthAdjust="spacingAndGlyphs">Spannungen.</tspan>
+</text>
+<text x="43.0" y="148.0" xml:space="preserve"> </text>
+<text x="43.0" y="149.0">
+  <tspan x="43.0" y="164.0" font-size="28.0px" textLength="28.0" lengthAdjust="spacingAndGlyphs">2.</tspan>
+  <tspan x="104.0" y="164.0" font-size="30.0px" textLength="342.0" lengthAdjust="spacingAndGlyphs">Gesundheitsrisiken:</tspan>
+  <tspan x="480.0" y="164.5" font-size="29.0px" textLength="53.0" lengthAdjust="spacingAndGlyphs">Die</tspan>
+  <tspan x="565.0" y="168.0" font-size="38.0px" textLength="270.0" lengthAdjust="spacingAndGlyphs">eingeschränkte</tspan>
+  <tspan x="867.0" y="164.0" font-size="30.0px" textLength="227.0" lengthAdjust="spacingAndGlyphs">medizinische</tspan>
+  <tspan x="1125.0" y="168.5" font-size="37.0px" textLength="202.0" lengthAdjust="spacingAndGlyphs">Versorgung</tspan>
+  <tspan x="1359.0" y="164.0" font-size="30.0px" textLength="153.0" lengthAdjust="spacingAndGlyphs">während</tspan>
+  <tspan x="1545.0" y="164.5" font-size="29.0px" textLength="90.0" lengthAdjust="spacingAndGlyphs">eines</tspan>
+  <tspan x="1667.0" y="168.0" font-size="38.0px" textLength="72.0" lengthAdjust="spacingAndGlyphs">lang</tspan>
+  <tspan x="1772.0" y="164.0" font-size="30.0px" textLength="233.0" lengthAdjust="spacingAndGlyphs">andauernden</tspan>
+  <tspan x="42.0" y="230.0" font-size="30.0px" textLength="247.0" lengthAdjust="spacingAndGlyphs">Schwarzstarts</tspan>
+  <tspan x="307.0" y="230.0" font-size="30.0px" textLength="82.0" lengthAdjust="spacingAndGlyphs">kann</tspan>
+  <tspan x="407.0" y="234.5" font-size="21.0px" textLength="38.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="463.0" y="230.5" font-size="29.0px" textLength="106.0" lengthAdjust="spacingAndGlyphs">einem</tspan>
+  <tspan x="586.0" y="234.5" font-size="37.0px" textLength="132.0" lengthAdjust="spacingAndGlyphs">Anstieg</tspan>
+  <tspan x="735.0" y="234.0" font-size="22.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="817.0" y="230.0" font-size="30.0px" textLength="212.0" lengthAdjust="spacingAndGlyphs">Krankheiten</tspan>
+  <tspan x="1048.0" y="230.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1130.0" y="234.0" font-size="38.0px" textLength="235.0" lengthAdjust="spacingAndGlyphs">Verletzungen</tspan>
+  <tspan x="1382.0" y="229.5" font-size="31.0px" textLength="126.0" lengthAdjust="spacingAndGlyphs">führen.</tspan>
+  <tspan x="1528.0" y="230.0" font-size="30.0px" textLength="174.0" lengthAdjust="spacingAndGlyphs">Menschen</tspan>
+  <tspan x="1722.0" y="230.0" font-size="28.0px" textLength="56.0" lengthAdjust="spacingAndGlyphs">mit</tspan>
+  <tspan x="1795.0" y="230.0" font-size="30.0px" textLength="210.0" lengthAdjust="spacingAndGlyphs">chronischen</tspan>
+  <tspan x="43.0" y="300.0" font-size="38.0px" textLength="245.0" lengthAdjust="spacingAndGlyphs">Erkrankungen</tspan>
+  <tspan x="310.0" y="296.0" font-size="30.0px" textLength="70.0" lengthAdjust="spacingAndGlyphs">sind</tspan>
+  <tspan x="403.0" y="296.0" font-size="30.0px" textLength="180.0" lengthAdjust="spacingAndGlyphs">besonders</tspan>
+  <tspan x="604.0" y="299.5" font-size="39.0px" textLength="182.0" lengthAdjust="spacingAndGlyphs">gefährdet,</tspan>
+  <tspan x="809.0" y="296.0" font-size="30.0px" textLength="39.0" lengthAdjust="spacingAndGlyphs">da</tspan>
+  <tspan x="872.0" y="296.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">ihre</tspan>
+  <tspan x="957.0" y="300.5" font-size="37.0px" textLength="202.0" lengthAdjust="spacingAndGlyphs">Versorgung</tspan>
+  <tspan x="1183.0" y="296.0" font-size="30.0px" textLength="238.0" lengthAdjust="spacingAndGlyphs">unterbrochen</tspan>
+  <tspan x="1442.0" y="295.5" font-size="29.0px" textLength="85.0" lengthAdjust="spacingAndGlyphs">wird.</tspan>
+  <tspan x="1551.0" y="295.5" font-size="31.0px" textLength="201.0" lengthAdjust="spacingAndGlyphs">Infektionen</tspan>
+  <tspan x="1775.0" y="296.0" font-size="30.0px" textLength="143.0" lengthAdjust="spacingAndGlyphs">könnten</tspan>
+  <tspan x="1941.0" y="296.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">sich</tspan>
+  <tspan x="42.0" y="365.5" font-size="39.0px" textLength="161.0" lengthAdjust="spacingAndGlyphs">aufgrund</tspan>
+  <tspan x="234.0" y="362.0" font-size="30.0px" textLength="56.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="320.0" y="366.0" font-size="38.0px" textLength="227.0" lengthAdjust="spacingAndGlyphs">hygienischen</tspan>
+  <tspan x="579.0" y="362.0" font-size="30.0px" textLength="168.0" lengthAdjust="spacingAndGlyphs">Probleme</tspan>
+  <tspan x="775.0" y="362.5" font-size="29.0px" textLength="112.0" lengthAdjust="spacingAndGlyphs">weiter</tspan>
+  <tspan x="915.0" y="364.5" font-size="35.0px" textLength="194.0" lengthAdjust="spacingAndGlyphs">ausbreiten,</tspan>
+  <tspan x="1140.0" y="362.0" font-size="30.0px" textLength="39.0" lengthAdjust="spacingAndGlyphs">da</tspan>
+  <tspan x="1211.0" y="362.0" font-size="30.0px" textLength="91.0" lengthAdjust="spacingAndGlyphs">keine</tspan>
+  <tspan x="1332.0" y="370.0" font-size="30.0px" textLength="240.0" lengthAdjust="spacingAndGlyphs">angemessene</tspan>
+  <tspan x="1600.0" y="365.5" font-size="39.0px" textLength="310.0" lengthAdjust="spacingAndGlyphs">Abfallentsorgung</tspan>
+  <tspan x="1941.0" y="362.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="41.0" y="432.5" font-size="37.0px" textLength="293.0" lengthAdjust="spacingAndGlyphs">Wasserreinigung</tspan>
+  <tspan x="349.0" y="432.0" font-size="38.0px" textLength="241.0" lengthAdjust="spacingAndGlyphs">gewährleistet</tspan>
+  <tspan x="603.0" y="428.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">sind.</tspan>
+</text>
+<text x="42.0" y="478.0" xml:space="preserve"> </text>
+<text x="42.0" y="479.0">
+  <tspan x="42.0" y="494.5" font-size="29.0px" textLength="29.0" lengthAdjust="spacingAndGlyphs">3.</tspan>
+  <tspan x="93.0" y="497.5" font-size="37.0px" textLength="374.0" lengthAdjust="spacingAndGlyphs">Sicherheitsprobleme:</tspan>
+  <tspan x="490.0" y="494.0" font-size="28.0px" textLength="49.0" lengthAdjust="spacingAndGlyphs">Ein</tspan>
+  <tspan x="562.0" y="498.0" font-size="38.0px" textLength="73.0" lengthAdjust="spacingAndGlyphs">lang</tspan>
+  <tspan x="657.0" y="494.0" font-size="30.0px" textLength="227.0" lengthAdjust="spacingAndGlyphs">andauernder</tspan>
+  <tspan x="905.0" y="493.5" font-size="29.0px" textLength="150.0" lengthAdjust="spacingAndGlyphs">Blackout</tspan>
+  <tspan x="1077.0" y="494.0" font-size="30.0px" textLength="82.0" lengthAdjust="spacingAndGlyphs">kann</tspan>
+  <tspan x="1181.0" y="498.5" font-size="21.0px" textLength="37.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="1240.0" y="494.5" font-size="29.0px" textLength="88.0" lengthAdjust="spacingAndGlyphs">einer</tspan>
+  <tspan x="1347.0" y="494.0" font-size="30.0px" textLength="166.0" lengthAdjust="spacingAndGlyphs">Zunahme</tspan>
+  <tspan x="1533.0" y="498.0" font-size="22.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="1618.0" y="497.5" font-size="37.0px" textLength="387.0" lengthAdjust="spacingAndGlyphs">Sicherheitsproblemen</tspan>
+  <tspan x="41.0" y="559.5" font-size="31.0px" textLength="126.0" lengthAdjust="spacingAndGlyphs">führen.</tspan>
+  <tspan x="197.0" y="560.0" font-size="30.0px" textLength="94.0" lengthAdjust="spacingAndGlyphs">Ohne</tspan>
+  <tspan x="319.0" y="560.0" font-size="30.0px" textLength="233.0" lengthAdjust="spacingAndGlyphs">ausreichende</tspan>
+  <tspan x="582.0" y="564.0" font-size="38.0px" textLength="219.0" lengthAdjust="spacingAndGlyphs">Beleuchtung</tspan>
+  <tspan x="832.0" y="560.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="927.0" y="561.0" font-size="44.0px" textLength="409.0" lengthAdjust="spacingAndGlyphs">Überwachungssysteme</tspan>
+  <tspan x="1364.0" y="564.5" font-size="37.0px" textLength="99.0" lengthAdjust="spacingAndGlyphs">steigt</tspan>
+  <tspan x="1491.0" y="560.0" font-size="30.0px" textLength="58.0" lengthAdjust="spacingAndGlyphs">das</tspan>
+  <tspan x="1579.0" y="560.0" font-size="30.0px" textLength="99.0" lengthAdjust="spacingAndGlyphs">Risiko</tspan>
+  <tspan x="1706.0" y="564.0" font-size="22.0px" textLength="62.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="1799.0" y="562.5" font-size="35.0px" textLength="206.0" lengthAdjust="spacingAndGlyphs">Einbrüchen,</tspan>
+  <tspan x="43.0" y="630.0" font-size="38.0px" textLength="247.0" lengthAdjust="spacingAndGlyphs">Plünderungen</tspan>
+  <tspan x="335.0" y="626.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="444.0" y="626.0" font-size="30.0px" textLength="331.0" lengthAdjust="spacingAndGlyphs">Gewaltverbrechen.</tspan>
+  <tspan x="821.0" y="626.5" font-size="29.0px" textLength="53.0" lengthAdjust="spacingAndGlyphs">Die</tspan>
+  <tspan x="917.0" y="625.5" font-size="31.0px" textLength="190.0" lengthAdjust="spacingAndGlyphs">Öffentliche</tspan>
+  <tspan x="1151.0" y="630.0" font-size="38.0px" textLength="155.0" lengthAdjust="spacingAndGlyphs">Ordnung</tspan>
+  <tspan x="1351.0" y="626.5" font-size="29.0px" textLength="39.0" lengthAdjust="spacingAndGlyphs">ist</tspan>
+  <tspan x="1434.0" y="626.5" font-size="29.0px" textLength="117.0" lengthAdjust="spacingAndGlyphs">massiv</tspan>
+  <tspan x="1593.0" y="629.5" font-size="39.0px" textLength="181.0" lengthAdjust="spacingAndGlyphs">gefährdet,</tspan>
+  <tspan x="1817.0" y="630.0" font-size="22.0px" textLength="94.0" lengthAdjust="spacingAndGlyphs">wenn</tspan>
+  <tspan x="1955.0" y="626.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="42.0" y="695.5" font-size="39.0px" textLength="472.0" lengthAdjust="spacingAndGlyphs">Strafverfolgungsbehörden</tspan>
+  <tspan x="529.0" y="692.0" font-size="28.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">mit</tspan>
+  <tspan x="600.0" y="696.0" font-size="38.0px" textLength="199.0" lengthAdjust="spacingAndGlyphs">begrenzten</tspan>
+  <tspan x="815.0" y="692.5" font-size="29.0px" textLength="195.0" lengthAdjust="spacingAndGlyphs">Ressourcen</tspan>
+  <tspan x="1026.0" y="692.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1106.0" y="696.0" font-size="38.0px" textLength="552.0" lengthAdjust="spacingAndGlyphs">Kommunikationsmöglichkeiten</tspan>
+  <tspan x="1674.0" y="691.5" font-size="31.0px" textLength="215.0" lengthAdjust="spacingAndGlyphs">konfrontiert</tspan>
+  <tspan x="1901.0" y="692.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">sind.</tspan>
+  <tspan x="41.0" y="758.0" font-size="28.0px" textLength="30.0" lengthAdjust="spacingAndGlyphs">4.</tspan>
+  <tspan x="88.0" y="758.0" font-size="30.0px" textLength="123.0" lengthAdjust="spacingAndGlyphs">Soziale</tspan>
+  <tspan x="228.0" y="758.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="310.0" y="762.0" font-size="38.0px" textLength="267.0" lengthAdjust="spacingAndGlyphs">psychologische</tspan>
+  <tspan x="592.0" y="762.0" font-size="38.0px" textLength="262.0" lengthAdjust="spacingAndGlyphs">Auswirkungen:</tspan>
+  <tspan x="872.0" y="758.0" font-size="28.0px" textLength="49.0" lengthAdjust="spacingAndGlyphs">Ein</tspan>
+  <tspan x="940.0" y="762.0" font-size="38.0px" textLength="146.0" lengthAdjust="spacingAndGlyphs">längerer</tspan>
+  <tspan x="1102.0" y="757.5" font-size="29.0px" textLength="151.0" lengthAdjust="spacingAndGlyphs">Blackout</tspan>
+  <tspan x="1270.0" y="757.5" font-size="29.0px" textLength="82.0" lengthAdjust="spacingAndGlyphs">kann</tspan>
+  <tspan x="1369.0" y="762.5" font-size="21.0px" textLength="37.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="1425.0" y="758.0" font-size="30.0px" textLength="149.0" lengthAdjust="spacingAndGlyphs">Isolation</tspan>
+  <tspan x="1592.0" y="758.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1675.0" y="758.0" font-size="30.0px" textLength="190.0" lengthAdjust="spacingAndGlyphs">Einsamkeit</tspan>
+  <tspan x="1880.0" y="760.0" font-size="36.0px" textLength="125.0" lengthAdjust="spacingAndGlyphs">führen,</tspan>
+  <tspan x="43.0" y="824.0" font-size="30.0px" textLength="233.0" lengthAdjust="spacingAndGlyphs">insbesondere</tspan>
+  <tspan x="301.0" y="828.0" font-size="22.0px" textLength="94.0" lengthAdjust="spacingAndGlyphs">wenn</tspan>
+  <tspan x="423.0" y="824.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="502.0" y="828.0" font-size="38.0px" textLength="445.0" lengthAdjust="spacingAndGlyphs">Kommunikationssysteme</tspan>
+  <tspan x="973.0" y="824.0" font-size="30.0px" textLength="345.0" lengthAdjust="spacingAndGlyphs">zusammenbrechen.</tspan>
+  <tspan x="1347.0" y="824.0" font-size="30.0px" textLength="174.0" lengthAdjust="spacingAndGlyphs">Menschen</tspan>
+  <tspan x="1550.0" y="824.0" font-size="30.0px" textLength="128.0" lengthAdjust="spacingAndGlyphs">können</tspan>
+  <tspan x="1705.0" y="824.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">sich</tspan>
+  <tspan x="1796.0" y="828.5" font-size="37.0px" textLength="209.0" lengthAdjust="spacingAndGlyphs">verängstigt,</tspan>
+  <tspan x="43.0" y="889.5" font-size="31.0px" textLength="106.0" lengthAdjust="spacingAndGlyphs">hilflos</tspan>
+  <tspan x="171.0" y="890.0" font-size="30.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="255.0" y="889.5" font-size="31.0px" textLength="160.0" lengthAdjust="spacingAndGlyphs">frustriert</tspan>
+  <tspan x="434.0" y="892.0" font-size="36.0px" textLength="123.0" lengthAdjust="spacingAndGlyphs">fühlen,</tspan>
+  <tspan x="579.0" y="890.0" font-size="30.0px" textLength="39.0" lengthAdjust="spacingAndGlyphs">da</tspan>
+  <tspan x="640.0" y="890.5" font-size="29.0px" textLength="45.0" lengthAdjust="spacingAndGlyphs">sie</tspan>
+  <tspan x="707.0" y="890.0" font-size="30.0px" textLength="113.0" lengthAdjust="spacingAndGlyphs">keinen</tspan>
+  <tspan x="842.0" y="894.5" font-size="37.0px" textLength="131.0" lengthAdjust="spacingAndGlyphs">Zugang</tspan>
+  <tspan x="995.0" y="894.5" font-size="21.0px" textLength="37.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="1054.0" y="894.0" font-size="38.0px" textLength="269.0" lengthAdjust="spacingAndGlyphs">grundlegenden</tspan>
+  <tspan x="1347.0" y="894.0" font-size="38.0px" textLength="295.0" lengthAdjust="spacingAndGlyphs">Dienstleistungen</tspan>
+  <tspan x="1665.0" y="890.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1753.0" y="889.5" font-size="31.0px" textLength="252.0" lengthAdjust="spacingAndGlyphs">Informationen</tspan>
+  <tspan x="43.0" y="956.0" font-size="30.0px" textLength="116.0" lengthAdjust="spacingAndGlyphs">haben.</tspan>
+  <tspan x="175.0" y="956.5" font-size="29.0px" textLength="53.0" lengthAdjust="spacingAndGlyphs">Die</tspan>
+  <tspan x="243.0" y="960.0" font-size="38.0px" textLength="187.0" lengthAdjust="spacingAndGlyphs">psychische</tspan>
+  <tspan x="445.0" y="956.0" font-size="30.0px" textLength="201.0" lengthAdjust="spacingAndGlyphs">Gesundheit</tspan>
+  <tspan x="659.0" y="956.0" font-size="30.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="729.0" y="960.0" font-size="38.0px" textLength="218.0" lengthAdjust="spacingAndGlyphs">Bevölkerung</tspan>
+  <tspan x="963.0" y="956.0" font-size="30.0px" textLength="83.0" lengthAdjust="spacingAndGlyphs">kann</tspan>
+  <tspan x="1061.0" y="957.5" font-size="27.0px" textLength="94.0" lengthAdjust="spacingAndGlyphs">unter</tspan>
+  <tspan x="1168.0" y="956.0" font-size="30.0px" textLength="111.0" lengthAdjust="spacingAndGlyphs">diesen</tspan>
+  <tspan x="1295.0" y="960.0" font-size="38.0px" textLength="232.0" lengthAdjust="spacingAndGlyphs">Bedingungen</tspan>
+  <tspan x="1542.0" y="956.0" font-size="30.0px" textLength="87.0" lengthAdjust="spacingAndGlyphs">stark</tspan>
+  <tspan x="1642.0" y="956.0" font-size="30.0px" textLength="141.0" lengthAdjust="spacingAndGlyphs">belastet</tspan>
+  <tspan x="1795.0" y="956.0" font-size="30.0px" textLength="140.0" lengthAdjust="spacingAndGlyphs">werden.</tspan>
+</text>
+</svg>

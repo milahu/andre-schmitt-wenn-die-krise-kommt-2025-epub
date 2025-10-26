@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0607-00200.avif"/>
+<text x="42.0" y="15.0" xml:space="preserve"> </text>
+<text x="42.0" y="16.0">
+  <tspan x="42.0" y="35.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="67.0" y="36.0" font-size="38.0px" textLength="256.0" lengthAdjust="spacingAndGlyphs">„Cybersecurity</tspan>
+  <tspan x="335.0" y="32.0" font-size="30.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">and</tspan>
+  <tspan x="414.0" y="32.0" font-size="30.0px" textLength="121.0" lengthAdjust="spacingAndGlyphs">Critical</tspan>
+  <tspan x="550.0" y="31.5" font-size="31.0px" textLength="241.0" lengthAdjust="spacingAndGlyphs">Infrastructure</tspan>
+  <tspan x="806.0" y="32.5" font-size="29.0px" textLength="199.0" lengthAdjust="spacingAndGlyphs">Protection“</tspan>
+  <tspan x="1019.0" y="35.5" font-size="39.0px" textLength="420.0" lengthAdjust="spacingAndGlyphs">(https://www.dhs.gov/)</tspan>
+</text>
+<text x="42.0" y="81.0" xml:space="preserve"> </text>
+<text x="42.0" y="82.0">
+  <tspan x="42.0" y="101.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">+</tspan>
+  <tspan x="67.0" y="100.5" font-size="35.0px" textLength="108.0" lengthAdjust="spacingAndGlyphs">„What</tspan>
+  <tspan x="189.0" y="98.5" font-size="29.0px" textLength="23.0" lengthAdjust="spacingAndGlyphs">is</tspan>
+  <tspan x="225.0" y="101.5" font-size="21.0px" textLength="17.0" lengthAdjust="spacingAndGlyphs">a</tspan>
+  <tspan x="258.0" y="98.5" font-size="29.0px" textLength="69.0" lengthAdjust="spacingAndGlyphs">UPS</tspan>
+  <tspan x="341.0" y="98.0" font-size="30.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">and</tspan>
+  <tspan x="421.0" y="98.5" font-size="29.0px" textLength="77.0" lengthAdjust="spacingAndGlyphs">How</tspan>
+  <tspan x="512.0" y="98.5" font-size="29.0px" textLength="84.0" lengthAdjust="spacingAndGlyphs">Does</tspan>
+  <tspan x="610.0" y="98.0" font-size="28.0px" textLength="22.0" lengthAdjust="spacingAndGlyphs">it</tspan>
+  <tspan x="644.0" y="98.0" font-size="30.0px" textLength="125.0" lengthAdjust="spacingAndGlyphs">Work?"</tspan>
+  <tspan x="784.0" y="101.5" font-size="39.0px" textLength="844.0" lengthAdjust="spacingAndGlyphs">(https://www.apc.com/us/en/faqs/FA158817/)</tspan>
+</text>
+<text x="42.0" y="147.0" xml:space="preserve"> </text>
+<text x="42.0" y="148.0">
+  <tspan x="42.0" y="167.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="67.0" y="166.5" font-size="35.0px" textLength="86.0" lengthAdjust="spacingAndGlyphs">„Grid</tspan>
+  <tspan x="169.0" y="164.0" font-size="30.0px" textLength="181.0" lengthAdjust="spacingAndGlyphs">Resilience:</tspan>
+  <tspan x="366.0" y="168.0" font-size="38.0px" textLength="260.0" lengthAdjust="spacingAndGlyphs">Understanding</tspan>
+  <tspan x="641.0" y="164.0" font-size="30.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">Grid</tspan>
+  <tspan x="728.0" y="164.0" font-size="30.0px" textLength="188.0" lengthAdjust="spacingAndGlyphs">Resilience"</tspan>
+  <tspan x="930.0" y="167.5" font-size="39.0px" textLength="477.0" lengthAdjust="spacingAndGlyphs">(https://www.energy.gov/)</tspan>
+</text>
+<text x="42.0" y="238.0" xml:space="preserve"> </text>
+<text x="42.0" y="239.0">
+  <tspan x="42.0" y="257.0" font-size="36.0px" textLength="340.0" lengthAdjust="spacingAndGlyphs">Notstromaggregat</tspan>
+</text>
+<text x="43.0" y="301.0" xml:space="preserve"> </text>
+<text x="43.0" y="302.0">
+  <tspan x="43.0" y="318.0" font-size="28.0px" textLength="50.0" lengthAdjust="spacingAndGlyphs">Ein</tspan>
+  <tspan x="111.0" y="323.0" font-size="36.0px" textLength="328.0" lengthAdjust="spacingAndGlyphs">Notstromaggregat</tspan>
+  <tspan x="454.0" y="318.5" font-size="29.0px" textLength="39.0" lengthAdjust="spacingAndGlyphs">ist</tspan>
+  <tspan x="507.0" y="318.5" font-size="29.0px" textLength="50.0" lengthAdjust="spacingAndGlyphs">ein</tspan>
+  <tspan x="574.0" y="321.0" font-size="34.0px" textLength="103.0" lengthAdjust="spacingAndGlyphs">Gerät,</tspan>
+  <tspan x="694.0" y="318.0" font-size="30.0px" textLength="58.0" lengthAdjust="spacingAndGlyphs">das</tspan>
+  <tspan x="768.0" y="318.0" font-size="28.0px" textLength="40.0" lengthAdjust="spacingAndGlyphs">im</tspan>
+  <tspan x="826.0" y="318.0" font-size="30.0px" textLength="79.0" lengthAdjust="spacingAndGlyphs">Falle</tspan>
+  <tspan x="920.0" y="318.5" font-size="29.0px" textLength="89.0" lengthAdjust="spacingAndGlyphs">eines</tspan>
+  <tspan x="1025.0" y="317.5" font-size="31.0px" textLength="242.0" lengthAdjust="spacingAndGlyphs">Stromausfalls</tspan>
+  <tspan x="1282.0" y="318.0" font-size="30.0px" textLength="46.0" lengthAdjust="spacingAndGlyphs">als</tspan>
+  <tspan x="1345.0" y="322.0" font-size="38.0px" textLength="361.0" lengthAdjust="spacingAndGlyphs">Backup-Stromquelle</tspan>
+  <tspan x="1721.0" y="318.0" font-size="30.0px" textLength="98.0" lengthAdjust="spacingAndGlyphs">dient.</tspan>
+  <tspan x="1837.0" y="319.0" font-size="28.0px" textLength="35.0" lengthAdjust="spacingAndGlyphs">Es</tspan>
+  <tspan x="1885.0" y="318.0" font-size="30.0px" textLength="75.0" lengthAdjust="spacingAndGlyphs">wird</tspan>
+  <tspan x="1977.0" y="318.0" font-size="28.0px" textLength="28.0" lengthAdjust="spacingAndGlyphs">in</tspan>
+  <tspan x="42.0" y="384.0" font-size="30.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="115.0" y="388.0" font-size="38.0px" textLength="95.0" lengthAdjust="spacingAndGlyphs">Regel</tspan>
+  <tspan x="225.0" y="388.5" font-size="21.0px" textLength="62.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="305.0" y="384.5" font-size="29.0px" textLength="105.0" lengthAdjust="spacingAndGlyphs">einem</tspan>
+  <tspan x="426.0" y="388.0" font-size="38.0px" textLength="361.0" lengthAdjust="spacingAndGlyphs">Verbrennungsmotor</tspan>
+  <tspan x="802.0" y="388.0" font-size="38.0px" textLength="212.0" lengthAdjust="spacingAndGlyphs">angetrieben</tspan>
+  <tspan x="1032.0" y="384.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1113.0" y="390.0" font-size="34.0px" textLength="134.0" lengthAdjust="spacingAndGlyphs">erzeugt</tspan>
+  <tspan x="1262.0" y="384.0" font-size="30.0px" textLength="190.0" lengthAdjust="spacingAndGlyphs">elektrische</tspan>
+  <tspan x="1470.0" y="388.5" font-size="37.0px" textLength="130.0" lengthAdjust="spacingAndGlyphs">Energie</tspan>
+  <tspan x="1617.0" y="384.0" font-size="30.0px" textLength="79.0" lengthAdjust="spacingAndGlyphs">über</tspan>
+  <tspan x="1710.0" y="384.5" font-size="29.0px" textLength="94.0" lengthAdjust="spacingAndGlyphs">einen</tspan>
+  <tspan x="1822.0" y="384.5" font-size="29.0px" textLength="184.0" lengthAdjust="spacingAndGlyphs">Generator.</tspan>
+  <tspan x="43.0" y="450.5" font-size="29.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">Hier</tspan>
+  <tspan x="126.0" y="450.0" font-size="30.0px" textLength="69.0" lengthAdjust="spacingAndGlyphs">sind</tspan>
+  <tspan x="211.0" y="454.5" font-size="37.0px" textLength="104.0" lengthAdjust="spacingAndGlyphs">einige</tspan>
+  <tspan x="328.0" y="454.0" font-size="38.0px" textLength="149.0" lengthAdjust="spacingAndGlyphs">wichtige</tspan>
+  <tspan x="492.0" y="453.5" font-size="39.0px" textLength="146.0" lengthAdjust="spacingAndGlyphs">Begriffe,</tspan>
+  <tspan x="653.0" y="450.0" font-size="30.0px" textLength="50.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="718.0" y="450.5" font-size="29.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">mit</tspan>
+  <tspan x="790.0" y="455.0" font-size="36.0px" textLength="370.0" lengthAdjust="spacingAndGlyphs">Notstromaggregaten</tspan>
+  <tspan x="1174.0" y="450.0" font-size="30.0px" textLength="189.0" lengthAdjust="spacingAndGlyphs">verbunden</tspan>
+  <tspan x="1377.0" y="450.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">sind:</tspan>
+</text>
+<text x="42.0" y="522.0" xml:space="preserve"> </text>
+<text x="42.0" y="523.0">
+  <tspan x="42.0" y="542.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="69.0" y="542.5" font-size="37.0px" textLength="157.0" lengthAdjust="spacingAndGlyphs">Leistung:</tspan>
+  <tspan x="244.0" y="538.5" font-size="29.0px" textLength="53.0" lengthAdjust="spacingAndGlyphs">Die</tspan>
+  <tspan x="314.0" y="542.5" font-size="37.0px" textLength="147.0" lengthAdjust="spacingAndGlyphs">Leistung</tspan>
+  <tspan x="478.0" y="538.5" font-size="29.0px" textLength="89.0" lengthAdjust="spacingAndGlyphs">eines</tspan>
+  <tspan x="583.0" y="543.0" font-size="36.0px" textLength="345.0" lengthAdjust="spacingAndGlyphs">Notstromaggregats</tspan>
+  <tspan x="942.0" y="538.0" font-size="30.0px" textLength="74.0" lengthAdjust="spacingAndGlyphs">wird</tspan>
+  <tspan x="1034.0" y="538.5" font-size="29.0px" textLength="28.0" lengthAdjust="spacingAndGlyphs">in</tspan>
+  <tspan x="1077.0" y="539.0" font-size="28.0px" textLength="86.0" lengthAdjust="spacingAndGlyphs">Watt</tspan>
+  <tspan x="1177.0" y="538.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">oder</tspan>
+  <tspan x="1272.0" y="538.0" font-size="30.0px" textLength="147.0" lengthAdjust="spacingAndGlyphs">Kilowatt</tspan>
+  <tspan x="1434.0" y="540.5" font-size="35.0px" textLength="78.0" lengthAdjust="spacingAndGlyphs">(kW)</tspan>
+  <tspan x="1528.0" y="546.5" font-size="29.0px" textLength="174.0" lengthAdjust="spacingAndGlyphs">gemessen</tspan>
+  <tspan x="1719.0" y="538.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1799.0" y="542.0" font-size="38.0px" textLength="69.0" lengthAdjust="spacingAndGlyphs">gibt</tspan>
+  <tspan x="1882.0" y="545.5" font-size="27.0px" textLength="50.0" lengthAdjust="spacingAndGlyphs">an,</tspan>
+  <tspan x="1947.0" y="538.5" font-size="29.0px" textLength="59.0" lengthAdjust="spacingAndGlyphs">wie</tspan>
+  <tspan x="41.0" y="604.0" font-size="30.0px" textLength="60.0" lengthAdjust="spacingAndGlyphs">viel</tspan>
+  <tspan x="116.0" y="608.5" font-size="37.0px" textLength="130.0" lengthAdjust="spacingAndGlyphs">Energie</tspan>
+  <tspan x="260.0" y="604.0" font-size="30.0px" textLength="58.0" lengthAdjust="spacingAndGlyphs">das</tspan>
+  <tspan x="330.0" y="609.0" font-size="36.0px" textLength="164.0" lengthAdjust="spacingAndGlyphs">Aggregat</tspan>
+  <tspan x="507.0" y="612.5" font-size="29.0px" textLength="161.0" lengthAdjust="spacingAndGlyphs">erzeugen</tspan>
+  <tspan x="683.0" y="604.0" font-size="30.0px" textLength="93.0" lengthAdjust="spacingAndGlyphs">kann.</tspan>
+</text>
+<text x="42.0" y="654.0" xml:space="preserve"> </text>
+<text x="42.0" y="655.0">
+  <tspan x="42.0" y="674.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">*</tspan>
+  <tspan x="69.0" y="674.5" font-size="37.0px" textLength="174.0" lengthAdjust="spacingAndGlyphs">Kapazität:</tspan>
+  <tspan x="259.0" y="670.5" font-size="29.0px" textLength="54.0" lengthAdjust="spacingAndGlyphs">Die</tspan>
+  <tspan x="329.0" y="674.5" font-size="37.0px" textLength="165.0" lengthAdjust="spacingAndGlyphs">Kapazität</tspan>
+  <tspan x="508.0" y="670.5" font-size="29.0px" textLength="90.0" lengthAdjust="spacingAndGlyphs">eines</tspan>
+  <tspan x="613.0" y="675.0" font-size="36.0px" textLength="345.0" lengthAdjust="spacingAndGlyphs">Notstromaggregats</tspan>
+  <tspan x="971.0" y="670.0" font-size="30.0px" textLength="75.0" lengthAdjust="spacingAndGlyphs">wird</tspan>
+  <tspan x="1062.0" y="670.5" font-size="29.0px" textLength="28.0" lengthAdjust="spacingAndGlyphs">in</tspan>
+  <tspan x="1108.0" y="670.0" font-size="30.0px" textLength="290.0" lengthAdjust="spacingAndGlyphs">Kilowattstunden</tspan>
+  <tspan x="1414.0" y="672.5" font-size="35.0px" textLength="101.0" lengthAdjust="spacingAndGlyphs">(kWh)</tspan>
+  <tspan x="1530.0" y="678.5" font-size="29.0px" textLength="174.0" lengthAdjust="spacingAndGlyphs">gemessen</tspan>
+  <tspan x="1721.0" y="670.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1800.0" y="674.0" font-size="38.0px" textLength="69.0" lengthAdjust="spacingAndGlyphs">gibt</tspan>
+  <tspan x="1883.0" y="677.5" font-size="27.0px" textLength="49.0" lengthAdjust="spacingAndGlyphs">an,</tspan>
+  <tspan x="1947.0" y="670.5" font-size="29.0px" textLength="59.0" lengthAdjust="spacingAndGlyphs">wie</tspan>
+  <tspan x="41.0" y="736.0" font-size="30.0px" textLength="60.0" lengthAdjust="spacingAndGlyphs">viel</tspan>
+  <tspan x="116.0" y="740.5" font-size="37.0px" textLength="130.0" lengthAdjust="spacingAndGlyphs">Energie</tspan>
+  <tspan x="260.0" y="736.0" font-size="30.0px" textLength="58.0" lengthAdjust="spacingAndGlyphs">das</tspan>
+  <tspan x="330.0" y="741.0" font-size="36.0px" textLength="164.0" lengthAdjust="spacingAndGlyphs">Aggregat</tspan>
+  <tspan x="506.0" y="740.0" font-size="38.0px" textLength="168.0" lengthAdjust="spacingAndGlyphs">speichern</tspan>
+  <tspan x="690.0" y="736.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="770.0" y="736.0" font-size="30.0px" textLength="110.0" lengthAdjust="spacingAndGlyphs">liefern</tspan>
+  <tspan x="896.0" y="736.0" font-size="30.0px" textLength="93.0" lengthAdjust="spacingAndGlyphs">kann.</tspan>
+</text>
+<text x="42.0" y="786.0" xml:space="preserve"> </text>
+<text x="42.0" y="787.0">
+  <tspan x="42.0" y="806.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">*</tspan>
+  <tspan x="76.0" y="802.0" font-size="30.0px" textLength="263.0" lengthAdjust="spacingAndGlyphs">Automatisches</tspan>
+  <tspan x="363.0" y="806.5" font-size="37.0px" textLength="220.0" lengthAdjust="spacingAndGlyphs">Startsystem:</tspan>
+  <tspan x="610.0" y="802.5" font-size="29.0px" textLength="50.0" lengthAdjust="spacingAndGlyphs">Ein</tspan>
+  <tspan x="685.0" y="802.0" font-size="30.0px" textLength="257.0" lengthAdjust="spacingAndGlyphs">automatisches</tspan>
+  <tspan x="966.0" y="806.5" font-size="37.0px" textLength="211.0" lengthAdjust="spacingAndGlyphs">Startsystem</tspan>
+  <tspan x="1203.0" y="806.0" font-size="38.0px" textLength="192.0" lengthAdjust="spacingAndGlyphs">ermöglicht</tspan>
+  <tspan x="1418.0" y="806.5" font-size="21.0px" textLength="36.0" lengthAdjust="spacingAndGlyphs">es</tspan>
+  <tspan x="1478.0" y="802.0" font-size="30.0px" textLength="75.0" lengthAdjust="spacingAndGlyphs">dem</tspan>
+  <tspan x="1580.0" y="807.0" font-size="36.0px" textLength="335.0" lengthAdjust="spacingAndGlyphs">Notstromaggregat,</tspan>
+  <tspan x="1941.0" y="802.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">sich</tspan>
+  <tspan x="42.0" y="868.0" font-size="30.0px" textLength="217.0" lengthAdjust="spacingAndGlyphs">automatisch</tspan>
+  <tspan x="273.0" y="872.5" font-size="21.0px" textLength="38.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="325.0" y="873.0" font-size="32.0px" textLength="134.0" lengthAdjust="spacingAndGlyphs">starten,</tspan>
+  <tspan x="473.0" y="872.5" font-size="21.0px" textLength="94.0" lengthAdjust="spacingAndGlyphs">wenn</tspan>
+  <tspan x="582.0" y="868.5" font-size="29.0px" textLength="50.0" lengthAdjust="spacingAndGlyphs">ein</tspan>
+  <tspan x="647.0" y="868.0" font-size="30.0px" textLength="226.0" lengthAdjust="spacingAndGlyphs">Stromausfall</tspan>
+  <tspan x="886.0" y="868.0" font-size="30.0px" textLength="137.0" lengthAdjust="spacingAndGlyphs">erkannt</tspan>
+  <tspan x="1034.0" y="868.0" font-size="30.0px" textLength="85.0" lengthAdjust="spacingAndGlyphs">wird.</tspan>
+</text>
+<text x="42.0" y="918.0" xml:space="preserve"> </text>
+<text x="42.0" y="919.0">
+  <tspan x="42.0" y="938.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="67.0" y="934.0" font-size="30.0px" textLength="230.0" lengthAdjust="spacingAndGlyphs">Kraftstoffart:</tspan>
+  <tspan x="312.0" y="939.0" font-size="36.0px" textLength="348.0" lengthAdjust="spacingAndGlyphs">Notstromaggregate</tspan>
+  <tspan x="674.0" y="934.0" font-size="30.0px" textLength="127.0" lengthAdjust="spacingAndGlyphs">können</tspan>
+  <tspan x="816.0" y="934.5" font-size="29.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">mit</tspan>
+  <tspan x="884.0" y="934.0" font-size="30.0px" textLength="254.0" lengthAdjust="spacingAndGlyphs">verschiedenen</tspan>
+  <tspan x="1150.0" y="935.0" font-size="28.0px" textLength="98.0" lengthAdjust="spacingAndGlyphs">Arten</tspan>
+  <tspan x="1260.0" y="938.5" font-size="21.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="1338.0" y="934.0" font-size="30.0px" textLength="171.0" lengthAdjust="spacingAndGlyphs">Kraftstoff</tspan>
+  <tspan x="1521.0" y="934.0" font-size="30.0px" textLength="167.0" lengthAdjust="spacingAndGlyphs">betrieben</tspan>
+  <tspan x="1701.0" y="937.0" font-size="36.0px" textLength="139.0" lengthAdjust="spacingAndGlyphs">werden,</tspan>
+  <tspan x="1854.0" y="934.0" font-size="30.0px" textLength="154.0" lengthAdjust="spacingAndGlyphs">darunter</tspan>
+  <tspan x="43.0" y="1003.5" font-size="35.0px" textLength="125.0" lengthAdjust="spacingAndGlyphs">Benzin,</tspan>
+  <tspan x="184.0" y="1003.0" font-size="36.0px" textLength="111.0" lengthAdjust="spacingAndGlyphs">Diesel,</tspan>
+  <tspan x="312.0" y="1004.0" font-size="38.0px" textLength="116.0" lengthAdjust="spacingAndGlyphs">Erdgas</tspan>
+  <tspan x="442.0" y="1000.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="523.0" y="1005.0" font-size="36.0px" textLength="132.0" lengthAdjust="spacingAndGlyphs">Propan.</tspan>
+</text>
+<text x="42.0" y="1050.0" xml:space="preserve"> </text>
+<text x="42.0" y="1051.0">
+  <tspan x="42.0" y="1070.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">se</tspan>
+  <tspan x="93.0" y="1070.0" font-size="38.0px" textLength="299.0" lengthAdjust="spacingAndGlyphs">Schallddmpfung:</tspan>
+  <tspan x="434.0" y="1071.0" font-size="36.0px" textLength="348.0" lengthAdjust="spacingAndGlyphs">Notstromaggregate</tspan>
+  <tspan x="823.0" y="1066.0" font-size="30.0px" textLength="128.0" lengthAdjust="spacingAndGlyphs">können</tspan>
+  <tspan x="992.0" y="1066.5" font-size="29.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">mit</tspan>
+  <tspan x="1089.0" y="1070.0" font-size="38.0px" textLength="279.0" lengthAdjust="spacingAndGlyphs">Schallddmpfern</tspan>
+  <tspan x="1408.0" y="1072.0" font-size="34.0px" textLength="222.0" lengthAdjust="spacingAndGlyphs">ausgestattet</tspan>
+  <tspan x="1668.0" y="1069.0" font-size="36.0px" textLength="139.0" lengthAdjust="spacingAndGlyphs">werden,</tspan>
+  <tspan x="1849.0" y="1070.5" font-size="21.0px" textLength="53.0" lengthAdjust="spacingAndGlyphs">um</tspan>
+  <tspan x="1942.0" y="1066.0" font-size="30.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">den</tspan>
+</text>
+</svg>

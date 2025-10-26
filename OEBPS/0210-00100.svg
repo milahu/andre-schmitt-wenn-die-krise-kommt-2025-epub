@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0210-00100.avif"/>
+<text x="42.0" y="136.0" xml:space="preserve"> </text>
+<text x="42.0" y="137.0">
+  <tspan x="42.0" y="161.5" font-size="121.0px" textLength="702.0" lengthAdjust="spacingAndGlyphs">Trew</tspan>
+  <tspan x="925.0" y="161.5" font-size="121.0px" textLength="381.0" lengthAdjust="spacingAndGlyphs">[www</tspan>
+  <tspan x="42.0" y="298.5" font-size="63.0px" textLength="231.0" lengthAdjust="spacingAndGlyphs">7</tspan>
+  <tspan x="499.0" y="291.5" font-size="121.0px" textLength="265.0" lengthAdjust="spacingAndGlyphs">rtuskelfaseriss</tspan>
+  <tspan x="786.0" y="291.5" font-size="121.0px" textLength="77.0" lengthAdjust="spacingAndGlyphs">Grad</tspan>
+  <tspan x="869.0" y="298.5" font-size="63.0px" textLength="437.0" lengthAdjust="spacingAndGlyphs">128</tspan>
+  <tspan x="38.0" y="357.5" font-size="121.0px" textLength="232.0" lengthAdjust="spacingAndGlyphs">TT</tspan>
+  <tspan x="461.0" y="357.5" font-size="121.0px" textLength="424.0" lengthAdjust="spacingAndGlyphs">[riskelfasenissörad2</tspan>
+  <tspan x="955.0" y="357.5" font-size="121.0px" textLength="354.0" lengthAdjust="spacingAndGlyphs">usm]</tspan>
+  <tspan x="38.0" y="422.5" font-size="121.0px" textLength="253.0" lengthAdjust="spacingAndGlyphs">EE</tspan>
+  <tspan x="491.0" y="422.5" font-size="121.0px" textLength="243.0" lengthAdjust="spacingAndGlyphs">TT</tspan>
+  <tspan x="786.0" y="422.5" font-size="121.0px" textLength="99.0" lengthAdjust="spacingAndGlyphs">Grad3</tspan>
+  <tspan x="946.0" y="429.5" font-size="63.0px" textLength="360.0" lengthAdjust="spacingAndGlyphs">PR</tspan>
+  <tspan x="38.0" y="553.5" font-size="121.0px" textLength="212.0" lengthAdjust="spacingAndGlyphs">7</tspan>
+  <tspan x="453.0" y="560.5" font-size="63.0px" textLength="10.0" lengthAdjust="spacingAndGlyphs">|</tspan>
+  <tspan x="491.0" y="553.5" font-size="121.0px" textLength="190.0" lengthAdjust="spacingAndGlyphs">Bänderriss</tspan>
+  <tspan x="695.0" y="553.5" font-size="121.0px" textLength="107.0" lengthAdjust="spacingAndGlyphs">Grad2</tspan>
+  <tspan x="885.0" y="553.5" font-size="121.0px" textLength="232.0" lengthAdjust="spacingAndGlyphs">Juve</tspan>
+  <tspan x="1227.0" y="560.5" font-size="63.0px" textLength="79.0" lengthAdjust="spacingAndGlyphs">|</tspan>
+  <tspan x="42.0" y="625.5" font-size="63.0px" textLength="1264.0" lengthAdjust="spacingAndGlyphs"> [Bänderriss</tspan>
+  <tspan x="695.0" y="618.5" font-size="121.0px" textLength="266.0" lengthAdjust="spacingAndGlyphs">Grad3_|</tspan>
+  <tspan x="983.0" y="618.5" font-size="121.0px" textLength="167.0" lengthAdjust="spacingAndGlyphs">3sbis368</tspan>
+  <tspan x="1237.0" y="618.5" font-size="121.0px" textLength="72.0" lengthAdjust="spacingAndGlyphs">|</tspan>
+  <tspan x="42.0" y="691.5" font-size="63.0px" textLength="1264.0" lengthAdjust="spacingAndGlyphs">|</tspan>
+  <tspan x="481.0" y="684.5" font-size="121.0px" textLength="102.0" lengthAdjust="spacingAndGlyphs">|</tspan>
+  <tspan x="713.0" y="684.5" font-size="121.0px" textLength="162.0" lengthAdjust="spacingAndGlyphs">TS</tspan>
+  <tspan x="965.0" y="691.5" font-size="63.0px" textLength="341.0" lengthAdjust="spacingAndGlyphs">CTS</tspan>
+</text>
+</svg>

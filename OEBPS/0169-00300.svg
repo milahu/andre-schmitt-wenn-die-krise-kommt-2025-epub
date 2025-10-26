@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0169-00300.avif"/>
+<text x="48.0" y="23.0" xml:space="preserve"> </text>
+<text x="48.0" y="24.0">
+  <tspan x="48.0" y="40.0" font-size="10.0px" textLength="10.0" lengthAdjust="spacingAndGlyphs">+</tspan>
+  <tspan x="69.0" y="36.5" font-size="25.0px" textLength="161.0" lengthAdjust="spacingAndGlyphs">Stechender</tspan>
+  <tspan x="241.0" y="36.0" font-size="24.0px" textLength="65.0" lengthAdjust="spacingAndGlyphs">Blick</tspan>
+  <tspan x="40.0" y="126.0" font-size="30.0px" textLength="142.0" lengthAdjust="spacingAndGlyphs">Abbildung</tspan>
+  <tspan x="196.0" y="123.5" font-size="23.0px" textLength="32.0" lengthAdjust="spacingAndGlyphs">13</tspan>
+</text>
+</svg>

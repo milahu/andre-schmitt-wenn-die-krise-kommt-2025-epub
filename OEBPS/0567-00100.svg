@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0567-00100.avif"/>
+<text x="40.0" y="15.0" xml:space="preserve"> </text>
+<text x="40.0" y="16.0">
+  <tspan x="40.0" y="36.0" font-size="38.0px" textLength="149.0" lengthAdjust="spacingAndGlyphs">wichtige</tspan>
+  <tspan x="205.0" y="35.5" font-size="39.0px" textLength="145.0" lengthAdjust="spacingAndGlyphs">Begriffe,</tspan>
+  <tspan x="365.0" y="32.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="431.0" y="32.0" font-size="30.0px" textLength="49.0" lengthAdjust="spacingAndGlyphs">bei</tspan>
+  <tspan x="495.0" y="32.0" font-size="30.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="566.0" y="36.0" font-size="38.0px" textLength="235.0" lengthAdjust="spacingAndGlyphs">Beschreibung</tspan>
+  <tspan x="815.0" y="36.0" font-size="22.0px" textLength="62.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="893.0" y="35.5" font-size="39.0px" textLength="262.0" lengthAdjust="spacingAndGlyphs">Cyberangriffen</tspan>
+  <tspan x="1169.0" y="32.0" font-size="30.0px" textLength="189.0" lengthAdjust="spacingAndGlyphs">verwendet</tspan>
+  <tspan x="1369.0" y="32.0" font-size="30.0px" textLength="140.0" lengthAdjust="spacingAndGlyphs">werden:</tspan>
+</text>
+<text x="44.0" y="103.0" xml:space="preserve"> </text>
+<text x="44.0" y="104.0">
+  <tspan x="44.0" y="121.0" font-size="28.0px" textLength="27.0" lengthAdjust="spacingAndGlyphs">1.</tspan>
+  <tspan x="101.0" y="120.0" font-size="30.0px" textLength="156.0" lengthAdjust="spacingAndGlyphs">Malware:</tspan>
+  <tspan x="287.0" y="119.5" font-size="31.0px" textLength="163.0" lengthAdjust="spacingAndGlyphs">Kurzform</tspan>
+  <tspan x="478.0" y="119.5" font-size="31.0px" textLength="52.0" lengthAdjust="spacingAndGlyphs">für</tspan>
+  <tspan x="558.0" y="120.0" font-size="30.0px" textLength="162.0" lengthAdjust="spacingAndGlyphs">Malicious</tspan>
+  <tspan x="748.0" y="119.5" font-size="31.0px" textLength="169.0" lengthAdjust="spacingAndGlyphs">Software.</tspan>
+  <tspan x="947.0" y="120.5" font-size="29.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">Eine</tspan>
+  <tspan x="1048.0" y="124.0" font-size="38.0px" textLength="164.0" lengthAdjust="spacingAndGlyphs">bösartige</tspan>
+  <tspan x="1241.0" y="122.0" font-size="36.0px" textLength="168.0" lengthAdjust="spacingAndGlyphs">Software,</tspan>
+  <tspan x="1438.0" y="120.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="1517.0" y="120.0" font-size="30.0px" textLength="81.0" lengthAdjust="spacingAndGlyphs">dazu</tspan>
+  <tspan x="1626.0" y="120.0" font-size="30.0px" textLength="189.0" lengthAdjust="spacingAndGlyphs">verwendet</tspan>
+  <tspan x="1842.0" y="122.5" font-size="35.0px" textLength="84.0" lengthAdjust="spacingAndGlyphs">wird,</tspan>
+  <tspan x="1956.0" y="120.5" font-size="29.0px" textLength="49.0" lengthAdjust="spacingAndGlyphs">ein</tspan>
+  <tspan x="42.0" y="190.5" font-size="37.0px" textLength="300.0" lengthAdjust="spacingAndGlyphs">Computersystem</tspan>
+  <tspan x="357.0" y="190.5" font-size="21.0px" textLength="37.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="410.0" y="185.5" font-size="31.0px" textLength="183.0" lengthAdjust="spacingAndGlyphs">infiltrieren</tspan>
+  <tspan x="608.0" y="186.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">oder</tspan>
+  <tspan x="700.0" y="190.5" font-size="21.0px" textLength="37.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="752.0" y="190.0" font-size="38.0px" textLength="186.0" lengthAdjust="spacingAndGlyphs">schädigen.</tspan>
+</text>
+<text x="43.0" y="235.0" xml:space="preserve"> </text>
+<text x="43.0" y="236.0">
+  <tspan x="43.0" y="252.5" font-size="29.0px" textLength="28.0" lengthAdjust="spacingAndGlyphs">2.</tspan>
+  <tspan x="96.0" y="256.0" font-size="38.0px" textLength="158.0" lengthAdjust="spacingAndGlyphs">Phishing:</tspan>
+  <tspan x="280.0" y="252.5" font-size="29.0px" textLength="72.0" lengthAdjust="spacingAndGlyphs">Eine</tspan>
+  <tspan x="376.0" y="256.0" font-size="38.0px" textLength="241.0" lengthAdjust="spacingAndGlyphs">betrügerische</tspan>
+  <tspan x="642.0" y="254.5" font-size="35.0px" textLength="164.0" lengthAdjust="spacingAndGlyphs">Methode,</tspan>
+  <tspan x="831.0" y="256.5" font-size="21.0px" textLength="53.0" lengthAdjust="spacingAndGlyphs">um</tspan>
+  <tspan x="909.0" y="256.5" font-size="21.0px" textLength="39.0" lengthAdjust="spacingAndGlyphs">an</tspan>
+  <tspan x="973.0" y="252.0" font-size="30.0px" textLength="141.0" lengthAdjust="spacingAndGlyphs">sensible</tspan>
+  <tspan x="1139.0" y="251.5" font-size="31.0px" textLength="252.0" lengthAdjust="spacingAndGlyphs">Informationen</tspan>
+  <tspan x="1415.0" y="252.5" font-size="29.0px" textLength="59.0" lengthAdjust="spacingAndGlyphs">wie</tspan>
+  <tspan x="1499.0" y="255.5" font-size="33.0px" textLength="288.0" lengthAdjust="spacingAndGlyphs">Benutzernamen,</tspan>
+  <tspan x="1813.0" y="252.5" font-size="29.0px" textLength="195.0" lengthAdjust="spacingAndGlyphs">Passwörter</tspan>
+  <tspan x="43.0" y="318.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="131.0" y="318.0" font-size="30.0px" textLength="394.0" lengthAdjust="spacingAndGlyphs">Kreditkartennummern</tspan>
+  <tspan x="548.0" y="322.5" font-size="21.0px" textLength="37.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="608.0" y="322.0" font-size="38.0px" textLength="172.0" lengthAdjust="spacingAndGlyphs">gelangen.</tspan>
+  <tspan x="803.0" y="318.5" font-size="29.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">Dies</tspan>
+  <tspan x="894.0" y="318.0" font-size="30.0px" textLength="75.0" lengthAdjust="spacingAndGlyphs">wird</tspan>
+  <tspan x="992.0" y="317.5" font-size="31.0px" textLength="50.0" lengthAdjust="spacingAndGlyphs">oft</tspan>
+  <tspan x="1063.0" y="318.0" font-size="30.0px" textLength="98.0" lengthAdjust="spacingAndGlyphs">durch</tspan>
+  <tspan x="1183.0" y="318.0" font-size="30.0px" textLength="58.0" lengthAdjust="spacingAndGlyphs">das</tspan>
+  <tspan x="1261.0" y="318.0" font-size="30.0px" textLength="185.0" lengthAdjust="spacingAndGlyphs">Versenden</tspan>
+  <tspan x="1468.0" y="322.5" font-size="21.0px" textLength="62.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="1553.0" y="321.5" font-size="39.0px" textLength="204.0" lengthAdjust="spacingAndGlyphs">gefälschten</tspan>
+  <tspan x="1781.0" y="318.0" font-size="30.0px" textLength="126.0" lengthAdjust="spacingAndGlyphs">E-Mails</tspan>
+  <tspan x="1928.0" y="318.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">oder</tspan>
+  <tspan x="41.0" y="384.0" font-size="30.0px" textLength="284.0" lengthAdjust="spacingAndGlyphs">Textnachrichten</tspan>
+  <tspan x="340.0" y="384.0" font-size="30.0px" textLength="143.0" lengthAdjust="spacingAndGlyphs">erreicht.</tspan>
+</text>
+<text x="42.0" y="433.0" xml:space="preserve"> </text>
+<text x="42.0" y="434.0">
+  <tspan x="42.0" y="451.0" font-size="28.0px" textLength="29.0" lengthAdjust="spacingAndGlyphs">3.</tspan>
+  <tspan x="87.0" y="453.5" font-size="39.0px" textLength="446.0" lengthAdjust="spacingAndGlyphs">Denial-of-Service-Angriff</tspan>
+  <tspan x="546.0" y="452.0" font-size="36.0px" textLength="103.0" lengthAdjust="spacingAndGlyphs">(DoS):</tspan>
+  <tspan x="665.0" y="450.5" font-size="29.0px" textLength="72.0" lengthAdjust="spacingAndGlyphs">Eine</tspan>
+  <tspan x="750.0" y="453.5" font-size="39.0px" textLength="310.0" lengthAdjust="spacingAndGlyphs">Angriffsmethode,</tspan>
+  <tspan x="1076.0" y="450.0" font-size="30.0px" textLength="49.0" lengthAdjust="spacingAndGlyphs">bei</tspan>
+  <tspan x="1140.0" y="450.0" font-size="30.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="1210.0" y="450.0" font-size="30.0px" textLength="59.0" lengthAdjust="spacingAndGlyphs">das</tspan>
+  <tspan x="1282.0" y="450.0" font-size="30.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">Ziel</tspan>
+  <tspan x="1359.0" y="450.0" font-size="30.0px" textLength="87.0" lengthAdjust="spacingAndGlyphs">darin</tspan>
+  <tspan x="1463.0" y="452.5" font-size="35.0px" textLength="140.0" lengthAdjust="spacingAndGlyphs">besteht,</tspan>
+  <tspan x="1618.0" y="450.0" font-size="30.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">den</tspan>
+  <tspan x="1698.0" y="450.0" font-size="30.0px" textLength="167.0" lengthAdjust="spacingAndGlyphs">normalen</tspan>
+  <tspan x="1882.0" y="450.0" font-size="30.0px" textLength="124.0" lengthAdjust="spacingAndGlyphs">Betrieb</tspan>
+  <tspan x="42.0" y="516.5" font-size="29.0px" textLength="89.0" lengthAdjust="spacingAndGlyphs">eines</tspan>
+  <tspan x="145.0" y="520.5" font-size="37.0px" textLength="319.0" lengthAdjust="spacingAndGlyphs">Computersystems</tspan>
+  <tspan x="477.0" y="516.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">oder</tspan>
+  <tspan x="571.0" y="516.0" font-size="30.0px" textLength="183.0" lengthAdjust="spacingAndGlyphs">Netzwerks</tspan>
+  <tspan x="766.0" y="520.5" font-size="21.0px" textLength="38.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="820.0" y="520.0" font-size="38.0px" textLength="278.0" lengthAdjust="spacingAndGlyphs">beeinträchtigen</tspan>
+  <tspan x="1112.0" y="516.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">oder</tspan>
+  <tspan x="1204.0" y="520.5" font-size="21.0px" textLength="38.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="1258.0" y="516.0" font-size="30.0px" textLength="246.0" lengthAdjust="spacingAndGlyphs">unterbrechen.</tspan>
+</text>
+<text x="41.0" y="565.0" xml:space="preserve"> </text>
+<text x="41.0" y="566.0">
+  <tspan x="41.0" y="583.0" font-size="28.0px" textLength="30.0" lengthAdjust="spacingAndGlyphs">4.</tspan>
+  <tspan x="88.0" y="583.0" font-size="28.0px" textLength="234.0" lengthAdjust="spacingAndGlyphs">Ransomware:</tspan>
+  <tspan x="340.0" y="582.5" font-size="29.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">Eine</tspan>
+  <tspan x="426.0" y="583.0" font-size="28.0px" textLength="55.0" lengthAdjust="spacingAndGlyphs">Art</tspan>
+  <tspan x="495.0" y="586.5" font-size="21.0px" textLength="62.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="575.0" y="584.5" font-size="35.0px" textLength="156.0" lengthAdjust="spacingAndGlyphs">Malware,</tspan>
+  <tspan x="748.0" y="582.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="814.0" y="582.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="882.0" y="583.0" font-size="28.0px" textLength="102.0" lengthAdjust="spacingAndGlyphs">Daten</tspan>
+  <tspan x="1000.0" y="582.0" font-size="30.0px" textLength="59.0" lengthAdjust="spacingAndGlyphs">des</tspan>
+  <tspan x="1075.0" y="585.5" font-size="39.0px" textLength="118.0" lengthAdjust="spacingAndGlyphs">Opfers</tspan>
+  <tspan x="1207.0" y="582.0" font-size="30.0px" textLength="228.0" lengthAdjust="spacingAndGlyphs">verschlüsselt</tspan>
+  <tspan x="1450.0" y="582.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1531.0" y="582.0" font-size="30.0px" textLength="86.0" lengthAdjust="spacingAndGlyphs">dann</tspan>
+  <tspan x="1634.0" y="582.5" font-size="29.0px" textLength="50.0" lengthAdjust="spacingAndGlyphs">ein</tspan>
+  <tspan x="1702.0" y="586.0" font-size="38.0px" textLength="154.0" lengthAdjust="spacingAndGlyphs">Lösegeld</tspan>
+  <tspan x="1871.0" y="584.0" font-size="36.0px" textLength="134.0" lengthAdjust="spacingAndGlyphs">fordert,</tspan>
+  <tspan x="43.0" y="652.5" font-size="21.0px" textLength="52.0" lengthAdjust="spacingAndGlyphs">um</tspan>
+  <tspan x="110.0" y="648.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="176.0" y="649.0" font-size="28.0px" textLength="102.0" lengthAdjust="spacingAndGlyphs">Daten</tspan>
+  <tspan x="292.0" y="648.0" font-size="30.0px" textLength="348.0" lengthAdjust="spacingAndGlyphs">wiederherzustellen.</tspan>
+</text>
+<text x="43.0" y="697.0" xml:space="preserve"> </text>
+<text x="43.0" y="698.0">
+  <tspan x="43.0" y="715.0" font-size="28.0px" textLength="28.0" lengthAdjust="spacingAndGlyphs">5.</tspan>
+  <tspan x="94.0" y="714.0" font-size="30.0px" textLength="103.0" lengthAdjust="spacingAndGlyphs">Social</tspan>
+  <tspan x="220.0" y="718.5" font-size="37.0px" textLength="219.0" lengthAdjust="spacingAndGlyphs">Engineering:</tspan>
+  <tspan x="463.0" y="714.5" font-size="29.0px" textLength="72.0" lengthAdjust="spacingAndGlyphs">Eine</tspan>
+  <tspan x="559.0" y="716.5" font-size="35.0px" textLength="163.0" lengthAdjust="spacingAndGlyphs">Methode,</tspan>
+  <tspan x="746.0" y="714.0" font-size="30.0px" textLength="105.0" lengthAdjust="spacingAndGlyphs">diedie</tspan>
+  <tspan x="874.0" y="714.0" font-size="30.0px" textLength="218.0" lengthAdjust="spacingAndGlyphs">menschliche</tspan>
+  <tspan x="1115.0" y="715.0" font-size="28.0px" textLength="99.0" lengthAdjust="spacingAndGlyphs">Natur</tspan>
+  <tspan x="1234.0" y="718.5" font-size="31.0px" textLength="162.0" lengthAdjust="spacingAndGlyphs">ausnutzt,</tspan>
+  <tspan x="1420.0" y="718.5" font-size="21.0px" textLength="53.0" lengthAdjust="spacingAndGlyphs">um</tspan>
+  <tspan x="1498.0" y="713.5" font-size="31.0px" textLength="252.0" lengthAdjust="spacingAndGlyphs">Informationen</tspan>
+  <tspan x="1773.0" y="714.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">oder</tspan>
+  <tspan x="1874.0" y="719.0" font-size="36.0px" textLength="131.0" lengthAdjust="spacingAndGlyphs">Zugang</tspan>
+  <tspan x="41.0" y="784.5" font-size="21.0px" textLength="38.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="100.0" y="780.5" font-size="29.0px" textLength="106.0" lengthAdjust="spacingAndGlyphs">einem</tspan>
+  <tspan x="228.0" y="784.5" font-size="37.0px" textLength="300.0" lengthAdjust="spacingAndGlyphs">Computersystem</tspan>
+  <tspan x="548.0" y="784.5" font-size="21.0px" textLength="38.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="607.0" y="780.0" font-size="30.0px" textLength="156.0" lengthAdjust="spacingAndGlyphs">erhalten.</tspan>
+  <tspan x="785.0" y="781.0" font-size="28.0px" textLength="35.0" lengthAdjust="spacingAndGlyphs">Es</tspan>
+  <tspan x="840.0" y="780.0" font-size="30.0px" textLength="83.0" lengthAdjust="spacingAndGlyphs">kann</tspan>
+  <tspan x="944.0" y="784.5" font-size="21.0px" textLength="72.0" lengthAdjust="spacingAndGlyphs">zum</tspan>
+  <tspan x="1039.0" y="784.0" font-size="38.0px" textLength="134.0" lengthAdjust="spacingAndGlyphs">Beispiel</tspan>
+  <tspan x="1192.0" y="780.0" font-size="30.0px" textLength="98.0" lengthAdjust="spacingAndGlyphs">durch</tspan>
+  <tspan x="1311.0" y="783.5" font-size="39.0px" textLength="182.0" lengthAdjust="spacingAndGlyphs">gefälschte</tspan>
+  <tspan x="1511.0" y="779.5" font-size="31.0px" textLength="250.0" lengthAdjust="spacingAndGlyphs">Telefonanrufe</tspan>
+  <tspan x="1781.0" y="780.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">oder</tspan>
+  <tspan x="1881.0" y="780.0" font-size="30.0px" textLength="126.0" lengthAdjust="spacingAndGlyphs">E-Mails</tspan>
+  <tspan x="42.0" y="850.0" font-size="38.0px" textLength="196.0" lengthAdjust="spacingAndGlyphs">geschehen.</tspan>
+</text>
+<text x="42.0" y="895.0" xml:space="preserve"> </text>
+<text x="42.0" y="896.0">
+  <tspan x="42.0" y="912.5" font-size="29.0px" textLength="29.0" lengthAdjust="spacingAndGlyphs">6.</tspan>
+  <tspan x="96.0" y="916.0" font-size="38.0px" textLength="128.0" lengthAdjust="spacingAndGlyphs">Exploit:</tspan>
+  <tspan x="249.0" y="912.5" font-size="29.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">Eine</tspan>
+  <tspan x="343.0" y="916.0" font-size="38.0px" textLength="151.0" lengthAdjust="spacingAndGlyphs">spezielle</tspan>
+  <tspan x="516.0" y="913.0" font-size="28.0px" textLength="55.0" lengthAdjust="spacingAndGlyphs">Art</tspan>
+  <tspan x="592.0" y="916.5" font-size="21.0px" textLength="62.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="679.0" y="911.5" font-size="31.0px" textLength="159.0" lengthAdjust="spacingAndGlyphs">Software</tspan>
+  <tspan x="861.0" y="912.0" font-size="30.0px" textLength="79.0" lengthAdjust="spacingAndGlyphs">oder</tspan>
+  <tspan x="962.0" y="914.5" font-size="35.0px" textLength="96.0" lengthAdjust="spacingAndGlyphs">Code,</tspan>
+  <tspan x="1082.0" y="912.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="1156.0" y="912.5" font-size="29.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">eine</tspan>
+  <tspan x="1251.0" y="912.0" font-size="30.0px" textLength="249.0" lengthAdjust="spacingAndGlyphs">Schwachstelle</tspan>
+  <tspan x="1523.0" y="912.0" font-size="28.0px" textLength="28.0" lengthAdjust="spacingAndGlyphs">in</tspan>
+  <tspan x="1575.0" y="912.5" font-size="29.0px" textLength="106.0" lengthAdjust="spacingAndGlyphs">einem</tspan>
+  <tspan x="1705.0" y="916.5" font-size="37.0px" textLength="300.0" lengthAdjust="spacingAndGlyphs">Computersystem</tspan>
+  <tspan x="42.0" y="982.5" font-size="31.0px" textLength="161.0" lengthAdjust="spacingAndGlyphs">ausnutzt,</tspan>
+  <tspan x="219.0" y="982.5" font-size="21.0px" textLength="52.0" lengthAdjust="spacingAndGlyphs">um</tspan>
+  <tspan x="287.0" y="982.0" font-size="38.0px" textLength="269.0" lengthAdjust="spacingAndGlyphs">unberechtigten</tspan>
+  <tspan x="571.0" y="981.5" font-size="39.0px" textLength="120.0" lengthAdjust="spacingAndGlyphs">Zugriff</tspan>
+  <tspan x="703.0" y="982.5" font-size="21.0px" textLength="37.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="755.0" y="982.0" font-size="38.0px" textLength="154.0" lengthAdjust="spacingAndGlyphs">erlangen</tspan>
+  <tspan x="923.0" y="978.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">oder</tspan>
+  <tspan x="1016.0" y="978.0" font-size="30.0px" textLength="148.0" lengthAdjust="spacingAndGlyphs">Schaden</tspan>
+  <tspan x="1178.0" y="978.0" font-size="30.0px" textLength="218.0" lengthAdjust="spacingAndGlyphs">anzurichten.</tspan>
+</text>
+<text x="42.0" y="1050.0" xml:space="preserve"> </text>
+<text x="42.0" y="1051.0">
+  <tspan x="42.0" y="1069.0" font-size="36.0px" textLength="147.0" lengthAdjust="spacingAndGlyphs">Quellen:</tspan>
+</text>
+</svg>

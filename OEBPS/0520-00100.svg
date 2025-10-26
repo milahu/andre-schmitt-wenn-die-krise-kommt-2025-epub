@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0520-00100.avif"/>
+<text x="41.0" y="15.0" xml:space="preserve"> </text>
+<text x="41.0" y="16.0">
+  <tspan x="41.0" y="32.0" font-size="30.0px" textLength="96.0" lengthAdjust="spacingAndGlyphs">sollte</tspan>
+  <tspan x="150.0" y="32.5" font-size="29.0px" textLength="114.0" lengthAdjust="spacingAndGlyphs">immer</tspan>
+  <tspan x="275.0" y="32.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="340.0" y="36.5" font-size="37.0px" textLength="220.0" lengthAdjust="spacingAndGlyphs">Minimierung</tspan>
+  <tspan x="574.0" y="32.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">oder</tspan>
+  <tspan x="666.0" y="36.0" font-size="38.0px" textLength="194.0" lengthAdjust="spacingAndGlyphs">Umgehung</tspan>
+  <tspan x="873.0" y="32.5" font-size="29.0px" textLength="90.0" lengthAdjust="spacingAndGlyphs">eines</tspan>
+  <tspan x="976.0" y="35.0" font-size="38.0px" textLength="153.0" lengthAdjust="spacingAndGlyphs">Kampfes</tspan>
+  <tspan x="1140.0" y="32.5" font-size="29.0px" textLength="78.0" lengthAdjust="spacingAndGlyphs">sein.</tspan>
+  <tspan x="1232.0" y="32.5" font-size="29.0px" textLength="35.0" lengthAdjust="spacingAndGlyphs">Es</tspan>
+  <tspan x="1279.0" y="36.0" font-size="38.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">geht</tspan>
+  <tspan x="1370.0" y="34.5" font-size="35.0px" textLength="123.0" lengthAdjust="spacingAndGlyphs">darum,</tspan>
+  <tspan x="1505.0" y="36.0" font-size="36.0px" textLength="186.0" lengthAdjust="spacingAndGlyphs">temporäre</tspan>
+  <tspan x="1705.0" y="32.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1783.0" y="32.0" font-size="30.0px" textLength="104.0" lengthAdjust="spacingAndGlyphs">lokale</tspan>
+  <tspan x="1901.0" y="32.5" font-size="29.0px" textLength="104.0" lengthAdjust="spacingAndGlyphs">Krisen</tspan>
+  <tspan x="43.0" y="98.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="123.0" y="98.0" font-size="30.0px" textLength="208.0" lengthAdjust="spacingAndGlyphs">Krisenherde</tspan>
+  <tspan x="345.0" y="98.0" font-size="30.0px" textLength="260.0" lengthAdjust="spacingAndGlyphs">durchzustehen</tspan>
+  <tspan x="620.0" y="98.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">oder</tspan>
+  <tspan x="712.0" y="102.5" font-size="21.0px" textLength="37.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="764.0" y="100.0" font-size="36.0px" textLength="221.0" lengthAdjust="spacingAndGlyphs">durchlaufen,</tspan>
+  <tspan x="1001.0" y="102.0" font-size="22.0px" textLength="52.0" lengthAdjust="spacingAndGlyphs">um</tspan>
+  <tspan x="1068.0" y="98.0" font-size="30.0px" textLength="103.0" lengthAdjust="spacingAndGlyphs">sicher</tspan>
+  <tspan x="1183.0" y="102.0" font-size="22.0px" textLength="40.0" lengthAdjust="spacingAndGlyphs">an</tspan>
+  <tspan x="1237.0" y="98.0" font-size="30.0px" textLength="74.0" lengthAdjust="spacingAndGlyphs">dein</tspan>
+  <tspan x="1326.0" y="97.5" font-size="31.0px" textLength="182.0" lengthAdjust="spacingAndGlyphs">Safehouse</tspan>
+  <tspan x="1521.0" y="102.5" font-size="21.0px" textLength="38.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="1574.0" y="102.0" font-size="38.0px" textLength="172.0" lengthAdjust="spacingAndGlyphs">gelangen.</tspan>
+</text>
+</svg>

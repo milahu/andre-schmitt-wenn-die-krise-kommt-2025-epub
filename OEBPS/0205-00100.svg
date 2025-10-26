@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0205-00100.avif"/>
+<text x="1079.0" y="6.0" xml:space="preserve"> </text>
+<text x="1079.0" y="7.0">
+  <tspan x="889.0" y="40.0" font-size="66.0px" textLength="271.0" lengthAdjust="spacingAndGlyphs">DET</tspan>
+  <tspan x="896.0" y="120.5" font-size="95.0px" textLength="257.0" lengthAdjust="spacingAndGlyphs">Goch</tspan>
+  <tspan x="963.0" y="150.0" font-size="36.0px" textLength="36.0" lengthAdjust="spacingAndGlyphs">Ah</tspan>
+  <tspan x="1029.0" y="146.0" font-size="14.0px" textLength="14.0" lengthAdjust="spacingAndGlyphs">Lo</tspan>
+  <tspan x="1065.0" y="157.5" font-size="21.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">ot</tspan>
+  <tspan x="940.0" y="342.5" font-size="29.0px" textLength="170.0" lengthAdjust="spacingAndGlyphs">Operator</tspan>
+  <tspan x="1068.0" y="342.5" font-size="37.0px" textLength="44.0" lengthAdjust="spacingAndGlyphs">Fit</tspan>
+  <tspan x="44.0" y="427.0" font-size="28.0px" textLength="27.0" lengthAdjust="spacingAndGlyphs">1.</tspan>
+  <tspan x="86.0" y="427.0" font-size="30.0px" textLength="100.0" lengthAdjust="spacingAndGlyphs">Stand</tspan>
+  <tspan x="202.0" y="427.0" font-size="30.0px" textLength="100.0" lengthAdjust="spacingAndGlyphs">breite</tspan>
+  <tspan x="317.0" y="430.0" font-size="34.0px" textLength="104.0" lengthAdjust="spacingAndGlyphs">Beine,</tspan>
+  <tspan x="437.0" y="427.5" font-size="29.0px" textLength="74.0" lengthAdjust="spacingAndGlyphs">Knie</tspan>
+  <tspan x="525.0" y="431.0" font-size="38.0px" textLength="154.0" lengthAdjust="spacingAndGlyphs">gebeugt,</tspan>
+  <tspan x="695.0" y="426.5" font-size="31.0px" textLength="234.0" lengthAdjust="spacingAndGlyphs">Kniehebelauf</tspan>
+  <tspan x="941.0" y="427.0" font-size="30.0px" textLength="133.0" lengthAdjust="spacingAndGlyphs">dreimal</tspan>
+  <tspan x="1088.0" y="427.5" font-size="29.0px" textLength="43.0" lengthAdjust="spacingAndGlyphs">30</tspan>
+  <tspan x="1145.0" y="427.0" font-size="30.0px" textLength="173.0" lengthAdjust="spacingAndGlyphs">Sekunden</tspan>
+  <tspan x="43.0" y="493.0" font-size="28.0px" textLength="28.0" lengthAdjust="spacingAndGlyphs">2.</tspan>
+  <tspan x="87.0" y="493.0" font-size="30.0px" textLength="100.0" lengthAdjust="spacingAndGlyphs">Stand</tspan>
+  <tspan x="204.0" y="493.0" font-size="30.0px" textLength="101.0" lengthAdjust="spacingAndGlyphs">breite</tspan>
+  <tspan x="321.0" y="496.0" font-size="34.0px" textLength="104.0" lengthAdjust="spacingAndGlyphs">Beine,</tspan>
+  <tspan x="442.0" y="493.5" font-size="29.0px" textLength="74.0" lengthAdjust="spacingAndGlyphs">Knie</tspan>
+  <tspan x="531.0" y="497.0" font-size="38.0px" textLength="154.0" lengthAdjust="spacingAndGlyphs">gebeugt,</tspan>
+  <tspan x="700.0" y="493.5" font-size="29.0px" textLength="95.0" lengthAdjust="spacingAndGlyphs">Arme</tspan>
+  <tspan x="811.0" y="493.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">nach</tspan>
+  <tspan x="906.0" y="499.5" font-size="27.0px" textLength="87.0" lengthAdjust="spacingAndGlyphs">vorn,</tspan>
+  <tspan x="1011.0" y="493.5" font-size="29.0px" textLength="148.0" lengthAdjust="spacingAndGlyphs">Rotation</tspan>
+  <tspan x="1176.0" y="493.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">nach</tspan>
+  <tspan x="1273.0" y="493.0" font-size="30.0px" textLength="105.0" lengthAdjust="spacingAndGlyphs">rechts</tspan>
+  <tspan x="1394.0" y="493.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1475.0" y="493.0" font-size="30.0px" textLength="79.0" lengthAdjust="spacingAndGlyphs">links</tspan>
+  <tspan x="1568.0" y="493.0" font-size="30.0px" textLength="133.0" lengthAdjust="spacingAndGlyphs">dreimal</tspan>
+  <tspan x="1717.0" y="493.5" font-size="29.0px" textLength="42.0" lengthAdjust="spacingAndGlyphs">20</tspan>
+  <tspan x="1771.0" y="497.5" font-size="37.0px" textLength="31.0" lengthAdjust="spacingAndGlyphs">je</tspan>
+  <tspan x="1817.0" y="496.0" font-size="34.0px" textLength="95.0" lengthAdjust="spacingAndGlyphs">Seite,</tspan>
+  <tspan x="1928.0" y="501.0" font-size="30.0px" textLength="77.0" lengthAdjust="spacingAndGlyphs">gern</tspan>
+  <tspan x="43.0" y="559.0" font-size="28.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">mit</tspan>
+  <tspan x="113.0" y="559.0" font-size="30.0px" textLength="143.0" lengthAdjust="spacingAndGlyphs">Gewicht</tspan>
+  <tspan x="269.0" y="559.0" font-size="28.0px" textLength="28.0" lengthAdjust="spacingAndGlyphs">in</tspan>
+  <tspan x="312.0" y="559.0" font-size="30.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">den</tspan>
+  <tspan x="392.0" y="559.0" font-size="30.0px" textLength="144.0" lengthAdjust="spacingAndGlyphs">Handen.</tspan>
+  <tspan x="549.0" y="563.0" font-size="38.0px" textLength="158.0" lengthAdjust="spacingAndGlyphs">Achtung:</tspan>
+  <tspan x="723.0" y="559.5" font-size="29.0px" textLength="94.0" lengthAdjust="spacingAndGlyphs">Beine</tspan>
+  <tspan x="832.0" y="559.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="912.0" y="559.0" font-size="30.0px" textLength="122.0" lengthAdjust="spacingAndGlyphs">Becken</tspan>
+  <tspan x="1049.0" y="558.5" font-size="29.0px" textLength="87.0" lengthAdjust="spacingAndGlyphs">nicht</tspan>
+  <tspan x="1150.0" y="563.0" font-size="38.0px" textLength="228.0" lengthAdjust="spacingAndGlyphs">mitbewegen!</tspan>
+  <tspan x="42.0" y="625.5" font-size="29.0px" textLength="29.0" lengthAdjust="spacingAndGlyphs">3.</tspan>
+  <tspan x="87.0" y="625.0" font-size="30.0px" textLength="100.0" lengthAdjust="spacingAndGlyphs">Stand</tspan>
+  <tspan x="204.0" y="626.5" font-size="27.0px" textLength="121.0" lengthAdjust="spacingAndGlyphs">extrem</tspan>
+  <tspan x="343.0" y="625.0" font-size="30.0px" textLength="100.0" lengthAdjust="spacingAndGlyphs">breite</tspan>
+  <tspan x="460.0" y="628.0" font-size="34.0px" textLength="103.0" lengthAdjust="spacingAndGlyphs">Beine,</tspan>
+  <tspan x="580.0" y="629.0" font-size="38.0px" textLength="166.0" lengthAdjust="spacingAndGlyphs">gebeugte</tspan>
+  <tspan x="763.0" y="628.0" font-size="34.0px" textLength="83.0" lengthAdjust="spacingAndGlyphs">Knie,</tspan>
+  <tspan x="864.0" y="625.5" font-size="29.0px" textLength="73.0" lengthAdjust="spacingAndGlyphs">Knie</tspan>
+  <tspan x="953.0" y="625.0" font-size="30.0px" textLength="121.0" lengthAdjust="spacingAndGlyphs">drehen</tspan>
+  <tspan x="1092.0" y="625.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">nach</tspan>
+  <tspan x="1188.0" y="624.5" font-size="31.0px" textLength="108.0" lengthAdjust="spacingAndGlyphs">außen</tspan>
+  <tspan x="1313.0" y="625.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1394.0" y="628.0" font-size="34.0px" textLength="105.0" lengthAdjust="spacingAndGlyphs">innen,</tspan>
+  <tspan x="1516.0" y="628.5" font-size="37.0px" textLength="204.0" lengthAdjust="spacingAndGlyphs">Oberkörper</tspan>
+  <tspan x="1734.0" y="629.0" font-size="22.0px" textLength="37.0" lengthAdjust="spacingAndGlyphs">so</tspan>
+  <tspan x="1786.0" y="624.5" font-size="31.0px" textLength="148.0" lengthAdjust="spacingAndGlyphs">aufrecht</tspan>
+  <tspan x="1947.0" y="625.5" font-size="29.0px" textLength="59.0" lengthAdjust="spacingAndGlyphs">wie</tspan>
+  <tspan x="43.0" y="695.0" font-size="38.0px" textLength="148.0" lengthAdjust="spacingAndGlyphs">möglich,</tspan>
+  <tspan x="206.0" y="691.0" font-size="30.0px" textLength="133.0" lengthAdjust="spacingAndGlyphs">dreimal</tspan>
+  <tspan x="353.0" y="691.5" font-size="29.0px" textLength="43.0" lengthAdjust="spacingAndGlyphs">20</tspan>
+  <tspan x="408.0" y="695.0" font-size="38.0px" textLength="294.0" lengthAdjust="spacingAndGlyphs">Wiederholungen</tspan>
+  <tspan x="41.0" y="757.0" font-size="28.0px" textLength="30.0" lengthAdjust="spacingAndGlyphs">4.</tspan>
+  <tspan x="85.0" y="757.0" font-size="30.0px" textLength="100.0" lengthAdjust="spacingAndGlyphs">Stand</tspan>
+  <tspan x="200.0" y="757.0" font-size="30.0px" textLength="123.0" lengthAdjust="spacingAndGlyphs">Rücken</tspan>
+  <tspan x="337.0" y="761.0" font-size="22.0px" textLength="40.0" lengthAdjust="spacingAndGlyphs">an</tspan>
+  <tspan x="389.0" y="759.5" font-size="35.0px" textLength="110.0" lengthAdjust="spacingAndGlyphs">Wand,</tspan>
+  <tspan x="514.0" y="757.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">nach</tspan>
+  <tspan x="606.0" y="761.0" font-size="22.0px" textLength="78.0" lengthAdjust="spacingAndGlyphs">vorn</tspan>
+  <tspan x="698.0" y="756.5" font-size="31.0px" textLength="109.0" lengthAdjust="spacingAndGlyphs">laufen</tspan>
+  <tspan x="821.0" y="757.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="900.0" y="757.5" font-size="29.0px" textLength="95.0" lengthAdjust="spacingAndGlyphs">Beine</tspan>
+  <tspan x="1009.0" y="761.0" font-size="38.0px" textLength="128.0" lengthAdjust="spacingAndGlyphs">beugen</tspan>
+  <tspan x="1152.0" y="759.0" font-size="36.0px" textLength="136.0" lengthAdjust="spacingAndGlyphs">(Rücken</tspan>
+  <tspan x="1303.0" y="757.0" font-size="30.0px" textLength="123.0" lengthAdjust="spacingAndGlyphs">rutscht</tspan>
+  <tspan x="1438.0" y="761.0" font-size="22.0px" textLength="39.0" lengthAdjust="spacingAndGlyphs">an</tspan>
+  <tspan x="1490.0" y="757.0" font-size="30.0px" textLength="100.0" lengthAdjust="spacingAndGlyphs">Wand</tspan>
+  <tspan x="1605.0" y="759.0" font-size="36.0px" textLength="172.0" lengthAdjust="spacingAndGlyphs">herunter),</tspan>
+  <tspan x="1792.0" y="758.5" font-size="27.0px" textLength="99.0" lengthAdjust="spacingAndGlyphs">unten</tspan>
+  <tspan x="1905.0" y="761.0" font-size="22.0px" textLength="45.0" lengthAdjust="spacingAndGlyphs">ca.</tspan>
+  <tspan x="1964.0" y="757.5" font-size="29.0px" textLength="43.0" lengthAdjust="spacingAndGlyphs">30</tspan>
+  <tspan x="43.0" y="823.0" font-size="30.0px" textLength="47.0" lengthAdjust="spacingAndGlyphs">bis</tspan>
+  <tspan x="103.0" y="823.5" font-size="29.0px" textLength="43.0" lengthAdjust="spacingAndGlyphs">60</tspan>
+  <tspan x="160.0" y="823.0" font-size="30.0px" textLength="173.0" lengthAdjust="spacingAndGlyphs">Sekunden</tspan>
+  <tspan x="349.0" y="825.5" font-size="35.0px" textLength="119.0" lengthAdjust="spacingAndGlyphs">halten,</tspan>
+  <tspan x="483.0" y="823.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">drei</tspan>
+  <tspan x="563.0" y="823.0" font-size="30.0px" textLength="46.0" lengthAdjust="spacingAndGlyphs">bis</tspan>
+  <tspan x="621.0" y="823.5" font-size="29.0px" textLength="65.0" lengthAdjust="spacingAndGlyphs">vier</tspan>
+  <tspan x="698.0" y="827.0" font-size="38.0px" textLength="294.0" lengthAdjust="spacingAndGlyphs">Wiederholungen</tspan>
+  <tspan x="43.0" y="889.5" font-size="29.0px" textLength="28.0" lengthAdjust="spacingAndGlyphs">5.</tspan>
+  <tspan x="95.0" y="893.0" font-size="38.0px" textLength="209.0" lengthAdjust="spacingAndGlyphs">Rückenlage,</tspan>
+  <tspan x="329.0" y="889.5" font-size="29.0px" textLength="94.0" lengthAdjust="spacingAndGlyphs">Beine</tspan>
+  <tspan x="446.0" y="893.0" font-size="38.0px" textLength="163.0" lengthAdjust="spacingAndGlyphs">gestreckt</tspan>
+  <tspan x="630.0" y="893.5" font-size="21.0px" textLength="55.0" lengthAdjust="spacingAndGlyphs">zur</tspan>
+  <tspan x="707.0" y="891.5" font-size="35.0px" textLength="111.0" lengthAdjust="spacingAndGlyphs">Decke,</tspan>
+  <tspan x="840.0" y="891.5" font-size="35.0px" textLength="188.0" lengthAdjust="spacingAndGlyphs">versuchen,</tspan>
+  <tspan x="1052.0" y="889.0" font-size="28.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">mit</tspan>
+  <tspan x="1130.0" y="889.0" font-size="30.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">den</tspan>
+  <tspan x="1218.0" y="889.0" font-size="30.0px" textLength="134.0" lengthAdjust="spacingAndGlyphs">Händen</tspan>
+  <tspan x="1376.0" y="889.0" font-size="30.0px" textLength="50.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="1450.0" y="888.5" font-size="31.0px" textLength="84.0" lengthAdjust="spacingAndGlyphs">Füße</tspan>
+  <tspan x="1555.0" y="893.5" font-size="21.0px" textLength="38.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="1617.0" y="891.5" font-size="35.0px" textLength="168.0" lengthAdjust="spacingAndGlyphs">berühren,</tspan>
+  <tspan x="1809.0" y="889.0" font-size="30.0px" textLength="133.0" lengthAdjust="spacingAndGlyphs">dreimal</tspan>
+  <tspan x="1964.0" y="889.5" font-size="29.0px" textLength="43.0" lengthAdjust="spacingAndGlyphs">20</tspan>
+  <tspan x="41.0" y="959.0" font-size="38.0px" textLength="294.0" lengthAdjust="spacingAndGlyphs">Wiederholungen</tspan>
+  <tspan x="350.0" y="955.0" font-size="30.0px" textLength="152.0" lengthAdjust="spacingAndGlyphs">inklusive</tspan>
+  <tspan x="517.0" y="955.0" font-size="30.0px" textLength="142.0" lengthAdjust="spacingAndGlyphs">Gewicht</tspan>
+  <tspan x="673.0" y="955.0" font-size="28.0px" textLength="28.0" lengthAdjust="spacingAndGlyphs">in</tspan>
+  <tspan x="717.0" y="955.0" font-size="30.0px" textLength="134.0" lengthAdjust="spacingAndGlyphs">Händen</tspan>
+  <tspan x="42.0" y="1021.5" font-size="29.0px" textLength="29.0" lengthAdjust="spacingAndGlyphs">6.</tspan>
+  <tspan x="88.0" y="1025.0" font-size="38.0px" textLength="209.0" lengthAdjust="spacingAndGlyphs">Rückenlage,</tspan>
+  <tspan x="316.0" y="1021.5" font-size="29.0px" textLength="94.0" lengthAdjust="spacingAndGlyphs">Beine</tspan>
+  <tspan x="426.0" y="1025.0" font-size="38.0px" textLength="163.0" lengthAdjust="spacingAndGlyphs">gestreckt</tspan>
+  <tspan x="605.0" y="1021.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">nach</tspan>
+  <tspan x="702.0" y="1023.5" font-size="35.0px" textLength="95.0" lengthAdjust="spacingAndGlyphs">oben,</tspan>
+  <tspan x="816.0" y="1021.5" font-size="29.0px" textLength="94.0" lengthAdjust="spacingAndGlyphs">Beine</tspan>
+  <tspan x="927.0" y="1021.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">nach</tspan>
+  <tspan x="1025.0" y="1021.0" font-size="30.0px" textLength="78.0" lengthAdjust="spacingAndGlyphs">links</tspan>
+  <tspan x="1119.0" y="1021.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1201.0" y="1021.0" font-size="30.0px" textLength="105.0" lengthAdjust="spacingAndGlyphs">rechts</tspan>
+  <tspan x="1321.0" y="1021.0" font-size="30.0px" textLength="110.0" lengthAdjust="spacingAndGlyphs">sinken</tspan>
+  <tspan x="1449.0" y="1023.5" font-size="35.0px" textLength="114.0" lengthAdjust="spacingAndGlyphs">lassen,</tspan>
+  <tspan x="1580.0" y="1021.0" font-size="30.0px" textLength="133.0" lengthAdjust="spacingAndGlyphs">dreimal</tspan>
+  <tspan x="1728.0" y="1021.0" font-size="30.0px" textLength="75.0" lengthAdjust="spacingAndGlyphs">acht</tspan>
+  <tspan x="1819.0" y="1021.0" font-size="30.0px" textLength="47.0" lengthAdjust="spacingAndGlyphs">bis</tspan>
+  <tspan x="1880.0" y="1021.0" font-size="30.0px" textLength="82.0" lengthAdjust="spacingAndGlyphs">zehn</tspan>
+  <tspan x="1976.0" y="1025.5" font-size="37.0px" textLength="30.0" lengthAdjust="spacingAndGlyphs">je</tspan>
+  <tspan x="42.0" y="1087.5" font-size="29.0px" textLength="95.0" lengthAdjust="spacingAndGlyphs">Seite.</tspan>
+  <tspan x="150.0" y="1091.0" font-size="38.0px" textLength="158.0" lengthAdjust="spacingAndGlyphs">Achtung:</tspan>
+  <tspan x="323.0" y="1091.0" font-size="38.0px" textLength="168.0" lengthAdjust="spacingAndGlyphs">langsame</tspan>
+  <tspan x="504.0" y="1090.5" font-size="39.0px" textLength="206.0" lengthAdjust="spacingAndGlyphs">Ausführung</tspan>
+  <tspan x="726.0" y="1087.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="806.0" y="1086.5" font-size="29.0px" textLength="86.0" lengthAdjust="spacingAndGlyphs">nicht</tspan>
+  <tspan x="905.0" y="1087.0" font-size="30.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">den</tspan>
+  <tspan x="985.0" y="1087.0" font-size="30.0px" textLength="108.0" lengthAdjust="spacingAndGlyphs">Boden</tspan>
+  <tspan x="1109.0" y="1087.0" font-size="30.0px" textLength="158.0" lengthAdjust="spacingAndGlyphs">berühren</tspan>
+</text>
+</svg>

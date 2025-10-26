@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0244-00100.avif"/>
+<text x="666.0" y="267.0" xml:space="preserve"> </text>
+<text x="666.0" y="268.0">
+  <tspan x="666.0" y="316.0" font-size="96.0px" textLength="196.0" lengthAdjust="spacingAndGlyphs">TSN</tspan>
+  <tspan x="1057.0" y="301.5" font-size="21.0px" textLength="97.0" lengthAdjust="spacingAndGlyphs">Lued'ze</tspan>
+  <tspan x="930.0" y="928.0" font-size="30.0px" textLength="142.0" lengthAdjust="spacingAndGlyphs">Abbildung</tspan>
+  <tspan x="1082.0" y="925.0" font-size="22.0px" textLength="35.0" lengthAdjust="spacingAndGlyphs">22</tspan>
+  <tspan x="43.0" y="1015.0" font-size="28.0px" textLength="61.0" lengthAdjust="spacingAndGlyphs">Das</tspan>
+  <tspan x="117.0" y="1018.0" font-size="38.0px" textLength="396.0" lengthAdjust="spacingAndGlyphs">Zwiebelschalensystem</tspan>
+  <tspan x="529.0" y="1014.0" font-size="30.0px" textLength="132.0" lengthAdjust="spacingAndGlyphs">besteht</tspan>
+  <tspan x="675.0" y="1014.5" font-size="29.0px" textLength="28.0" lengthAdjust="spacingAndGlyphs">in</tspan>
+  <tspan x="718.0" y="1014.0" font-size="30.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="789.0" y="1018.0" font-size="38.0px" textLength="96.0" lengthAdjust="spacingAndGlyphs">Regel</tspan>
+  <tspan x="897.0" y="1018.5" font-size="21.0px" textLength="59.0" lengthAdjust="spacingAndGlyphs">aus</tspan>
+  <tspan x="969.0" y="1014.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">drei</tspan>
+  <tspan x="1048.0" y="1014.0" font-size="30.0px" textLength="181.0" lengthAdjust="spacingAndGlyphs">Schichten:</tspan>
+  <tspan x="44.0" y="1103.0" font-size="28.0px" textLength="27.0" lengthAdjust="spacingAndGlyphs">1.</tspan>
+  <tspan x="92.0" y="1102.5" font-size="31.0px" textLength="220.0" lengthAdjust="spacingAndGlyphs">Basisschicht:</tspan>
+  <tspan x="333.0" y="1103.0" font-size="30.0px" textLength="92.0" lengthAdjust="spacingAndGlyphs">Diese</tspan>
+  <tspan x="445.0" y="1102.5" font-size="31.0px" textLength="127.0" lengthAdjust="spacingAndGlyphs">Schicht</tspan>
+  <tspan x="592.0" y="1106.5" font-size="39.0px" textLength="77.0" lengthAdjust="spacingAndGlyphs">liegt</tspan>
+  <tspan x="688.0" y="1102.5" font-size="31.0px" textLength="102.0" lengthAdjust="spacingAndGlyphs">direkt</tspan>
+  <tspan x="809.0" y="1102.5" font-size="31.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">auf</tspan>
+  <tspan x="883.0" y="1102.5" font-size="31.0px" textLength="58.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="960.0" y="1103.5" font-size="29.0px" textLength="83.0" lengthAdjust="spacingAndGlyphs">Haut</tspan>
+  <tspan x="1063.0" y="1102.5" font-size="31.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1147.0" y="1102.5" font-size="31.0px" textLength="60.0" lengthAdjust="spacingAndGlyphs">soll</tspan>
+  <tspan x="1227.0" y="1102.5" font-size="31.0px" textLength="146.0" lengthAdjust="spacingAndGlyphs">Schweiß</tspan>
+  <tspan x="1390.0" y="1107.0" font-size="22.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="1473.0" y="1102.5" font-size="31.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="1550.0" y="1103.5" font-size="29.0px" textLength="83.0" lengthAdjust="spacingAndGlyphs">Haut</tspan>
+  <tspan x="1650.0" y="1111.0" font-size="30.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">weg</tspan>
+  <tspan x="1740.0" y="1106.5" font-size="37.0px" textLength="265.0" lengthAdjust="spacingAndGlyphs">transportieren,</tspan>
+</text>
+</svg>

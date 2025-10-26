@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0103-00100.avif"/>
+<text x="43.0" y="16.0" xml:space="preserve"> </text>
+<text x="43.0" y="17.0">
+  <tspan x="43.0" y="35.0" font-size="34.0px" textLength="127.0" lengthAdjust="spacingAndGlyphs">Kosten,</tspan>
+  <tspan x="185.0" y="32.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="251.0" y="32.0" font-size="30.0px" textLength="138.0" lengthAdjust="spacingAndGlyphs">letztlich</tspan>
+  <tspan x="405.0" y="35.5" font-size="37.0px" textLength="166.0" lengthAdjust="spacingAndGlyphs">polnische</tspan>
+  <tspan x="586.0" y="32.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="663.0" y="32.0" font-size="30.0px" textLength="224.0" lengthAdjust="spacingAndGlyphs">tschechische</tspan>
+  <tspan x="900.0" y="32.0" font-size="30.0px" textLength="217.0" lengthAdjust="spacingAndGlyphs">Verbraucher</tspan>
+  <tspan x="1129.0" y="37.5" font-size="35.0px" textLength="114.0" lengthAdjust="spacingAndGlyphs">tragen</tspan>
+  <tspan x="1259.0" y="32.5" font-size="29.0px" textLength="141.0" lengthAdjust="spacingAndGlyphs">müssen.</tspan>
+</text>
+</svg>

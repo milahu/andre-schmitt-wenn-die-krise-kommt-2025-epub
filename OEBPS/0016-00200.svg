@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0016-00200.avif"/>
+<text x="75.0" y="15.0" xml:space="preserve"> </text>
+<text x="75.0" y="16.0">
+  <tspan x="75.0" y="32.5" font-size="29.0px" textLength="98.0" lengthAdjust="spacingAndGlyphs">35.10</tspan>
+  <tspan x="188.0" y="31.5" font-size="31.0px" textLength="200.0" lengthAdjust="spacingAndGlyphs">Herzinfarkt</tspan>
+</text>
+<text x="75.0" y="79.0" xml:space="preserve"> </text>
+<text x="75.0" y="80.0">
+  <tspan x="75.0" y="96.5" font-size="29.0px" textLength="92.0" lengthAdjust="spacingAndGlyphs">35.11</tspan>
+  <tspan x="188.0" y="100.0" font-size="38.0px" textLength="232.0" lengthAdjust="spacingAndGlyphs">Hirnbedingte</tspan>
+  <tspan x="435.0" y="99.0" font-size="38.0px" textLength="252.0" lengthAdjust="spacingAndGlyphs">Krampfanfälle</tspan>
+</text>
+<text x="75.0" y="144.0" xml:space="preserve"> </text>
+<text x="75.0" y="145.0">
+  <tspan x="75.0" y="160.5" font-size="29.0px" textLength="98.0" lengthAdjust="spacingAndGlyphs">35.12</tspan>
+  <tspan x="189.0" y="160.5" font-size="29.0px" textLength="108.0" lengthAdjust="spacingAndGlyphs">Innere</tspan>
+  <tspan x="313.0" y="164.0" font-size="38.0px" textLength="244.0" lengthAdjust="spacingAndGlyphs">Erkrankungen</tspan>
+  <tspan x="573.0" y="160.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="651.0" y="164.0" font-size="38.0px" textLength="235.0" lengthAdjust="spacingAndGlyphs">Verletzungen</tspan>
+</text>
+<text x="75.0" y="208.0" xml:space="preserve"> </text>
+<text x="75.0" y="209.0">
+  <tspan x="75.0" y="224.5" font-size="29.0px" textLength="97.0" lengthAdjust="spacingAndGlyphs">35.13</tspan>
+  <tspan x="188.0" y="224.0" font-size="30.0px" textLength="284.0" lengthAdjust="spacingAndGlyphs">Rauschzustände</tspan>
+</text>
+<text x="75.0" y="271.0" xml:space="preserve"> </text>
+<text x="75.0" y="272.0">
+  <tspan x="75.0" y="288.5" font-size="29.0px" textLength="99.0" lengthAdjust="spacingAndGlyphs">35.14</tspan>
+  <tspan x="187.0" y="291.5" font-size="39.0px" textLength="218.0" lengthAdjust="spacingAndGlyphs">Schlaganfall</tspan>
+</text>
+<text x="75.0" y="336.0" xml:space="preserve"> </text>
+<text x="75.0" y="337.0">
+  <tspan x="75.0" y="352.5" font-size="29.0px" textLength="97.0" lengthAdjust="spacingAndGlyphs">35.15</tspan>
+  <tspan x="187.0" y="352.0" font-size="30.0px" textLength="263.0" lengthAdjust="spacingAndGlyphs">Schockzustand</tspan>
+</text>
+<text x="75.0" y="400.0" xml:space="preserve"> </text>
+<text x="75.0" y="401.0">
+  <tspan x="75.0" y="416.5" font-size="29.0px" textLength="98.0" lengthAdjust="spacingAndGlyphs">35.16</tspan>
+  <tspan x="187.0" y="416.0" font-size="30.0px" textLength="215.0" lengthAdjust="spacingAndGlyphs">Sonnenstich</tspan>
+</text>
+<text x="75.0" y="464.0" xml:space="preserve"> </text>
+<text x="75.0" y="465.0">
+  <tspan x="75.0" y="480.5" font-size="29.0px" textLength="97.0" lengthAdjust="spacingAndGlyphs">35.17</tspan>
+  <tspan x="187.0" y="484.0" font-size="38.0px" textLength="219.0" lengthAdjust="spacingAndGlyphs">Stromschlag</tspan>
+</text>
+<text x="75.0" y="529.0" xml:space="preserve"> </text>
+<text x="75.0" y="530.0">
+  <tspan x="75.0" y="544.5" font-size="29.0px" textLength="98.0" lengthAdjust="spacingAndGlyphs">35.18</tspan>
+  <tspan x="186.0" y="548.5" font-size="37.0px" textLength="224.0" lengthAdjust="spacingAndGlyphs">Verätzungen</tspan>
+</text>
+<text x="75.0" y="592.0" xml:space="preserve"> </text>
+<text x="75.0" y="593.0">
+  <tspan x="75.0" y="608.5" font-size="29.0px" textLength="98.0" lengthAdjust="spacingAndGlyphs">35.19</tspan>
+  <tspan x="186.0" y="612.0" font-size="38.0px" textLength="284.0" lengthAdjust="spacingAndGlyphs">Verbrennungen,</tspan>
+  <tspan x="484.0" y="612.0" font-size="38.0px" textLength="253.0" lengthAdjust="spacingAndGlyphs">Verbrühungen</tspan>
+  <tspan x="753.0" y="608.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="833.0" y="608.0" font-size="30.0px" textLength="245.0" lengthAdjust="spacingAndGlyphs">Brandwunden</tspan>
+  <tspan x="75.0" y="672.5" font-size="29.0px" textLength="98.0" lengthAdjust="spacingAndGlyphs">35.20</tspan>
+  <tspan x="186.0" y="675.5" font-size="39.0px" textLength="232.0" lengthAdjust="spacingAndGlyphs">Vergiftungen</tspan>
+  <tspan x="434.0" y="672.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="514.0" y="671.5" font-size="31.0px" textLength="81.0" lengthAdjust="spacingAndGlyphs">Hilfe</tspan>
+  <tspan x="610.0" y="672.0" font-size="30.0px" textLength="49.0" lengthAdjust="spacingAndGlyphs">bei</tspan>
+  <tspan x="675.0" y="672.0" font-size="30.0px" textLength="175.0" lengthAdjust="spacingAndGlyphs">Erbrechen</tspan>
+</text>
+<text x="75.0" y="720.0" xml:space="preserve"> </text>
+<text x="75.0" y="721.0">
+  <tspan x="75.0" y="736.5" font-size="29.0px" textLength="92.0" lengthAdjust="spacingAndGlyphs">35.21</tspan>
+  <tspan x="186.0" y="740.0" font-size="38.0px" textLength="235.0" lengthAdjust="spacingAndGlyphs">Verletzungen</tspan>
+  <tspan x="436.0" y="740.0" font-size="22.0px" textLength="52.0" lengthAdjust="spacingAndGlyphs">am</tspan>
+  <tspan x="504.0" y="740.0" font-size="36.0px" textLength="238.0" lengthAdjust="spacingAndGlyphs">Körperstamm</tspan>
+</text>
+<text x="75.0" y="783.0" xml:space="preserve"> </text>
+<text x="75.0" y="784.0">
+  <tspan x="75.0" y="800.5" font-size="29.0px" textLength="98.0" lengthAdjust="spacingAndGlyphs">35.22</tspan>
+  <tspan x="186.0" y="804.0" font-size="38.0px" textLength="313.0" lengthAdjust="spacingAndGlyphs">Wundversorgung,</tspan>
+  <tspan x="513.0" y="800.0" font-size="30.0px" textLength="169.0" lengthAdjust="spacingAndGlyphs">Verbände</tspan>
+  <tspan x="697.0" y="800.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="777.0" y="799.5" font-size="31.0px" textLength="186.0" lengthAdjust="spacingAndGlyphs">Hilfsmittel</tspan>
+  <tspan x="75.0" y="864.5" font-size="29.0px" textLength="97.0" lengthAdjust="spacingAndGlyphs">35.23</tspan>
+  <tspan x="188.0" y="867.0" font-size="38.0px" textLength="340.0" lengthAdjust="spacingAndGlyphs">Kampfstoff-Einsatz</tspan>
+</text>
+<text x="75.0" y="912.0" xml:space="preserve"> </text>
+<text x="75.0" y="913.0">
+  <tspan x="75.0" y="928.5" font-size="29.0px" textLength="99.0" lengthAdjust="spacingAndGlyphs">35.24</tspan>
+  <tspan x="188.0" y="928.0" font-size="30.0px" textLength="198.0" lengthAdjust="spacingAndGlyphs">Heilkräuter</tspan>
+  <tspan x="399.0" y="928.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="479.0" y="928.0" font-size="30.0px" textLength="189.0" lengthAdjust="spacingAndGlyphs">Heilbäume</tspan>
+</text>
+<text x="75.0" y="976.0" xml:space="preserve"> </text>
+<text x="75.0" y="977.0">
+  <tspan x="75.0" y="992.5" font-size="29.0px" textLength="97.0" lengthAdjust="spacingAndGlyphs">35.25</tspan>
+  <tspan x="186.0" y="992.0" font-size="30.0px" textLength="310.0" lengthAdjust="spacingAndGlyphs">Verhaltensweisen</tspan>
+  <tspan x="512.0" y="992.0" font-size="30.0px" textLength="49.0" lengthAdjust="spacingAndGlyphs">bei</tspan>
+  <tspan x="576.0" y="993.5" font-size="27.0px" textLength="160.0" lengthAdjust="spacingAndGlyphs">extremer</tspan>
+  <tspan x="750.0" y="992.5" font-size="29.0px" textLength="88.0" lengthAdjust="spacingAndGlyphs">Hitze</tspan>
+  <tspan x="852.0" y="992.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="933.0" y="992.0" font-size="30.0px" textLength="87.0" lengthAdjust="spacingAndGlyphs">Kälte</tspan>
+  <tspan x="75.0" y="1056.5" font-size="29.0px" textLength="98.0" lengthAdjust="spacingAndGlyphs">35.26</tspan>
+  <tspan x="188.0" y="1059.5" font-size="39.0px" textLength="204.0" lengthAdjust="spacingAndGlyphs">Fußhygiene</tspan>
+</text>
+</svg>

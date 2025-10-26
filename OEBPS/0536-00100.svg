@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0536-00100.avif"/>
+<text x="42.0" y="15.0" xml:space="preserve"> </text>
+<text x="42.0" y="16.0">
+  <tspan x="42.0" y="35.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="65.0" y="35.5" font-size="39.0px" textLength="417.0" lengthAdjust="spacingAndGlyphs">www.netzfrequenz.info</tspan>
+</text>
+<text x="42.0" y="82.0" xml:space="preserve"> </text>
+<text x="42.0" y="83.0">
+  <tspan x="42.0" y="101.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">»</tspan>
+  <tspan x="65.0" y="102.0" font-size="38.0px" textLength="332.0" lengthAdjust="spacingAndGlyphs">www.gridradar.net</tspan>
+</text>
+<text x="42.0" y="148.0" xml:space="preserve"> </text>
+<text x="42.0" y="149.0">
+  <tspan x="42.0" y="167.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">ee</tspan>
+  <tspan x="65.0" y="164.0" font-size="30.0px" textLength="386.0" lengthAdjust="spacingAndGlyphs">www.sO-recorder.com</tspan>
+</text>
+<text x="42.0" y="213.0" xml:space="preserve"> </text>
+<text x="42.0" y="214.0">
+  <tspan x="42.0" y="233.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="65.0" y="233.5" font-size="39.0px" textLength="550.0" lengthAdjust="spacingAndGlyphs">www.netzfrequenzmessung.de</tspan>
+  <tspan x="42.0" y="299.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">»</tspan>
+  <tspan x="65.0" y="300.0" font-size="38.0px" textLength="312.0" lengthAdjust="spacingAndGlyphs">www.swissgrid.ch</tspan>
+</text>
+</svg>

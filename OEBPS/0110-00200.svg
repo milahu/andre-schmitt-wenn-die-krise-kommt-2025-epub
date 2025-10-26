@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0110-00200.avif"/>
+<text x="43.0" y="15.0" xml:space="preserve"> </text>
+<text x="43.0" y="16.0">
+  <tspan x="43.0" y="32.5" font-size="29.0px" textLength="38.0" lengthAdjust="spacingAndGlyphs">ist</tspan>
+  <tspan x="101.0" y="31.5" font-size="31.0px" textLength="217.0" lengthAdjust="spacingAndGlyphs">erforderlich.</tspan>
+  <tspan x="341.0" y="32.5" font-size="29.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">Dies</tspan>
+  <tspan x="433.0" y="31.5" font-size="31.0px" textLength="139.0" lengthAdjust="spacingAndGlyphs">umfasst</tspan>
+  <tspan x="592.0" y="32.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="665.0" y="35.5" font-size="39.0px" textLength="220.0" lengthAdjust="spacingAndGlyphs">regelmäßige</tspan>
+  <tspan x="905.0" y="36.5" font-size="37.0px" textLength="153.0" lengthAdjust="spacingAndGlyphs">Wartung</tspan>
+  <tspan x="1080.0" y="32.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1167.0" y="36.0" font-size="38.0px" textLength="275.0" lengthAdjust="spacingAndGlyphs">Modernisierung</tspan>
+  <tspan x="1464.0" y="32.0" font-size="30.0px" textLength="56.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="1541.0" y="34.0" font-size="36.0px" textLength="230.0" lengthAdjust="spacingAndGlyphs">Infrastruktur,</tspan>
+  <tspan x="1793.0" y="32.0" font-size="30.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">den</tspan>
+  <tspan x="1876.0" y="32.0" font-size="30.0px" textLength="129.0" lengthAdjust="spacingAndGlyphs">Ausbau</tspan>
+  <tspan x="42.0" y="98.0" font-size="30.0px" textLength="230.0" lengthAdjust="spacingAndGlyphs">erneuerbarer</tspan>
+  <tspan x="289.0" y="102.0" font-size="38.0px" textLength="263.0" lengthAdjust="spacingAndGlyphs">Energiequellen</tspan>
+  <tspan x="571.0" y="98.0" font-size="30.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="652.0" y="98.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="722.0" y="102.0" font-size="38.0px" textLength="179.0" lengthAdjust="spacingAndGlyphs">Förderung</tspan>
+  <tspan x="919.0" y="98.5" font-size="29.0px" textLength="89.0" lengthAdjust="spacingAndGlyphs">eines</tspan>
+  <tspan x="1025.0" y="97.5" font-size="31.0px" textLength="186.0" lengthAdjust="spacingAndGlyphs">effizienten</tspan>
+  <tspan x="1231.0" y="102.5" font-size="37.0px" textLength="386.0" lengthAdjust="spacingAndGlyphs">Energiemanagements</tspan>
+  <tspan x="1633.0" y="97.5" font-size="31.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">auf</tspan>
+  <tspan x="1706.0" y="98.0" font-size="30.0px" textLength="219.0" lengthAdjust="spacingAndGlyphs">individueller</tspan>
+  <tspan x="1941.0" y="98.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="43.0" y="164.0" font-size="30.0px" textLength="261.0" lengthAdjust="spacingAndGlyphs">institutioneller</tspan>
+  <tspan x="318.0" y="164.0" font-size="30.0px" textLength="115.0" lengthAdjust="spacingAndGlyphs">Ebene.</tspan>
+</text>
+</svg>

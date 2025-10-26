@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0637-00100.avif"/>
+<text x="714.0" y="102.0" xml:space="preserve"> </text>
+<text x="714.0" y="103.0">
+  <tspan x="714.0" y="120.0" font-size="34.0px" textLength="177.0" lengthAdjust="spacingAndGlyphs">BITCOIN</tspan>
+  <tspan x="914.0" y="120.0" font-size="34.0px" textLength="190.0" lengthAdjust="spacingAndGlyphs">ENDLICH</tspan>
+  <tspan x="712.0" y="173.5" font-size="59.0px" textLength="351.0" lengthAdjust="spacingAndGlyphs">VERSTÄNDLICH</tspan>
+  <tspan x="714.0" y="221.0" font-size="34.0px" textLength="201.0" lengthAdjust="spacingAndGlyphs">ERKLART.</tspan>
+  <tspan x="1189.0" y="373.5" font-size="21.0px" textLength="62.0" lengthAdjust="spacingAndGlyphs">Autor</tspan>
+  <tspan x="940.0" y="685.0" font-size="22.0px" textLength="40.0" lengthAdjust="spacingAndGlyphs">DIE</tspan>
+  <tspan x="987.0" y="692.5" font-size="29.0px" textLength="113.0" lengthAdjust="spacingAndGlyphs">GRÖSSTE</tspan>
+  <tspan x="928.0" y="763.0" font-size="24.0px" textLength="77.0" lengthAdjust="spacingAndGlyphs">ALLER</tspan>
+  <tspan x="1014.0" y="771.0" font-size="26.0px" textLength="84.0" lengthAdjust="spacingAndGlyphs">ZEITEN</tspan>
+  <tspan x="1112.0" y="739.0" font-size="30.0px" textLength="22.0" lengthAdjust="spacingAndGlyphs">8</tspan>
+  <tspan x="813.0" y="808.5" font-size="31.0px" textLength="69.0" lengthAdjust="spacingAndGlyphs">FBV</tspan>
+  <tspan x="1079.0" y="828.5" font-size="19.0px" textLength="3.0" lengthAdjust="spacingAndGlyphs">:</tspan>
+  <tspan x="1180.0" y="829.0" font-size="4.0px" textLength="1.0" lengthAdjust="spacingAndGlyphs">|</tspan>
+  <tspan x="930.0" y="971.0" font-size="24.0px" textLength="94.0" lengthAdjust="spacingAndGlyphs">JETZT</tspan>
+  <tspan x="1038.0" y="971.0" font-size="24.0px" textLength="170.0" lengthAdjust="spacingAndGlyphs">BESTELLEN</tspan>
+  <tspan x="1222.0" y="971.0" font-size="24.0px" textLength="111.0" lengthAdjust="spacingAndGlyphs">UNTER:</tspan>
+  <tspan x="979.0" y="1004.5" font-size="25.0px" textLength="354.0" lengthAdjust="spacingAndGlyphs">www.marc-friedrich.de</tspan>
+</text>
+</svg>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0132-00200.avif"/>
+<text x="42.0" y="16.0" xml:space="preserve"> </text>
+<text x="42.0" y="17.0">
+  <tspan x="42.0" y="35.0" font-size="34.0px" textLength="74.0" lengthAdjust="spacingAndGlyphs">Zeit,</tspan>
+  <tspan x="130.0" y="32.0" font-size="30.0px" textLength="65.0" lengthAdjust="spacingAndGlyphs">sich</tspan>
+  <tspan x="211.0" y="36.0" font-size="22.0px" textLength="52.0" lengthAdjust="spacingAndGlyphs">um</tspan>
+  <tspan x="278.0" y="32.5" font-size="29.0px" textLength="72.0" lengthAdjust="spacingAndGlyphs">eine</tspan>
+  <tspan x="363.0" y="32.0" font-size="30.0px" textLength="103.0" lengthAdjust="spacingAndGlyphs">solide</tspan>
+  <tspan x="478.0" y="36.0" font-size="38.0px" textLength="219.0" lengthAdjust="spacingAndGlyphs">Absicherung</tspan>
+  <tspan x="713.0" y="32.0" font-size="28.0px" textLength="28.0" lengthAdjust="spacingAndGlyphs">in</tspan>
+  <tspan x="757.0" y="32.5" font-size="29.0px" textLength="214.0" lengthAdjust="spacingAndGlyphs">Krisenzeiten</tspan>
+  <tspan x="985.0" y="32.0" font-size="30.0px" textLength="103.0" lengthAdjust="spacingAndGlyphs">selbst</tspan>
+  <tspan x="1102.0" y="32.0" font-size="30.0px" textLength="174.0" lengthAdjust="spacingAndGlyphs">Gedanken</tspan>
+  <tspan x="1291.0" y="36.5" font-size="21.0px" textLength="37.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="1344.0" y="32.0" font-size="30.0px" textLength="147.0" lengthAdjust="spacingAndGlyphs">machen.</tspan>
+</text>
+<text x="889.0" y="91.0" xml:space="preserve"> </text>
+<text x="889.0" y="92.0">
+  <tspan x="889.0" y="117.5" font-size="51.0px" textLength="123.0" lengthAdjust="spacingAndGlyphs">[Ex</tspan>
+  <tspan x="1106.0" y="117.5" font-size="51.0px" textLength="52.0" lengthAdjust="spacingAndGlyphs">AE]</tspan>
+  <tspan x="933.0" y="234.5" font-size="7.0px" textLength="14.0" lengthAdjust="spacingAndGlyphs">~</tspan>
+  <tspan x="1024.0" y="232.0" font-size="24.0px" textLength="6.0" lengthAdjust="spacingAndGlyphs">|</tspan>
+  <tspan x="1034.0" y="232.0" font-size="24.0px" textLength="10.0" lengthAdjust="spacingAndGlyphs">5,</tspan>
+  <tspan x="1107.0" y="234.0" font-size="6.0px" textLength="8.0" lengthAdjust="spacingAndGlyphs">-</tspan>
+  <tspan x="911.0" y="249.0" font-size="22.0px" textLength="21.0" lengthAdjust="spacingAndGlyphs">a</tspan>
+  <tspan x="1057.0" y="252.5" font-size="43.0px" textLength="58.0" lengthAdjust="spacingAndGlyphs">=</tspan>
+</text>
+<text x="911.0" y="230.0" xml:space="preserve"> </text>
+<text x="911.0" y="231.0">
+  <tspan x="911.0" y="288.5" font-size="15.0px" textLength="59.0" lengthAdjust="spacingAndGlyphs">rH</tspan>
+  <tspan x="991.0" y="267.0" font-size="72.0px" textLength="124.0" lengthAdjust="spacingAndGlyphs">a</tspan>
+  <tspan x="1135.0" y="300.0" font-size="8.0px" textLength="9.0" lengthAdjust="spacingAndGlyphs">:</tspan>
+</text>
+<text x="889.0" y="280.0" xml:space="preserve"> </text>
+<text x="889.0" y="281.0">
+  <tspan x="889.0" y="321.5" font-size="81.0px" textLength="262.0" lengthAdjust="spacingAndGlyphs">ERE</tspan>
+  <tspan x="955.0" y="351.0" font-size="6.0px" textLength="6.0" lengthAdjust="spacingAndGlyphs">x</tspan>
+  <tspan x="1071.0" y="354.5" font-size="15.0px" textLength="36.0" lengthAdjust="spacingAndGlyphs">Le</tspan>
+</text>
+<text x="642.0" y="408.0" xml:space="preserve"> </text>
+<text x="642.0" y="409.0">
+  <tspan x="642.0" y="425.0" font-size="30.0px" textLength="245.0" lengthAdjust="spacingAndGlyphs">Expertengesprdch</tspan>
+  <tspan x="896.0" y="421.5" font-size="25.0px" textLength="84.0" lengthAdjust="spacingAndGlyphs">André</tspan>
+  <tspan x="987.0" y="422.0" font-size="24.0px" textLength="110.0" lengthAdjust="spacingAndGlyphs">Schmitt</tspan>
+  <tspan x="1107.0" y="422.5" font-size="23.0px" textLength="19.0" lengthAdjust="spacingAndGlyphs">&amp;</tspan>
+  <tspan x="1138.0" y="422.0" font-size="24.0px" textLength="91.0" lengthAdjust="spacingAndGlyphs">Robert</tspan>
+  <tspan x="1236.0" y="425.0" font-size="30.0px" textLength="171.0" lengthAdjust="spacingAndGlyphs">Jungnischke</tspan>
+</text>
+</svg>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0623-00200.avif"/>
+<text x="43.0" y="16.0" xml:space="preserve"> </text>
+<text x="43.0" y="17.0">
+  <tspan x="43.0" y="32.5" font-size="29.0px" textLength="61.0" lengthAdjust="spacingAndGlyphs">Das</tspan>
+  <tspan x="116.0" y="32.0" font-size="28.0px" textLength="87.0" lengthAdjust="spacingAndGlyphs">THW</tspan>
+  <tspan x="216.0" y="32.5" font-size="29.0px" textLength="39.0" lengthAdjust="spacingAndGlyphs">ist</tspan>
+  <tspan x="269.0" y="32.0" font-size="28.0px" textLength="28.0" lengthAdjust="spacingAndGlyphs">in</tspan>
+  <tspan x="311.0" y="32.0" font-size="30.0px" textLength="231.0" lengthAdjust="spacingAndGlyphs">verschiedene</tspan>
+  <tspan x="557.0" y="32.0" font-size="30.0px" textLength="230.0" lengthAdjust="spacingAndGlyphs">Fachbereiche</tspan>
+  <tspan x="801.0" y="34.5" font-size="35.0px" textLength="175.0" lengthAdjust="spacingAndGlyphs">unterteilt,</tspan>
+  <tspan x="991.0" y="32.0" font-size="30.0px" textLength="163.0" lengthAdjust="spacingAndGlyphs">darunter:</tspan>
+</text>
+<text x="42.0" y="82.0" xml:space="preserve"> </text>
+<text x="42.0" y="83.0">
+  <tspan x="42.0" y="101.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">*</tspan>
+  <tspan x="68.0" y="102.5" font-size="37.0px" textLength="145.0" lengthAdjust="spacingAndGlyphs">Bergung</tspan>
+  <tspan x="229.0" y="98.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="309.0" y="102.5" font-size="37.0px" textLength="139.0" lengthAdjust="spacingAndGlyphs">Rettung</tspan>
+</text>
+<text x="42.0" y="148.0" xml:space="preserve"> </text>
+<text x="42.0" y="149.0">
+  <tspan x="42.0" y="167.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">+</tspan>
+  <tspan x="68.0" y="168.0" font-size="38.0px" textLength="220.0" lengthAdjust="spacingAndGlyphs">Beleuchtung</tspan>
+</text>
+<text x="42.0" y="214.0" xml:space="preserve"> </text>
+<text x="42.0" y="215.0">
+  <tspan x="42.0" y="233.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="68.0" y="234.0" font-size="38.0px" textLength="323.0" lengthAdjust="spacingAndGlyphs">Elektroversorgung</tspan>
+</text>
+<text x="42.0" y="279.0" xml:space="preserve"> </text>
+<text x="42.0" y="280.0">
+  <tspan x="42.0" y="299.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="68.0" y="300.0" font-size="38.0px" textLength="205.0" lengthAdjust="spacingAndGlyphs">Fachgruppe</tspan>
+  <tspan x="286.0" y="299.5" font-size="39.0px" textLength="284.0" lengthAdjust="spacingAndGlyphs">Wassergefahren</tspan>
+</text>
+<text x="42.0" y="340.0" xml:space="preserve"> </text>
+<text x="42.0" y="341.0">
+  <tspan x="42.0" y="365.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="68.0" y="366.0" font-size="38.0px" textLength="205.0" lengthAdjust="spacingAndGlyphs">Fachgruppe</tspan>
+  <tspan x="288.0" y="359.0" font-size="36.0px" textLength="184.0" lengthAdjust="spacingAndGlyphs">Ölschaden</tspan>
+</text>
+<text x="42.0" y="412.0" xml:space="preserve"> </text>
+<text x="42.0" y="413.0">
+  <tspan x="42.0" y="431.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="68.0" y="432.0" font-size="38.0px" textLength="205.0" lengthAdjust="spacingAndGlyphs">Fachgruppe</tspan>
+  <tspan x="288.0" y="432.5" font-size="37.0px" textLength="125.0" lengthAdjust="spacingAndGlyphs">Ortung</tspan>
+</text>
+<text x="42.0" y="477.0" xml:space="preserve"> </text>
+<text x="42.0" y="478.0">
+  <tspan x="42.0" y="497.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="68.0" y="498.0" font-size="38.0px" textLength="205.0" lengthAdjust="spacingAndGlyphs">Fachgruppe</tspan>
+  <tspan x="289.0" y="493.5" font-size="31.0px" textLength="224.0" lengthAdjust="spacingAndGlyphs">Infrastruktur</tspan>
+</text>
+<text x="42.0" y="544.0" xml:space="preserve"> </text>
+<text x="42.0" y="545.0">
+  <tspan x="42.0" y="563.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">*</tspan>
+  <tspan x="68.0" y="564.0" font-size="38.0px" textLength="205.0" lengthAdjust="spacingAndGlyphs">Fachgruppe</tspan>
+  <tspan x="289.0" y="564.0" font-size="38.0px" textLength="136.0" lengthAdjust="spacingAndGlyphs">Logistik</tspan>
+</text>
+<text x="42.0" y="609.0" xml:space="preserve"> </text>
+<text x="42.0" y="610.0">
+  <tspan x="42.0" y="629.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">+</tspan>
+  <tspan x="68.0" y="630.0" font-size="38.0px" textLength="205.0" lengthAdjust="spacingAndGlyphs">Fachgruppe</tspan>
+  <tspan x="289.0" y="629.5" font-size="39.0px" textLength="621.0" lengthAdjust="spacingAndGlyphs">Notversorgung/Notinstandsetzung</tspan>
+</text>
+<text x="43.0" y="698.0" xml:space="preserve"> </text>
+<text x="43.0" y="699.0">
+  <tspan x="43.0" y="714.5" font-size="29.0px" textLength="54.0" lengthAdjust="spacingAndGlyphs">Die</tspan>
+  <tspan x="126.0" y="718.0" font-size="38.0px" textLength="227.0" lengthAdjust="spacingAndGlyphs">Fachgruppen</tspan>
+  <tspan x="382.0" y="714.0" font-size="30.0px" textLength="69.0" lengthAdjust="spacingAndGlyphs">sind</tspan>
+  <tspan x="477.0" y="718.0" font-size="38.0px" textLength="120.0" lengthAdjust="spacingAndGlyphs">jeweils</tspan>
+  <tspan x="625.0" y="714.5" font-size="29.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">mit</tspan>
+  <tspan x="709.0" y="718.0" font-size="38.0px" textLength="167.0" lengthAdjust="spacingAndGlyphs">spezieller</tspan>
+  <tspan x="901.0" y="718.5" font-size="37.0px" textLength="201.0" lengthAdjust="spacingAndGlyphs">Ausrüstung</tspan>
+  <tspan x="1132.0" y="714.0" font-size="30.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1225.0" y="714.0" font-size="30.0px" textLength="291.0" lengthAdjust="spacingAndGlyphs">Fachkenntnissen</tspan>
+  <tspan x="1544.0" y="720.0" font-size="34.0px" textLength="230.0" lengthAdjust="spacingAndGlyphs">ausgestattet,</tspan>
+  <tspan x="1804.0" y="718.5" font-size="21.0px" textLength="52.0" lengthAdjust="spacingAndGlyphs">um</tspan>
+  <tspan x="1886.0" y="714.0" font-size="28.0px" textLength="28.0" lengthAdjust="spacingAndGlyphs">in</tspan>
+  <tspan x="1942.0" y="714.0" font-size="30.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">den</tspan>
+  <tspan x="41.0" y="780.0" font-size="30.0px" textLength="253.0" lengthAdjust="spacingAndGlyphs">verschiedenen</tspan>
+  <tspan x="310.0" y="780.5" font-size="29.0px" textLength="291.0" lengthAdjust="spacingAndGlyphs">Einsatzszenarien</tspan>
+  <tspan x="616.0" y="780.0" font-size="30.0px" textLength="123.0" lengthAdjust="spacingAndGlyphs">schnell</tspan>
+  <tspan x="753.0" y="780.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="832.0" y="779.5" font-size="31.0px" textLength="134.0" lengthAdjust="spacingAndGlyphs">effektiv</tspan>
+  <tspan x="980.0" y="779.5" font-size="31.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">Hilfe</tspan>
+  <tspan x="1075.0" y="780.0" font-size="30.0px" textLength="114.0" lengthAdjust="spacingAndGlyphs">leisten</tspan>
+  <tspan x="1203.0" y="784.5" font-size="21.0px" textLength="37.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="1256.0" y="780.0" font-size="30.0px" textLength="138.0" lengthAdjust="spacingAndGlyphs">können.</tspan>
+  <tspan x="42.0" y="871.0" font-size="36.0px" textLength="136.0" lengthAdjust="spacingAndGlyphs">Quellen</tspan>
+  <tspan x="194.0" y="868.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="274.0" y="868.0" font-size="30.0px" textLength="97.0" lengthAdjust="spacingAndGlyphs">Links:</tspan>
+</text>
+<text x="42.0" y="918.0" xml:space="preserve"> </text>
+<text x="42.0" y="919.0">
+  <tspan x="42.0" y="938.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="67.0" y="934.0" font-size="30.0px" textLength="158.0" lengthAdjust="spacingAndGlyphs">Offizielle</tspan>
+  <tspan x="238.0" y="934.0" font-size="30.0px" textLength="140.0" lengthAdjust="spacingAndGlyphs">Website</tspan>
+  <tspan x="392.0" y="934.0" font-size="30.0px" textLength="59.0" lengthAdjust="spacingAndGlyphs">des</tspan>
+  <tspan x="463.0" y="935.0" font-size="28.0px" textLength="95.0" lengthAdjust="spacingAndGlyphs">THW:</tspan>
+  <tspan x="573.0" y="938.0" font-size="38.0px" textLength="375.0" lengthAdjust="spacingAndGlyphs">https://www.thw.de/</tspan>
+</text>
+<text x="42.0" y="984.0" xml:space="preserve"> </text>
+<text x="42.0" y="985.0">
+  <tspan x="42.0" y="1004.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="65.0" y="1000.0" font-size="30.0px" textLength="373.0" lengthAdjust="spacingAndGlyphs">THW-Landesverband</tspan>
+  <tspan x="454.0" y="1005.0" font-size="36.0px" textLength="127.0" lengthAdjust="spacingAndGlyphs">Bayern:</tspan>
+  <tspan x="597.0" y="1004.0" font-size="38.0px" textLength="515.0" lengthAdjust="spacingAndGlyphs">https://www.thw-bayern.de/</tspan>
+</text>
+<text x="42.0" y="1050.0" xml:space="preserve"> </text>
+<text x="42.0" y="1051.0">
+  <tspan x="42.0" y="1070.5" font-size="11.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="65.0" y="1066.0" font-size="30.0px" textLength="373.0" lengthAdjust="spacingAndGlyphs">THW-Landesverband</tspan>
+  <tspan x="454.0" y="1066.0" font-size="30.0px" textLength="381.0" lengthAdjust="spacingAndGlyphs">Nordrhein-Westfalen:</tspan>
+  <tspan x="851.0" y="1070.0" font-size="38.0px" textLength="460.0" lengthAdjust="spacingAndGlyphs">https://www.thw-nrw.de/</tspan>
+</text>
+</svg>

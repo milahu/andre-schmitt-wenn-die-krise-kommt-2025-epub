@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0150-00100.avif"/>
+<text x="40.0" y="16.0" xml:space="preserve"> </text>
+<text x="40.0" y="17.0">
+  <tspan x="40.0" y="35.0" font-size="34.0px" textLength="89.0" lengthAdjust="spacingAndGlyphs">„Was</tspan>
+  <tspan x="142.0" y="36.0" font-size="22.0px" textLength="59.0" lengthAdjust="spacingAndGlyphs">uns</tspan>
+  <tspan x="214.0" y="32.0" font-size="30.0px" textLength="88.0" lengthAdjust="spacingAndGlyphs">nicht</tspan>
+  <tspan x="313.0" y="36.0" font-size="38.0px" textLength="168.0" lengthAdjust="spacingAndGlyphs">umbringt,</tspan>
+  <tspan x="496.0" y="32.0" font-size="30.0px" textLength="112.0" lengthAdjust="spacingAndGlyphs">macht</tspan>
+  <tspan x="620.0" y="36.0" font-size="22.0px" textLength="59.0" lengthAdjust="spacingAndGlyphs">uns</tspan>
+  <tspan x="692.0" y="36.0" font-size="22.0px" textLength="60.0" lengthAdjust="spacingAndGlyphs">nur</tspan>
+  <tspan x="761.0" y="32.0" font-size="30.0px" textLength="146.0" lengthAdjust="spacingAndGlyphs">stärker.“</tspan>
+  <tspan x="42.0" y="97.5" font-size="31.0px" textLength="156.0" lengthAdjust="spacingAndGlyphs">Friedrich</tspan>
+  <tspan x="211.0" y="98.0" font-size="30.0px" textLength="173.0" lengthAdjust="spacingAndGlyphs">Nietzsche</tspan>
+</text>
+</svg>

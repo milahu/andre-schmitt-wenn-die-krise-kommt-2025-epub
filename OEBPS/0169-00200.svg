@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0169-00200.avif"/>
+<text x="139.0" y="53.0" xml:space="preserve"> </text>
+<text x="139.0" y="54.0">
+  <tspan x="139.0" y="106.5" font-size="41.0px" textLength="53.0" lengthAdjust="spacingAndGlyphs">A</tspan>
+  <tspan x="385.0" y="72.5" font-size="37.0px" textLength="39.0" lengthAdjust="spacingAndGlyphs">N</tspan>
+  <tspan x="99.0" y="447.0" font-size="14.0px" textLength="8.0" lengthAdjust="spacingAndGlyphs">R</tspan>
+  <tspan x="50.0" y="776.5" font-size="35.0px" textLength="142.0" lengthAdjust="spacingAndGlyphs">Hinckley</tspan>
+  <tspan x="204.0" y="774.0" font-size="26.0px" textLength="70.0" lengthAdjust="spacingAndGlyphs">Face</tspan>
+  <tspan x="48.0" y="853.0" font-size="10.0px" textLength="10.0" lengthAdjust="spacingAndGlyphs">+</tspan>
+  <tspan x="69.0" y="850.5" font-size="23.0px" textLength="168.0" lengthAdjust="spacingAndGlyphs">Zusammen-</tspan>
+  <tspan x="48.0" y="923.0" font-size="24.0px" textLength="136.0" lengthAdjust="spacingAndGlyphs">gezogene</tspan>
+  <tspan x="47.0" y="985.0" font-size="30.0px" textLength="191.0" lengthAdjust="spacingAndGlyphs">Augenbrauen</tspan>
+  <tspan x="48.0" y="1074.0" font-size="10.0px" textLength="10.0" lengthAdjust="spacingAndGlyphs">+</tspan>
+  <tspan x="69.0" y="1070.0" font-size="24.0px" textLength="135.0" lengthAdjust="spacingAndGlyphs">Oberlider</tspan>
+  <tspan x="213.0" y="1073.5" font-size="31.0px" textLength="86.0" lengthAdjust="spacingAndGlyphs">gehen</tspan>
+  <tspan x="311.0" y="1070.0" font-size="24.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">nach</tspan>
+  <tspan x="387.0" y="1070.0" font-size="24.0px" textLength="69.0" lengthAdjust="spacingAndGlyphs">oben</tspan>
+</text>
+</svg>

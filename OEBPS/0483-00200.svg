@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0483-00200.avif"/>
+<text x="43.0" y="15.0" xml:space="preserve"> </text>
+<text x="43.0" y="16.0">
+  <tspan x="43.0" y="32.5" font-size="29.0px" textLength="54.0" lengthAdjust="spacingAndGlyphs">Die</tspan>
+  <tspan x="116.0" y="35.5" font-size="37.0px" textLength="367.0" lengthAdjust="spacingAndGlyphs">Funkbetriebssprache</tspan>
+  <tspan x="503.0" y="32.0" font-size="30.0px" textLength="181.0" lengthAdjust="spacingAndGlyphs">beinhaltet</tspan>
+  <tspan x="703.0" y="35.5" font-size="39.0px" textLength="218.0" lengthAdjust="spacingAndGlyphs">Fachbegriffe</tspan>
+  <tspan x="940.0" y="32.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1024.0" y="35.5" font-size="37.0px" textLength="363.0" lengthAdjust="spacingAndGlyphs">Standardprozeduren</tspan>
+  <tspan x="1405.0" y="31.5" font-size="31.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">für</tspan>
+  <tspan x="1474.0" y="32.0" font-size="30.0px" textLength="189.0" lengthAdjust="spacingAndGlyphs">bestimmte</tspan>
+  <tspan x="1682.0" y="32.5" font-size="29.0px" textLength="212.0" lengthAdjust="spacingAndGlyphs">Situationen.</tspan>
+  <tspan x="1915.0" y="32.5" font-size="29.0px" textLength="91.0" lengthAdjust="spacingAndGlyphs">Diese</tspan>
+  <tspan x="42.0" y="102.0" font-size="38.0px" textLength="219.0" lengthAdjust="spacingAndGlyphs">ermöglichen</tspan>
+  <tspan x="290.0" y="98.5" font-size="29.0px" textLength="72.0" lengthAdjust="spacingAndGlyphs">eine</tspan>
+  <tspan x="390.0" y="97.5" font-size="31.0px" textLength="153.0" lengthAdjust="spacingAndGlyphs">effektive</tspan>
+  <tspan x="572.0" y="98.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="665.0" y="98.0" font-size="30.0px" textLength="203.0" lengthAdjust="spacingAndGlyphs">einheitliche</tspan>
+  <tspan x="898.0" y="100.5" font-size="35.0px" textLength="290.0" lengthAdjust="spacingAndGlyphs">Kommunikation,</tspan>
+  <tspan x="1218.0" y="98.0" font-size="30.0px" textLength="233.0" lengthAdjust="spacingAndGlyphs">insbesondere</tspan>
+  <tspan x="1480.0" y="98.0" font-size="28.0px" textLength="28.0" lengthAdjust="spacingAndGlyphs">in</tspan>
+  <tspan x="1538.0" y="97.5" font-size="31.0px" textLength="163.0" lengthAdjust="spacingAndGlyphs">Notfällen</tspan>
+  <tspan x="1730.0" y="98.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">oder</tspan>
+  <tspan x="1837.0" y="98.0" font-size="30.0px" textLength="168.0" lengthAdjust="spacingAndGlyphs">kritischen</tspan>
+  <tspan x="42.0" y="164.5" font-size="29.0px" textLength="212.0" lengthAdjust="spacingAndGlyphs">Situationen.</tspan>
+  <tspan x="275.0" y="167.5" font-size="37.0px" textLength="250.0" lengthAdjust="spacingAndGlyphs">Beispielsweise</tspan>
+  <tspan x="542.0" y="163.5" font-size="29.0px" textLength="75.0" lengthAdjust="spacingAndGlyphs">wird</tspan>
+  <tspan x="637.0" y="164.0" font-size="30.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="712.0" y="167.5" font-size="39.0px" textLength="118.0" lengthAdjust="spacingAndGlyphs">Begriff</tspan>
+  <tspan x="847.0" y="168.0" font-size="38.0px" textLength="167.0" lengthAdjust="spacingAndGlyphs">„Mayday“</tspan>
+  <tspan x="1032.0" y="166.5" font-size="35.0px" textLength="197.0" lengthAdjust="spacingAndGlyphs">verwendet,</tspan>
+  <tspan x="1249.0" y="168.0" font-size="22.0px" textLength="53.0" lengthAdjust="spacingAndGlyphs">um</tspan>
+  <tspan x="1322.0" y="164.5" font-size="29.0px" textLength="94.0" lengthAdjust="spacingAndGlyphs">einen</tspan>
+  <tspan x="1437.0" y="163.5" font-size="31.0px" textLength="120.0" lengthAdjust="spacingAndGlyphs">Notfall</tspan>
+  <tspan x="1575.0" y="168.0" font-size="38.0px" textLength="259.0" lengthAdjust="spacingAndGlyphs">anzukündigen,</tspan>
+  <tspan x="1852.0" y="164.0" font-size="30.0px" textLength="153.0" lengthAdjust="spacingAndGlyphs">während</tspan>
+  <tspan x="42.0" y="232.5" font-size="35.0px" textLength="126.0" lengthAdjust="spacingAndGlyphs">„Wilco“</tspan>
+  <tspan x="193.0" y="232.5" font-size="35.0px" textLength="166.0" lengthAdjust="spacingAndGlyphs">bedeutet,</tspan>
+  <tspan x="384.0" y="230.0" font-size="30.0px" textLength="75.0" lengthAdjust="spacingAndGlyphs">dass</tspan>
+  <tspan x="481.0" y="230.5" font-size="29.0px" textLength="72.0" lengthAdjust="spacingAndGlyphs">eine</tspan>
+  <tspan x="578.0" y="230.0" font-size="30.0px" textLength="167.0" lengthAdjust="spacingAndGlyphs">Nachricht</tspan>
+  <tspan x="766.0" y="230.0" font-size="30.0px" textLength="196.0" lengthAdjust="spacingAndGlyphs">verstanden</tspan>
+  <tspan x="987.0" y="230.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1075.0" y="233.5" font-size="37.0px" textLength="180.0" lengthAdjust="spacingAndGlyphs">akzeptiert</tspan>
+  <tspan x="1275.0" y="230.0" font-size="30.0px" textLength="119.0" lengthAdjust="spacingAndGlyphs">wurde.</tspan>
+  <tspan x="1419.0" y="230.5" font-size="29.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">Hier</tspan>
+  <tspan x="1512.0" y="234.5" font-size="37.0px" textLength="104.0" lengthAdjust="spacingAndGlyphs">einige</tspan>
+  <tspan x="1640.0" y="230.0" font-size="30.0px" textLength="177.0" lengthAdjust="spacingAndGlyphs">Standards</tspan>
+  <tspan x="1838.0" y="229.5" font-size="31.0px" textLength="52.0" lengthAdjust="spacingAndGlyphs">für</tspan>
+  <tspan x="1911.0" y="230.0" font-size="30.0px" textLength="95.0" lengthAdjust="spacingAndGlyphs">deine</tspan>
+  <tspan x="43.0" y="296.0" font-size="30.0px" textLength="291.0" lengthAdjust="spacingAndGlyphs">Kommunikation:</tspan>
+</text>
+<text x="42.0" y="367.0" xml:space="preserve"> </text>
+<text x="42.0" y="368.0">
+  <tspan x="42.0" y="388.0" font-size="10.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="66.0" y="386.0" font-size="36.0px" textLength="256.0" lengthAdjust="spacingAndGlyphs">Kommen/Over</tspan>
+  <tspan x="334.0" y="384.0" font-size="30.0px" textLength="145.0" lengthAdjust="spacingAndGlyphs">beendet</tspan>
+  <tspan x="492.0" y="384.5" font-size="29.0px" textLength="94.0" lengthAdjust="spacingAndGlyphs">einen</tspan>
+  <tspan x="602.0" y="388.0" font-size="38.0px" textLength="201.0" lengthAdjust="spacingAndGlyphs">Funkspruch</tspan>
+  <tspan x="819.0" y="384.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="898.0" y="386.0" font-size="26.0px" textLength="152.0" lengthAdjust="spacingAndGlyphs">erwartet</tspan>
+  <tspan x="1063.0" y="384.5" font-size="29.0px" textLength="72.0" lengthAdjust="spacingAndGlyphs">eine</tspan>
+  <tspan x="1148.0" y="385.0" font-size="28.0px" textLength="155.0" lengthAdjust="spacingAndGlyphs">Antwort.</tspan>
+</text>
+<text x="42.0" y="433.0" xml:space="preserve"> </text>
+<text x="42.0" y="434.0">
+  <tspan x="42.0" y="454.0" font-size="10.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="66.0" y="452.0" font-size="36.0px" textLength="161.0" lengthAdjust="spacingAndGlyphs">Hier/This</tspan>
+  <tspan x="239.0" y="450.5" font-size="29.0px" textLength="25.0" lengthAdjust="spacingAndGlyphs">is</tspan>
+  <tspan x="279.0" y="454.0" font-size="38.0px" textLength="151.0" lengthAdjust="spacingAndGlyphs">Meldung</tspan>
+  <tspan x="445.0" y="450.0" font-size="30.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="515.0" y="454.5" font-size="37.0px" textLength="137.0" lengthAdjust="spacingAndGlyphs">eigenen</tspan>
+  <tspan x="669.0" y="450.0" font-size="30.0px" textLength="188.0" lengthAdjust="spacingAndGlyphs">Funkstelle.</tspan>
+</text>
+<text x="42.0" y="499.0" xml:space="preserve"> </text>
+<text x="42.0" y="500.0">
+  <tspan x="42.0" y="520.0" font-size="10.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="69.0" y="518.0" font-size="36.0px" textLength="169.0" lengthAdjust="spacingAndGlyphs">Ende/Out</tspan>
+  <tspan x="254.0" y="516.0" font-size="30.0px" textLength="145.0" lengthAdjust="spacingAndGlyphs">beendet</tspan>
+  <tspan x="415.0" y="516.5" font-size="29.0px" textLength="93.0" lengthAdjust="spacingAndGlyphs">einen</tspan>
+  <tspan x="528.0" y="516.0" font-size="30.0px" textLength="219.0" lengthAdjust="spacingAndGlyphs">Funkverkehr</tspan>
+  <tspan x="763.0" y="516.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="843.0" y="516.0" font-size="30.0px" textLength="75.0" lengthAdjust="spacingAndGlyphs">wird</tspan>
+  <tspan x="937.0" y="516.0" font-size="30.0px" textLength="86.0" lengthAdjust="spacingAndGlyphs">nicht</tspan>
+  <tspan x="1040.0" y="520.0" font-size="38.0px" textLength="157.0" lengthAdjust="spacingAndGlyphs">bestätigt</tspan>
+  <tspan x="1214.0" y="518.0" font-size="36.0px" textLength="99.0" lengthAdjust="spacingAndGlyphs">(nicht</tspan>
+  <tspan x="1329.0" y="520.0" font-size="38.0px" textLength="169.0" lengthAdjust="spacingAndGlyphs">zwingend</tspan>
+  <tspan x="1515.0" y="520.5" font-size="21.0px" textLength="62.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="1595.0" y="516.0" font-size="30.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="1669.0" y="518.5" font-size="35.0px" textLength="188.0" lengthAdjust="spacingAndGlyphs">Funkstelle,</tspan>
+  <tspan x="1875.0" y="516.0" font-size="30.0px" textLength="50.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="1942.0" y="516.0" font-size="30.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">den</tspan>
+  <tspan x="42.0" y="586.0" font-size="38.0px" textLength="254.0" lengthAdjust="spacingAndGlyphs">Sprechverkehr</tspan>
+  <tspan x="310.0" y="586.0" font-size="38.0px" textLength="175.0" lengthAdjust="spacingAndGlyphs">begonnen</tspan>
+  <tspan x="501.0" y="584.0" font-size="36.0px" textLength="76.0" lengthAdjust="spacingAndGlyphs">hat).</tspan>
+</text>
+<text x="42.0" y="631.0" xml:space="preserve"> </text>
+<text x="42.0" y="632.0">
+  <tspan x="42.0" y="652.0" font-size="10.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="68.0" y="651.5" font-size="39.0px" textLength="281.0" lengthAdjust="spacingAndGlyphs">Trennung/Break</tspan>
+  <tspan x="362.0" y="648.5" font-size="29.0px" textLength="38.0" lengthAdjust="spacingAndGlyphs">ist</tspan>
+  <tspan x="413.0" y="648.0" font-size="30.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="484.0" y="648.5" font-size="29.0px" textLength="135.0" lengthAdjust="spacingAndGlyphs">Hinweis</tspan>
+  <tspan x="632.0" y="652.5" font-size="21.0px" textLength="73.0" lengthAdjust="spacingAndGlyphs">zum</tspan>
+  <tspan x="719.0" y="648.0" font-size="30.0px" textLength="145.0" lengthAdjust="spacingAndGlyphs">Wechsel</tspan>
+  <tspan x="877.0" y="648.0" font-size="30.0px" textLength="59.0" lengthAdjust="spacingAndGlyphs">des</tspan>
+  <tspan x="950.0" y="648.0" font-size="30.0px" textLength="253.0" lengthAdjust="spacingAndGlyphs">Sachverhaltes.</tspan>
+</text>
+<text x="42.0" y="698.0" xml:space="preserve"> </text>
+<text x="42.0" y="699.0">
+  <tspan x="42.0" y="718.0" font-size="10.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="68.0" y="719.0" font-size="36.0px" textLength="94.0" lengthAdjust="spacingAndGlyphs">Frage</tspan>
+  <tspan x="174.0" y="718.0" font-size="4.0px" textLength="20.0" lengthAdjust="spacingAndGlyphs">—</tspan>
+  <tspan x="208.0" y="714.5" font-size="29.0px" textLength="42.0" lengthAdjust="spacingAndGlyphs">So</tspan>
+  <tspan x="266.0" y="718.0" font-size="38.0px" textLength="135.0" lengthAdjust="spacingAndGlyphs">beginnt</tspan>
+  <tspan x="416.0" y="714.5" font-size="29.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">eine</tspan>
+  <tspan x="504.0" y="719.0" font-size="36.0px" textLength="104.0" lengthAdjust="spacingAndGlyphs">Frage.</tspan>
+  <tspan x="625.0" y="719.0" font-size="36.0px" textLength="117.0" lengthAdjust="spacingAndGlyphs">Fragen</tspan>
+  <tspan x="759.0" y="714.0" font-size="30.0px" textLength="128.0" lengthAdjust="spacingAndGlyphs">können</tspan>
+  <tspan x="905.0" y="714.0" font-size="30.0px" textLength="73.0" lengthAdjust="spacingAndGlyphs">kurz</tspan>
+  <tspan x="994.0" y="714.0" font-size="30.0px" textLength="220.0" lengthAdjust="spacingAndGlyphs">beantwortet</tspan>
+  <tspan x="1228.0" y="714.0" font-size="30.0px" textLength="129.0" lengthAdjust="spacingAndGlyphs">werden</tspan>
+  <tspan x="1374.0" y="714.5" font-size="29.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">mit</tspan>
+  <tspan x="1447.0" y="718.0" font-size="38.0px" textLength="118.0" lengthAdjust="spacingAndGlyphs">Richtig</tspan>
+  <tspan x="1581.0" y="714.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">oder</tspan>
+  <tspan x="1677.0" y="714.5" font-size="29.0px" textLength="115.0" lengthAdjust="spacingAndGlyphs">Positiv</tspan>
+  <tspan x="1806.0" y="714.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">oder</tspan>
+  <tspan x="1901.0" y="714.0" font-size="30.0px" textLength="104.0" lengthAdjust="spacingAndGlyphs">Falsch</tspan>
+  <tspan x="43.0" y="780.0" font-size="30.0px" textLength="75.0" lengthAdjust="spacingAndGlyphs">bzw.</tspan>
+  <tspan x="134.0" y="784.5" font-size="37.0px" textLength="141.0" lengthAdjust="spacingAndGlyphs">Negativ.</tspan>
+</text>
+<text x="42.0" y="829.0" xml:space="preserve"> </text>
+<text x="42.0" y="830.0">
+  <tspan x="42.0" y="850.0" font-size="10.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="68.0" y="849.5" font-size="39.0px" textLength="313.0" lengthAdjust="spacingAndGlyphs">Verstanden/Roger</tspan>
+  <tspan x="390.0" y="850.0" font-size="4.0px" textLength="20.0" lengthAdjust="spacingAndGlyphs">—</tspan>
+  <tspan x="422.0" y="850.5" font-size="37.0px" textLength="85.0" lengthAdjust="spacingAndGlyphs">Copy</tspan>
+  <tspan x="519.0" y="846.5" font-size="19.0px" textLength="18.0" lengthAdjust="spacingAndGlyphs">+</tspan>
+  <tspan x="551.0" y="850.0" font-size="38.0px" textLength="249.0" lengthAdjust="spacingAndGlyphs">Wiederholung</tspan>
+  <tspan x="815.0" y="846.0" font-size="30.0px" textLength="59.0" lengthAdjust="spacingAndGlyphs">des</tspan>
+  <tspan x="886.0" y="849.5" font-size="39.0px" textLength="303.0" lengthAdjust="spacingAndGlyphs">Auftrags/Befehls</tspan>
+  <tspan x="1203.0" y="848.0" font-size="36.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">(nur</tspan>
+  <tspan x="1287.0" y="846.0" font-size="30.0px" textLength="49.0" lengthAdjust="spacingAndGlyphs">bei</tspan>
+  <tspan x="1350.0" y="849.5" font-size="39.0px" textLength="378.0" lengthAdjust="spacingAndGlyphs">Auftragen/Befehlen).</tspan>
+</text>
+<text x="42.0" y="895.0" xml:space="preserve"> </text>
+<text x="42.0" y="896.0">
+  <tspan x="42.0" y="916.0" font-size="10.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«»</tspan>
+  <tspan x="68.0" y="912.0" font-size="30.0px" textLength="212.0" lengthAdjust="spacingAndGlyphs">Wiederholen</tspan>
+  <tspan x="295.0" y="912.5" font-size="29.0px" textLength="39.0" lengthAdjust="spacingAndGlyphs">ist</tspan>
+  <tspan x="347.0" y="912.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="411.0" y="915.5" font-size="39.0px" textLength="237.0" lengthAdjust="spacingAndGlyphs">Aufforderung</tspan>
+  <tspan x="663.0" y="916.5" font-size="21.0px" textLength="55.0" lengthAdjust="spacingAndGlyphs">zur</tspan>
+  <tspan x="729.0" y="916.0" font-size="38.0px" textLength="250.0" lengthAdjust="spacingAndGlyphs">Wiederholung</tspan>
+  <tspan x="994.0" y="912.0" font-size="30.0px" textLength="58.0" lengthAdjust="spacingAndGlyphs">des</tspan>
+  <tspan x="1066.0" y="912.0" font-size="30.0px" textLength="120.0" lengthAdjust="spacingAndGlyphs">letzten</tspan>
+  <tspan x="1203.0" y="916.0" font-size="38.0px" textLength="228.0" lengthAdjust="spacingAndGlyphs">Funkspruchs.</tspan>
+</text>
+<text x="42.0" y="961.0" xml:space="preserve"> </text>
+<text x="42.0" y="962.0">
+  <tspan x="42.0" y="982.0" font-size="10.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="68.0" y="977.5" font-size="31.0px" textLength="338.0" lengthAdjust="spacingAndGlyphs">Hoflichkeitsformen</tspan>
+  <tspan x="419.0" y="978.5" font-size="29.0px" textLength="59.0" lengthAdjust="spacingAndGlyphs">wie</tspan>
+  <tspan x="494.0" y="978.0" font-size="30.0px" textLength="107.0" lengthAdjust="spacingAndGlyphs">Danke</tspan>
+  <tspan x="615.0" y="978.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">oder</tspan>
+  <tspan x="709.0" y="978.5" font-size="29.0px" textLength="81.0" lengthAdjust="spacingAndGlyphs">Bitte</tspan>
+  <tspan x="802.0" y="978.0" font-size="30.0px" textLength="196.0" lengthAdjust="spacingAndGlyphs">vermeiden.</tspan>
+</text>
+<text x="42.0" y="1027.0" xml:space="preserve"> </text>
+<text x="42.0" y="1028.0">
+  <tspan x="42.0" y="1048.0" font-size="10.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">+</tspan>
+  <tspan x="81.0" y="1044.0" font-size="30.0px" textLength="66.0" lengthAdjust="spacingAndGlyphs">Alle</tspan>
+  <tspan x="175.0" y="1044.0" font-size="30.0px" textLength="200.0" lengthAdjust="spacingAndGlyphs">Teilnehmer</tspan>
+  <tspan x="404.0" y="1044.5" font-size="29.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">mit</tspan>
+  <tspan x="490.0" y="1047.0" font-size="34.0px" textLength="82.0" lengthAdjust="spacingAndGlyphs">„Sie“</tspan>
+  <tspan x="602.0" y="1044.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">oder</tspan>
+  <tspan x="711.0" y="1043.5" font-size="31.0px" textLength="179.0" lengthAdjust="spacingAndGlyphs">Rufnamen</tspan>
+  <tspan x="920.0" y="1048.0" font-size="38.0px" textLength="211.0" lengthAdjust="spacingAndGlyphs">ansprechen,</tspan>
+  <tspan x="1163.0" y="1044.0" font-size="30.0px" textLength="176.0" lengthAdjust="spacingAndGlyphs">Diskretion</tspan>
+  <tspan x="1370.0" y="1046.5" font-size="35.0px" textLength="181.0" lengthAdjust="spacingAndGlyphs">bewahren,</tspan>
+  <tspan x="1582.0" y="1044.0" font-size="30.0px" textLength="39.0" lengthAdjust="spacingAndGlyphs">da</tspan>
+  <tspan x="1651.0" y="1048.5" font-size="21.0px" textLength="36.0" lengthAdjust="spacingAndGlyphs">es</tspan>
+  <tspan x="1715.0" y="1044.5" font-size="29.0px" textLength="72.0" lengthAdjust="spacingAndGlyphs">eine</tspan>
+  <tspan x="1816.0" y="1043.5" font-size="31.0px" textLength="190.0" lengthAdjust="spacingAndGlyphs">öffentliche</tspan>
+</text>
+</svg>

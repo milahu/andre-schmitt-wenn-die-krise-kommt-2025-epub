@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0280-00100.avif"/>
+<text x="43.0" y="16.0" xml:space="preserve"> </text>
+<text x="43.0" y="17.0">
+  <tspan x="43.0" y="36.0" font-size="38.0px" textLength="347.0" lengthAdjust="spacingAndGlyphs">Feuchtigkeitsgehalt</tspan>
+  <tspan x="404.0" y="36.0" font-size="22.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="485.0" y="32.0" font-size="28.0px" textLength="35.0" lengthAdjust="spacingAndGlyphs">11</tspan>
+  <tspan x="543.0" y="32.0" font-size="30.0px" textLength="47.0" lengthAdjust="spacingAndGlyphs">bis</tspan>
+  <tspan x="607.0" y="32.0" font-size="28.0px" textLength="40.0" lengthAdjust="spacingAndGlyphs">12</tspan>
+  <tspan x="663.0" y="32.0" font-size="28.0px" textLength="34.0" lengthAdjust="spacingAndGlyphs">%</tspan>
+  <tspan x="714.0" y="34.5" font-size="35.0px" textLength="92.0" lengthAdjust="spacingAndGlyphs">kann,</tspan>
+  <tspan x="824.0" y="33.5" font-size="27.0px" textLength="94.0" lengthAdjust="spacingAndGlyphs">unter</tspan>
+  <tspan x="933.0" y="36.0" font-size="38.0px" textLength="302.0" lengthAdjust="spacingAndGlyphs">Berücksichtigung</tspan>
+  <tspan x="1251.0" y="32.0" font-size="30.0px" textLength="137.0" lengthAdjust="spacingAndGlyphs">anderer</tspan>
+  <tspan x="1404.0" y="34.5" font-size="35.0px" textLength="162.0" lengthAdjust="spacingAndGlyphs">Faktoren,</tspan>
+  <tspan x="1584.0" y="32.0" font-size="30.0px" textLength="118.0" lengthAdjust="spacingAndGlyphs">bereits</tspan>
+  <tspan x="1717.0" y="32.5" font-size="29.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">eine</tspan>
+  <tspan x="1805.0" y="32.0" font-size="30.0px" textLength="201.0" lengthAdjust="spacingAndGlyphs">beachtliche</tspan>
+  <tspan x="43.0" y="98.0" font-size="30.0px" textLength="197.0" lengthAdjust="spacingAndGlyphs">Haltbarkeit</tspan>
+  <tspan x="265.0" y="102.0" font-size="22.0px" textLength="62.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="354.0" y="98.0" font-size="30.0px" textLength="103.0" lengthAdjust="spacingAndGlyphs">vielen</tspan>
+  <tspan x="484.0" y="98.0" font-size="30.0px" textLength="116.0" lengthAdjust="spacingAndGlyphs">Jahren</tspan>
+  <tspan x="628.0" y="98.0" font-size="30.0px" textLength="135.0" lengthAdjust="spacingAndGlyphs">erreicht</tspan>
+  <tspan x="788.0" y="100.5" font-size="35.0px" textLength="139.0" lengthAdjust="spacingAndGlyphs">werden,</tspan>
+  <tspan x="956.0" y="98.0" font-size="30.0px" textLength="233.0" lengthAdjust="spacingAndGlyphs">insbesondere</tspan>
+  <tspan x="1217.0" y="98.0" font-size="30.0px" textLength="49.0" lengthAdjust="spacingAndGlyphs">bei</tspan>
+  <tspan x="1295.0" y="102.5" font-size="37.0px" textLength="163.0" lengthAdjust="spacingAndGlyphs">Lagerung</tspan>
+  <tspan x="1487.0" y="98.0" font-size="30.0px" textLength="49.0" lengthAdjust="spacingAndGlyphs">bei</tspan>
+  <tspan x="1565.0" y="102.0" font-size="38.0px" textLength="164.0" lengthAdjust="spacingAndGlyphs">niedrigen</tspan>
+  <tspan x="1755.0" y="102.0" font-size="36.0px" textLength="250.0" lengthAdjust="spacingAndGlyphs">Temperaturen</tspan>
+  <tspan x="42.0" y="166.0" font-size="36.0px" textLength="162.0" lengthAdjust="spacingAndGlyphs">(maximal</tspan>
+  <tspan x="218.0" y="164.0" font-size="28.0px" textLength="40.0" lengthAdjust="spacingAndGlyphs">12</tspan>
+  <tspan x="270.0" y="166.0" font-size="36.0px" textLength="59.0" lengthAdjust="spacingAndGlyphs">°C).</tspan>
+  <tspan x="343.0" y="164.0" font-size="28.0px" textLength="49.0" lengthAdjust="spacingAndGlyphs">Ein</tspan>
+  <tspan x="407.0" y="168.0" font-size="38.0px" textLength="347.0" lengthAdjust="spacingAndGlyphs">Feuchtigkeitsgehalt</tspan>
+  <tspan x="764.0" y="168.0" font-size="22.0px" textLength="62.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="842.0" y="164.5" font-size="29.0px" textLength="41.0" lengthAdjust="spacingAndGlyphs">10</tspan>
+  <tspan x="894.0" y="164.0" font-size="28.0px" textLength="34.0" lengthAdjust="spacingAndGlyphs">%</tspan>
+  <tspan x="940.0" y="164.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">oder</tspan>
+  <tspan x="1029.0" y="168.5" font-size="37.0px" textLength="142.0" lengthAdjust="spacingAndGlyphs">weniger</tspan>
+  <tspan x="1183.0" y="164.5" font-size="29.0px" textLength="39.0" lengthAdjust="spacingAndGlyphs">ist</tspan>
+  <tspan x="1233.0" y="167.5" font-size="37.0px" textLength="136.0" lengthAdjust="spacingAndGlyphs">optimal</tspan>
+  <tspan x="1379.0" y="163.5" font-size="31.0px" textLength="52.0" lengthAdjust="spacingAndGlyphs">für</tspan>
+  <tspan x="1441.0" y="164.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="1505.0" y="168.0" font-size="38.0px" textLength="316.0" lengthAdjust="spacingAndGlyphs">Langzeitlagerung,</tspan>
+  <tspan x="1834.0" y="164.0" font-size="30.0px" textLength="81.0" lengthAdjust="spacingAndGlyphs">auch</tspan>
+  <tspan x="1929.0" y="164.0" font-size="30.0px" textLength="79.0" lengthAdjust="spacingAndGlyphs">über</tspan>
+  <tspan x="42.0" y="230.5" font-size="29.0px" textLength="94.0" lengthAdjust="spacingAndGlyphs">einen</tspan>
+  <tspan x="150.0" y="230.5" font-size="29.0px" textLength="158.0" lengthAdjust="spacingAndGlyphs">Zeitraum</tspan>
+  <tspan x="322.0" y="234.0" font-size="22.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="399.0" y="230.0" font-size="30.0px" textLength="82.0" lengthAdjust="spacingAndGlyphs">zehn</tspan>
+  <tspan x="497.0" y="230.0" font-size="30.0px" textLength="47.0" lengthAdjust="spacingAndGlyphs">bis</tspan>
+  <tspan x="557.0" y="233.5" font-size="39.0px" textLength="121.0" lengthAdjust="spacingAndGlyphs">dreißig</tspan>
+  <tspan x="692.0" y="230.0" font-size="30.0px" textLength="127.0" lengthAdjust="spacingAndGlyphs">Jahren.</tspan>
+</text>
+<text x="42.0" y="302.0" xml:space="preserve"> </text>
+<text x="42.0" y="303.0">
+  <tspan x="42.0" y="322.0" font-size="38.0px" textLength="211.0" lengthAdjust="spacingAndGlyphs">Feuchtigkeit</tspan>
+  <tspan x="265.0" y="322.0" font-size="22.0px" textLength="127.0" lengthAdjust="spacingAndGlyphs">messen</tspan>
+</text>
+<text x="43.0" y="367.0" xml:space="preserve"> </text>
+<text x="43.0" y="368.0">
+  <tspan x="43.0" y="384.5" font-size="29.0px" textLength="54.0" lengthAdjust="spacingAndGlyphs">Die</tspan>
+  <tspan x="120.0" y="388.5" font-size="37.0px" textLength="221.0" lengthAdjust="spacingAndGlyphs">Bestimmung</tspan>
+  <tspan x="364.0" y="384.0" font-size="30.0px" textLength="58.0" lengthAdjust="spacingAndGlyphs">des</tspan>
+  <tspan x="444.0" y="388.0" font-size="38.0px" textLength="364.0" lengthAdjust="spacingAndGlyphs">Feuchtigkeitsgehalts</tspan>
+  <tspan x="828.0" y="388.5" font-size="21.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="914.0" y="384.0" font-size="30.0px" textLength="149.0" lengthAdjust="spacingAndGlyphs">Getreide</tspan>
+  <tspan x="1085.0" y="387.5" font-size="39.0px" textLength="121.0" lengthAdjust="spacingAndGlyphs">erfolgt</tspan>
+  <tspan x="1228.0" y="388.5" font-size="37.0px" textLength="121.0" lengthAdjust="spacingAndGlyphs">präzise</tspan>
+  <tspan x="1372.0" y="383.5" font-size="31.0px" textLength="136.0" lengthAdjust="spacingAndGlyphs">mithilfe</tspan>
+  <tspan x="1529.0" y="388.5" font-size="21.0px" textLength="62.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="1615.0" y="388.0" font-size="38.0px" textLength="390.0" lengthAdjust="spacingAndGlyphs">Feuchtigkeitsmessern,</tspan>
+  <tspan x="42.0" y="450.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="120.0" y="450.0" font-size="30.0px" textLength="124.0" lengthAdjust="spacingAndGlyphs">sowohl</tspan>
+  <tspan x="272.0" y="450.0" font-size="28.0px" textLength="40.0" lengthAdjust="spacingAndGlyphs">im</tspan>
+  <tspan x="341.0" y="450.0" font-size="30.0px" textLength="201.0" lengthAdjust="spacingAndGlyphs">Fachhandel</tspan>
+  <tspan x="569.0" y="450.0" font-size="30.0px" textLength="46.0" lengthAdjust="spacingAndGlyphs">als</tspan>
+  <tspan x="642.0" y="450.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">auch</tspan>
+  <tspan x="751.0" y="450.0" font-size="30.0px" textLength="108.0" lengthAdjust="spacingAndGlyphs">online</tspan>
+  <tspan x="886.0" y="450.0" font-size="30.0px" textLength="165.0" lengthAdjust="spacingAndGlyphs">erhältlich</tspan>
+  <tspan x="1079.0" y="450.0" font-size="30.0px" textLength="79.0" lengthAdjust="spacingAndGlyphs">sind.</tspan>
+  <tspan x="1188.0" y="451.0" font-size="28.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">Um</tspan>
+  <tspan x="1273.0" y="450.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="1350.0" y="454.0" font-size="38.0px" textLength="186.0" lengthAdjust="spacingAndGlyphs">Trocknung</tspan>
+  <tspan x="1564.0" y="454.5" font-size="21.0px" textLength="37.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="1631.0" y="454.0" font-size="38.0px" textLength="262.0" lengthAdjust="spacingAndGlyphs">beschleunigen,</tspan>
+  <tspan x="1923.0" y="450.0" font-size="30.0px" textLength="82.0" lengthAdjust="spacingAndGlyphs">kann</tspan>
+  <tspan x="42.0" y="516.0" font-size="30.0px" textLength="58.0" lengthAdjust="spacingAndGlyphs">das</tspan>
+  <tspan x="121.0" y="516.0" font-size="30.0px" textLength="149.0" lengthAdjust="spacingAndGlyphs">Getreide</tspan>
+  <tspan x="291.0" y="515.5" font-size="31.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">auf</tspan>
+  <tspan x="367.0" y="516.0" font-size="30.0px" textLength="75.0" lengthAdjust="spacingAndGlyphs">dem</tspan>
+  <tspan x="465.0" y="516.0" font-size="30.0px" textLength="109.0" lengthAdjust="spacingAndGlyphs">Boden</tspan>
+  <tspan x="595.0" y="516.0" font-size="30.0px" textLength="128.0" lengthAdjust="spacingAndGlyphs">verteilt</tspan>
+  <tspan x="742.0" y="516.0" font-size="30.0px" textLength="139.0" lengthAdjust="spacingAndGlyphs">werden.</tspan>
+  <tspan x="904.0" y="516.5" font-size="29.0px" textLength="72.0" lengthAdjust="spacingAndGlyphs">Eine</tspan>
+  <tspan x="997.0" y="515.5" font-size="31.0px" textLength="153.0" lengthAdjust="spacingAndGlyphs">effektive</tspan>
+  <tspan x="1172.0" y="516.0" font-size="30.0px" textLength="155.0" lengthAdjust="spacingAndGlyphs">Methode</tspan>
+  <tspan x="1348.0" y="520.5" font-size="21.0px" textLength="54.0" lengthAdjust="spacingAndGlyphs">zur</tspan>
+  <tspan x="1423.0" y="520.0" font-size="38.0px" textLength="446.0" lengthAdjust="spacingAndGlyphs">Feuchtigkeitsreduzierung</tspan>
+  <tspan x="1892.0" y="516.5" font-size="29.0px" textLength="39.0" lengthAdjust="spacingAndGlyphs">ist</tspan>
+  <tspan x="1951.0" y="516.0" font-size="30.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="43.0" y="582.5" font-size="29.0px" textLength="123.0" lengthAdjust="spacingAndGlyphs">Einsatz</tspan>
+  <tspan x="177.0" y="586.5" font-size="21.0px" textLength="62.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="251.0" y="586.0" font-size="38.0px" textLength="345.0" lengthAdjust="spacingAndGlyphs">Trocknungsmitteln,</tspan>
+  <tspan x="609.0" y="582.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="672.0" y="582.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="736.0" y="585.5" font-size="39.0px" textLength="427.0" lengthAdjust="spacingAndGlyphs">Umgebungsfeuchtigkeit</tspan>
+  <tspan x="1174.0" y="582.0" font-size="30.0px" textLength="218.0" lengthAdjust="spacingAndGlyphs">absorbieren.</tspan>
+  <tspan x="1407.0" y="582.0" font-size="30.0px" textLength="107.0" lengthAdjust="spacingAndGlyphs">Indem</tspan>
+  <tspan x="1529.0" y="586.5" font-size="21.0px" textLength="73.0" lengthAdjust="spacingAndGlyphs">man</tspan>
+  <tspan x="1616.0" y="582.0" font-size="30.0px" textLength="58.0" lengthAdjust="spacingAndGlyphs">das</tspan>
+  <tspan x="1684.0" y="586.0" font-size="38.0px" textLength="321.0" lengthAdjust="spacingAndGlyphs">Trocknungsmittel,</tspan>
+  <tspan x="43.0" y="652.0" font-size="38.0px" textLength="249.0" lengthAdjust="spacingAndGlyphs">beispielsweise</tspan>
+  <tspan x="313.0" y="652.0" font-size="38.0px" textLength="156.0" lengthAdjust="spacingAndGlyphs">Silikagel,</tspan>
+  <tspan x="491.0" y="652.5" font-size="37.0px" textLength="202.0" lengthAdjust="spacingAndGlyphs">gemeinsam</tspan>
+  <tspan x="716.0" y="648.5" font-size="29.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">mit</tspan>
+  <tspan x="793.0" y="648.0" font-size="30.0px" textLength="75.0" lengthAdjust="spacingAndGlyphs">dem</tspan>
+  <tspan x="890.0" y="648.0" font-size="30.0px" textLength="149.0" lengthAdjust="spacingAndGlyphs">Getreide</tspan>
+  <tspan x="1061.0" y="648.0" font-size="28.0px" textLength="28.0" lengthAdjust="spacingAndGlyphs">in</tspan>
+  <tspan x="1111.0" y="648.5" font-size="29.0px" textLength="93.0" lengthAdjust="spacingAndGlyphs">einen</tspan>
+  <tspan x="1227.0" y="647.5" font-size="31.0px" textLength="194.0" lengthAdjust="spacingAndGlyphs">luftdichten</tspan>
+  <tspan x="1444.0" y="648.5" font-size="29.0px" textLength="100.0" lengthAdjust="spacingAndGlyphs">Eimer</tspan>
+  <tspan x="1563.0" y="652.0" font-size="38.0px" textLength="77.0" lengthAdjust="spacingAndGlyphs">gibt,</tspan>
+  <tspan x="1662.0" y="648.0" font-size="30.0px" textLength="145.0" lengthAdjust="spacingAndGlyphs">entzieht</tspan>
+  <tspan x="1827.0" y="652.5" font-size="21.0px" textLength="35.0" lengthAdjust="spacingAndGlyphs">es</tspan>
+  <tspan x="1882.0" y="648.0" font-size="30.0px" textLength="123.0" lengthAdjust="spacingAndGlyphs">diesem</tspan>
+  <tspan x="42.0" y="714.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="124.0" y="718.0" font-size="38.0px" textLength="223.0" lengthAdjust="spacingAndGlyphs">Feuchtigkeit.</tspan>
+  <tspan x="379.0" y="714.0" font-size="30.0px" textLength="85.0" lengthAdjust="spacingAndGlyphs">Nach</tspan>
+  <tspan x="494.0" y="714.5" font-size="29.0px" textLength="50.0" lengthAdjust="spacingAndGlyphs">ein</tspan>
+  <tspan x="576.0" y="714.0" font-size="30.0px" textLength="46.0" lengthAdjust="spacingAndGlyphs">bis</tspan>
+  <tspan x="651.0" y="714.5" font-size="29.0px" textLength="76.0" lengthAdjust="spacingAndGlyphs">zwei</tspan>
+  <tspan x="757.0" y="714.0" font-size="30.0px" textLength="141.0" lengthAdjust="spacingAndGlyphs">Wochen</tspan>
+  <tspan x="927.0" y="714.0" font-size="30.0px" textLength="75.0" lengthAdjust="spacingAndGlyphs">wird</tspan>
+  <tspan x="1032.0" y="714.0" font-size="30.0px" textLength="59.0" lengthAdjust="spacingAndGlyphs">das</tspan>
+  <tspan x="1120.0" y="717.5" font-size="39.0px" textLength="188.0" lengthAdjust="spacingAndGlyphs">erschöpfte</tspan>
+  <tspan x="1337.0" y="718.0" font-size="38.0px" textLength="312.0" lengthAdjust="spacingAndGlyphs">Trocknungsmittel</tspan>
+  <tspan x="1679.0" y="713.5" font-size="31.0px" textLength="145.0" lengthAdjust="spacingAndGlyphs">entfernt</tspan>
+  <tspan x="1854.0" y="714.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1949.0" y="714.0" font-size="30.0px" textLength="58.0" lengthAdjust="spacingAndGlyphs">das</tspan>
+  <tspan x="41.0" y="783.5" font-size="39.0px" textLength="412.0" lengthAdjust="spacingAndGlyphs">feuchtigkeitsreduzierte</tspan>
+  <tspan x="469.0" y="780.0" font-size="30.0px" textLength="149.0" lengthAdjust="spacingAndGlyphs">Getreide</tspan>
+  <tspan x="632.0" y="780.0" font-size="30.0px" textLength="74.0" lengthAdjust="spacingAndGlyphs">wird</tspan>
+  <tspan x="724.0" y="780.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">nach</tspan>
+  <tspan x="820.0" y="780.5" font-size="29.0px" textLength="88.0" lengthAdjust="spacingAndGlyphs">einer</tspan>
+  <tspan x="923.0" y="784.0" font-size="38.0px" textLength="298.0" lengthAdjust="spacingAndGlyphs">Kontrollmessung</tspan>
+  <tspan x="1236.0" y="784.0" font-size="38.0px" textLength="172.0" lengthAdjust="spacingAndGlyphs">versiegelt</tspan>
+  <tspan x="1423.0" y="784.0" font-size="38.0px" textLength="156.0" lengthAdjust="spacingAndGlyphs">gelagert.</tspan>
+  <tspan x="1594.0" y="780.0" font-size="30.0px" textLength="86.0" lengthAdjust="spacingAndGlyphs">Viele</tspan>
+  <tspan x="1694.0" y="784.0" font-size="38.0px" textLength="313.0" lengthAdjust="spacingAndGlyphs">Trocknungsmittel</tspan>
+  <tspan x="41.0" y="846.0" font-size="30.0px" textLength="70.0" lengthAdjust="spacingAndGlyphs">sind</tspan>
+  <tspan x="138.0" y="848.5" font-size="35.0px" textLength="339.0" lengthAdjust="spacingAndGlyphs">wiederverwendbar,</tspan>
+  <tspan x="506.0" y="846.0" font-size="30.0px" textLength="107.0" lengthAdjust="spacingAndGlyphs">indem</tspan>
+  <tspan x="642.0" y="850.5" font-size="21.0px" textLength="74.0" lengthAdjust="spacingAndGlyphs">man</tspan>
+  <tspan x="743.0" y="846.5" font-size="29.0px" textLength="45.0" lengthAdjust="spacingAndGlyphs">sie</tspan>
+  <tspan x="815.0" y="846.0" font-size="28.0px" textLength="40.0" lengthAdjust="spacingAndGlyphs">im</tspan>
+  <tspan x="884.0" y="845.5" font-size="31.0px" textLength="84.0" lengthAdjust="spacingAndGlyphs">Ofen</tspan>
+  <tspan x="996.0" y="846.0" font-size="30.0px" textLength="115.0" lengthAdjust="spacingAndGlyphs">erhitzt</tspan>
+  <tspan x="1138.0" y="846.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1230.0" y="846.0" font-size="30.0px" textLength="190.0" lengthAdjust="spacingAndGlyphs">reaktiviert.</tspan>
+  <tspan x="1449.0" y="846.5" font-size="29.0px" textLength="53.0" lengthAdjust="spacingAndGlyphs">Die</tspan>
+  <tspan x="1530.0" y="846.0" font-size="30.0px" textLength="225.0" lengthAdjust="spacingAndGlyphs">Lebensdauer</tspan>
+  <tspan x="1779.0" y="850.5" font-size="21.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="1870.0" y="850.5" font-size="37.0px" textLength="137.0" lengthAdjust="spacingAndGlyphs">Saatgut</tspan>
+  <tspan x="41.0" y="916.0" font-size="38.0px" textLength="184.0" lengthAdjust="spacingAndGlyphs">verlängert</tspan>
+  <tspan x="240.0" y="912.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">sich</tspan>
+  <tspan x="322.0" y="912.0" font-size="30.0px" textLength="97.0" lengthAdjust="spacingAndGlyphs">durch</tspan>
+  <tspan x="436.0" y="912.5" font-size="29.0px" textLength="72.0" lengthAdjust="spacingAndGlyphs">eine</tspan>
+  <tspan x="523.0" y="916.0" font-size="38.0px" textLength="357.0" lengthAdjust="spacingAndGlyphs">Temperatursenkung</tspan>
+  <tspan x="898.0" y="916.5" font-size="21.0px" textLength="52.0" lengthAdjust="spacingAndGlyphs">um</tspan>
+  <tspan x="964.0" y="916.0" font-size="38.0px" textLength="121.0" lengthAdjust="spacingAndGlyphs">jeweils</tspan>
+  <tspan x="1102.0" y="915.0" font-size="34.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">5,6</tspan>
+  <tspan x="1170.0" y="912.5" font-size="29.0px" textLength="35.0" lengthAdjust="spacingAndGlyphs">°C</tspan>
+  <tspan x="1222.0" y="912.0" font-size="28.0px" textLength="40.0" lengthAdjust="spacingAndGlyphs">im</tspan>
+  <tspan x="1281.0" y="912.0" font-size="30.0px" textLength="126.0" lengthAdjust="spacingAndGlyphs">Bereich</tspan>
+  <tspan x="1423.0" y="916.5" font-size="21.0px" textLength="62.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="1502.0" y="912.5" font-size="29.0px" textLength="20.0" lengthAdjust="spacingAndGlyphs">0</tspan>
+  <tspan x="1538.0" y="912.5" font-size="29.0px" textLength="36.0" lengthAdjust="spacingAndGlyphs">°C</tspan>
+  <tspan x="1591.0" y="912.0" font-size="30.0px" textLength="46.0" lengthAdjust="spacingAndGlyphs">bis</tspan>
+  <tspan x="1654.0" y="912.5" font-size="29.0px" textLength="42.0" lengthAdjust="spacingAndGlyphs">50</tspan>
+  <tspan x="1712.0" y="912.5" font-size="29.0px" textLength="44.0" lengthAdjust="spacingAndGlyphs">°C.</tspan>
+  <tspan x="1775.0" y="912.0" font-size="30.0px" textLength="230.0" lengthAdjust="spacingAndGlyphs">Frostschäden</tspan>
+  <tspan x="40.0" y="980.0" font-size="26.0px" textLength="107.0" lengthAdjust="spacingAndGlyphs">treten</tspan>
+  <tspan x="171.0" y="978.0" font-size="30.0px" textLength="49.0" lengthAdjust="spacingAndGlyphs">bei</tspan>
+  <tspan x="242.0" y="978.5" font-size="29.0px" textLength="106.0" lengthAdjust="spacingAndGlyphs">einem</tspan>
+  <tspan x="372.0" y="982.0" font-size="38.0px" textLength="347.0" lengthAdjust="spacingAndGlyphs">Feuchtigkeitsgehalt</tspan>
+  <tspan x="739.0" y="982.5" font-size="21.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="823.0" y="982.5" font-size="37.0px" textLength="142.0" lengthAdjust="spacingAndGlyphs">weniger</tspan>
+  <tspan x="985.0" y="978.0" font-size="30.0px" textLength="47.0" lengthAdjust="spacingAndGlyphs">als</tspan>
+  <tspan x="1055.0" y="978.5" font-size="27.0px" textLength="41.0" lengthAdjust="spacingAndGlyphs">14</tspan>
+  <tspan x="1117.0" y="979.0" font-size="28.0px" textLength="34.0" lengthAdjust="spacingAndGlyphs">%</tspan>
+  <tspan x="1174.0" y="978.0" font-size="30.0px" textLength="86.0" lengthAdjust="spacingAndGlyphs">nicht</tspan>
+  <tspan x="1281.0" y="977.5" font-size="31.0px" textLength="61.0" lengthAdjust="spacingAndGlyphs">auf.</tspan>
+  <tspan x="1365.0" y="979.0" font-size="28.0px" textLength="76.0" lengthAdjust="spacingAndGlyphs">Zum</tspan>
+  <tspan x="1465.0" y="982.0" font-size="38.0px" textLength="134.0" lengthAdjust="spacingAndGlyphs">Beispiel</tspan>
+  <tspan x="1621.0" y="978.0" font-size="30.0px" textLength="83.0" lengthAdjust="spacingAndGlyphs">kann</tspan>
+  <tspan x="1728.0" y="978.5" font-size="29.0px" textLength="199.0" lengthAdjust="spacingAndGlyphs">Hartweizen</tspan>
+  <tspan x="1950.0" y="978.5" font-size="29.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">mit</tspan>
+  <tspan x="42.0" y="1046.0" font-size="26.0px" textLength="83.0" lengthAdjust="spacingAndGlyphs">etwa</tspan>
+  <tspan x="148.0" y="1044.5" font-size="29.0px" textLength="41.0" lengthAdjust="spacingAndGlyphs">10</tspan>
+  <tspan x="207.0" y="1044.5" font-size="29.0px" textLength="34.0" lengthAdjust="spacingAndGlyphs">%</tspan>
+  <tspan x="262.0" y="1048.0" font-size="38.0px" textLength="347.0" lengthAdjust="spacingAndGlyphs">Feuchtigkeitsgehalt</tspan>
+  <tspan x="628.0" y="1046.0" font-size="26.0px" textLength="94.0" lengthAdjust="spacingAndGlyphs">unter</tspan>
+  <tspan x="740.0" y="1043.5" font-size="31.0px" textLength="369.0" lengthAdjust="spacingAndGlyphs">Sauerstoffausschluss</tspan>
+  <tspan x="1129.0" y="1044.0" font-size="30.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1214.0" y="1048.0" font-size="38.0px" textLength="186.0" lengthAdjust="spacingAndGlyphs">Beachtung</tspan>
+  <tspan x="1420.0" y="1044.0" font-size="30.0px" textLength="136.0" lengthAdjust="spacingAndGlyphs">anderer</tspan>
+  <tspan x="1575.0" y="1044.0" font-size="30.0px" textLength="153.0" lengthAdjust="spacingAndGlyphs">Faktoren</tspan>
+  <tspan x="1749.0" y="1044.0" font-size="30.0px" textLength="49.0" lengthAdjust="spacingAndGlyphs">bei</tspan>
+  <tspan x="1819.0" y="1044.5" font-size="29.0px" textLength="42.0" lengthAdjust="spacingAndGlyphs">20</tspan>
+  <tspan x="1880.0" y="1044.5" font-size="29.0px" textLength="36.0" lengthAdjust="spacingAndGlyphs">°C</tspan>
+  <tspan x="1935.0" y="1044.5" font-size="29.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">eine</tspan>
+</text>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0558-00200.avif"/>
+<text x="43.0" y="38.0" xml:space="preserve"> </text>
+<text x="43.0" y="39.0">
+  <tspan x="43.0" y="54.0" font-size="30.0px" textLength="120.0" lengthAdjust="spacingAndGlyphs">Patrick</tspan>
+  <tspan x="177.0" y="55.0" font-size="28.0px" textLength="116.0" lengthAdjust="spacingAndGlyphs">Krause</tspan>
+</text>
+</svg>

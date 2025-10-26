@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0353-00100.avif"/>
+<text x="42.0" y="15.0" xml:space="preserve"> </text>
+<text x="42.0" y="16.0">
+  <tspan x="42.0" y="35.5" font-size="39.0px" textLength="191.0" lengthAdjust="spacingAndGlyphs">erfolgreich</tspan>
+  <tspan x="250.0" y="32.0" font-size="30.0px" textLength="207.0" lengthAdjust="spacingAndGlyphs">beobachten</tspan>
+  <tspan x="473.0" y="32.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">oder</tspan>
+  <tspan x="566.0" y="35.5" font-size="39.0px" textLength="179.0" lengthAdjust="spacingAndGlyphs">verfolgen,</tspan>
+  <tspan x="762.0" y="36.0" font-size="22.0px" textLength="53.0" lengthAdjust="spacingAndGlyphs">um</tspan>
+  <tspan x="831.0" y="32.5" font-size="29.0px" textLength="98.0" lengthAdjust="spacingAndGlyphs">somit</tspan>
+  <tspan x="943.0" y="32.0" font-size="30.0px" textLength="130.0" lengthAdjust="spacingAndGlyphs">deinem</tspan>
+  <tspan x="1088.0" y="32.5" font-size="29.0px" textLength="94.0" lengthAdjust="spacingAndGlyphs">Team</tspan>
+  <tspan x="1198.0" y="32.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="1265.0" y="36.5" font-size="37.0px" textLength="133.0" lengthAdjust="spacingAndGlyphs">nötigen</tspan>
+  <tspan x="1416.0" y="31.5" font-size="31.0px" textLength="252.0" lengthAdjust="spacingAndGlyphs">Informationen</tspan>
+  <tspan x="1684.0" y="36.5" font-size="21.0px" textLength="38.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="1739.0" y="34.0" font-size="36.0px" textLength="200.0" lengthAdjust="spacingAndGlyphs">beschaffen,</tspan>
+  <tspan x="1955.0" y="32.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="42.0" y="102.0" font-size="22.0px" textLength="35.0" lengthAdjust="spacingAndGlyphs">es</tspan>
+  <tspan x="89.0" y="97.5" font-size="31.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">für</tspan>
+  <tspan x="153.0" y="98.5" font-size="29.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">eine</tspan>
+  <tspan x="238.0" y="102.0" font-size="38.0px" textLength="161.0" lengthAdjust="spacingAndGlyphs">objektive</tspan>
+  <tspan x="415.0" y="102.0" font-size="38.0px" textLength="289.0" lengthAdjust="spacingAndGlyphs">Lagebeurteilung</tspan>
+  <tspan x="720.0" y="102.0" font-size="38.0px" textLength="158.0" lengthAdjust="spacingAndGlyphs">benötigt.</tspan>
+</text>
+</svg>

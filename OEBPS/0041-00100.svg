@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0041-00100.avif"/>
+<text x="41.0" y="15.0" xml:space="preserve"> </text>
+<text x="41.0" y="16.0">
+  <tspan x="41.0" y="36.0" font-size="38.0px" textLength="229.0" lengthAdjust="spacingAndGlyphs">vorbeigehen,</tspan>
+  <tspan x="284.0" y="32.0" font-size="28.0px" textLength="54.0" lengthAdjust="spacingAndGlyphs">wir</tspan>
+  <tspan x="350.0" y="35.5" font-size="39.0px" textLength="122.0" lengthAdjust="spacingAndGlyphs">fangen</tspan>
+  <tspan x="487.0" y="36.0" font-size="38.0px" textLength="120.0" lengthAdjust="spacingAndGlyphs">gerade</tspan>
+  <tspan x="621.0" y="33.5" font-size="27.0px" textLength="65.0" lengthAdjust="spacingAndGlyphs">erst</tspan>
+  <tspan x="699.0" y="35.5" font-size="21.0px" textLength="50.0" lengthAdjust="spacingAndGlyphs">an.</tspan>
+  <tspan x="932.0" y="427.5" font-size="25.0px" textLength="130.0" lengthAdjust="spacingAndGlyphs">3-Phasen</tspan>
+  <tspan x="1073.0" y="428.0" font-size="22.0px" textLength="43.0" lengthAdjust="spacingAndGlyphs">2.0</tspan>
+</text>
+</svg>

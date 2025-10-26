@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 2047 1141"
+ width="2047" height="1141"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+svg { background: #e2e2e2; }
+@media (prefers-color-scheme: dark) {
+ svg { background: #1b1b1b; }
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="2047" height="1141" preserveAspectRatio="none" xlink:href="images/0398-00200.avif"/>
+<text x="43.0" y="15.0" xml:space="preserve"> </text>
+<text x="43.0" y="16.0">
+  <tspan x="43.0" y="35.5" font-size="37.0px" textLength="134.0" lengthAdjust="spacingAndGlyphs">Beispiel</tspan>
+  <tspan x="192.0" y="36.0" font-size="38.0px" textLength="256.0" lengthAdjust="spacingAndGlyphs">Entzündungen</tspan>
+  <tspan x="463.0" y="32.0" font-size="30.0px" textLength="56.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="533.0" y="35.5" font-size="37.0px" textLength="358.0" lengthAdjust="spacingAndGlyphs">Bauchspeicheldrüse,</tspan>
+  <tspan x="906.0" y="32.0" font-size="30.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="976.0" y="34.5" font-size="35.0px" textLength="213.0" lengthAdjust="spacingAndGlyphs">Gallenblase,</tspan>
+  <tspan x="1204.0" y="32.0" font-size="30.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="1274.0" y="34.5" font-size="35.0px" textLength="186.0" lengthAdjust="spacingAndGlyphs">Eierstöcke,</tspan>
+  <tspan x="1475.0" y="31.5" font-size="31.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">oft</tspan>
+  <tspan x="1539.0" y="32.0" font-size="30.0px" textLength="81.0" lengthAdjust="spacingAndGlyphs">auch</tspan>
+  <tspan x="1635.0" y="32.0" font-size="30.0px" textLength="58.0" lengthAdjust="spacingAndGlyphs">des</tspan>
+  <tspan x="1708.0" y="32.0" font-size="30.0px" textLength="208.0" lengthAdjust="spacingAndGlyphs">Blinddarms.</tspan>
+  <tspan x="41.0" y="124.5" font-size="37.0px" textLength="186.0" lengthAdjust="spacingAndGlyphs">Symptome</tspan>
+  <tspan x="239.0" y="120.0" font-size="30.0px" textLength="66.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="318.0" y="120.0" font-size="30.0px" textLength="158.0" lengthAdjust="spacingAndGlyphs">Ursachen</tspan>
+</text>
+<text x="43.0" y="164.0" xml:space="preserve"> </text>
+<text x="43.0" y="165.0">
+  <tspan x="43.0" y="189.5" font-size="39.0px" textLength="114.0" lengthAdjust="spacingAndGlyphs">Häufig</tspan>
+  <tspan x="189.0" y="186.0" font-size="30.0px" textLength="69.0" lengthAdjust="spacingAndGlyphs">sind</tspan>
+  <tspan x="290.0" y="186.0" font-size="30.0px" textLength="111.0" lengthAdjust="spacingAndGlyphs">solche</tspan>
+  <tspan x="433.0" y="190.0" font-size="38.0px" textLength="256.0" lengthAdjust="spacingAndGlyphs">Entzündungen</tspan>
+  <tspan x="720.0" y="190.5" font-size="21.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="816.0" y="188.0" font-size="36.0px" textLength="238.0" lengthAdjust="spacingAndGlyphs">Schüttelfrost,</tspan>
+  <tspan x="1088.0" y="188.5" font-size="35.0px" textLength="112.0" lengthAdjust="spacingAndGlyphs">Fieber,</tspan>
+  <tspan x="1232.0" y="190.0" font-size="38.0px" textLength="290.0" lengthAdjust="spacingAndGlyphs">Appetitlosigkeit,</tspan>
+  <tspan x="1555.0" y="183.0" font-size="36.0px" textLength="146.0" lengthAdjust="spacingAndGlyphs">Übelkeit</tspan>
+  <tspan x="1732.0" y="186.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1830.0" y="186.0" font-size="30.0px" textLength="175.0" lengthAdjust="spacingAndGlyphs">Erbrechen</tspan>
+  <tspan x="43.0" y="256.0" font-size="38.0px" textLength="165.0" lengthAdjust="spacingAndGlyphs">begleitet.</tspan>
+  <tspan x="231.0" y="252.0" font-size="30.0px" textLength="190.0" lengthAdjust="spacingAndGlyphs">Geschwüre</tspan>
+  <tspan x="443.0" y="252.0" font-size="28.0px" textLength="40.0" lengthAdjust="spacingAndGlyphs">im</tspan>
+  <tspan x="507.0" y="256.0" font-size="38.0px" textLength="386.0" lengthAdjust="spacingAndGlyphs">Magen-Darm-Bereich,</tspan>
+  <tspan x="916.0" y="256.0" font-size="38.0px" textLength="378.0" lengthAdjust="spacingAndGlyphs">Steineinklemmungen</tspan>
+  <tspan x="1317.0" y="252.0" font-size="28.0px" textLength="27.0" lengthAdjust="spacingAndGlyphs">in</tspan>
+  <tspan x="1367.0" y="252.0" font-size="30.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">den</tspan>
+  <tspan x="1452.0" y="252.0" font-size="30.0px" textLength="126.0" lengthAdjust="spacingAndGlyphs">Gallen-</tspan>
+  <tspan x="1600.0" y="252.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1688.0" y="257.0" font-size="36.0px" textLength="199.0" lengthAdjust="spacingAndGlyphs">Harnwegen</tspan>
+  <tspan x="1908.0" y="252.5" font-size="29.0px" textLength="98.0" lengthAdjust="spacingAndGlyphs">sowie</tspan>
+  <tspan x="43.0" y="318.0" font-size="30.0px" textLength="296.0" lengthAdjust="spacingAndGlyphs">Darmverschlüsse</tspan>
+  <tspan x="352.0" y="318.0" font-size="30.0px" textLength="213.0" lengthAdjust="spacingAndGlyphs">verursachen</tspan>
+  <tspan x="580.0" y="317.5" font-size="31.0px" textLength="50.0" lengthAdjust="spacingAndGlyphs">oft</tspan>
+  <tspan x="643.0" y="318.0" font-size="30.0px" textLength="74.0" lengthAdjust="spacingAndGlyphs">sehr</tspan>
+  <tspan x="729.0" y="318.0" font-size="30.0px" textLength="106.0" lengthAdjust="spacingAndGlyphs">starke</tspan>
+  <tspan x="850.0" y="318.0" font-size="30.0px" textLength="306.0" lengthAdjust="spacingAndGlyphs">Bauchschmerzen.</tspan>
+  <tspan x="1172.0" y="318.0" font-size="30.0px" textLength="182.0" lengthAdjust="spacingAndGlyphs">Manchmal</tspan>
+  <tspan x="1367.0" y="318.0" font-size="30.0px" textLength="171.0" lengthAdjust="spacingAndGlyphs">schwellen</tspan>
+  <tspan x="1553.0" y="318.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="1618.0" y="318.0" font-size="30.0px" textLength="193.0" lengthAdjust="spacingAndGlyphs">Schmerzen</tspan>
+  <tspan x="1827.0" y="322.0" font-size="38.0px" textLength="178.0" lengthAdjust="spacingAndGlyphs">periodisch</tspan>
+  <tspan x="42.0" y="388.5" font-size="21.0px" textLength="39.0" lengthAdjust="spacingAndGlyphs">an</tspan>
+  <tspan x="97.0" y="384.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="175.0" y="384.0" font-size="30.0px" textLength="119.0" lengthAdjust="spacingAndGlyphs">wieder</tspan>
+  <tspan x="307.0" y="384.0" font-size="30.0px" textLength="50.0" lengthAdjust="spacingAndGlyphs">ab.</tspan>
+  <tspan x="372.0" y="384.0" font-size="30.0px" textLength="115.0" lengthAdjust="spacingAndGlyphs">Solche</tspan>
+  <tspan x="501.0" y="384.0" font-size="30.0px" textLength="193.0" lengthAdjust="spacingAndGlyphs">Schmerzen</tspan>
+  <tspan x="708.0" y="384.0" font-size="30.0px" textLength="130.0" lengthAdjust="spacingAndGlyphs">werden</tspan>
+  <tspan x="852.0" y="384.0" font-size="30.0px" textLength="47.0" lengthAdjust="spacingAndGlyphs">als</tspan>
+  <tspan x="913.0" y="384.0" font-size="30.0px" textLength="126.0" lengthAdjust="spacingAndGlyphs">Koliken</tspan>
+  <tspan x="1055.0" y="384.0" font-size="30.0px" textLength="199.0" lengthAdjust="spacingAndGlyphs">bezeichnet.</tspan>
+</text>
+<text x="43.0" y="456.0" xml:space="preserve"> </text>
+<text x="43.0" y="457.0">
+  <tspan x="43.0" y="472.5" font-size="29.0px" textLength="54.0" lengthAdjust="spacingAndGlyphs">Die</tspan>
+  <tspan x="114.0" y="472.0" font-size="30.0px" textLength="208.0" lengthAdjust="spacingAndGlyphs">Bauchdecke</tspan>
+  <tspan x="339.0" y="472.5" font-size="29.0px" textLength="38.0" lengthAdjust="spacingAndGlyphs">ist</tspan>
+  <tspan x="393.0" y="478.0" font-size="34.0px" textLength="172.0" lengthAdjust="spacingAndGlyphs">gespannt,</tspan>
+  <tspan x="582.0" y="472.0" font-size="30.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="655.0" y="472.0" font-size="30.0px" textLength="185.0" lengthAdjust="spacingAndGlyphs">Betroffene</tspan>
+  <tspan x="856.0" y="472.0" font-size="30.0px" textLength="178.0" lengthAdjust="spacingAndGlyphs">auffallend</tspan>
+  <tspan x="1053.0" y="472.0" font-size="30.0px" textLength="94.0" lengthAdjust="spacingAndGlyphs">blass.</tspan>
+  <tspan x="1165.0" y="473.0" font-size="28.0px" textLength="33.0" lengthAdjust="spacingAndGlyphs">Er</tspan>
+  <tspan x="1214.0" y="472.0" font-size="30.0px" textLength="56.0" lengthAdjust="spacingAndGlyphs">hat</tspan>
+  <tspan x="1285.0" y="472.0" font-size="30.0px" textLength="300.0" lengthAdjust="spacingAndGlyphs">Schockanzeichen</tspan>
+  <tspan x="1604.0" y="472.5" font-size="29.0px" textLength="56.0" lengthAdjust="spacingAndGlyphs">mit</tspan>
+  <tspan x="1677.0" y="476.0" font-size="38.0px" textLength="328.0" lengthAdjust="spacingAndGlyphs">Blutdrucksenkung,</tspan>
+  <tspan x="42.0" y="538.0" font-size="30.0px" textLength="163.0" lengthAdjust="spacingAndGlyphs">eventuell</tspan>
+  <tspan x="229.0" y="538.0" font-size="30.0px" textLength="190.0" lengthAdjust="spacingAndGlyphs">schwachen</tspan>
+  <tspan x="446.0" y="538.0" font-size="30.0px" textLength="71.0" lengthAdjust="spacingAndGlyphs">Puls</tspan>
+  <tspan x="541.0" y="538.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="631.0" y="538.0" font-size="30.0px" textLength="338.0" lengthAdjust="spacingAndGlyphs">Schweißausbrüche.</tspan>
+  <tspan x="996.0" y="539.0" font-size="28.0px" textLength="59.0" lengthAdjust="spacingAndGlyphs">Der</tspan>
+  <tspan x="1079.0" y="538.0" font-size="30.0px" textLength="186.0" lengthAdjust="spacingAndGlyphs">Betroffene</tspan>
+  <tspan x="1291.0" y="538.5" font-size="29.0px" textLength="115.0" lengthAdjust="spacingAndGlyphs">nimmt</tspan>
+  <tspan x="1431.0" y="538.5" font-size="29.0px" textLength="95.0" lengthAdjust="spacingAndGlyphs">meist</tspan>
+  <tspan x="1549.0" y="538.5" font-size="29.0px" textLength="72.0" lengthAdjust="spacingAndGlyphs">eine</tspan>
+  <tspan x="1646.0" y="542.0" font-size="38.0px" textLength="278.0" lengthAdjust="spacingAndGlyphs">„Schonhaltung“</tspan>
+  <tspan x="1950.0" y="538.5" font-size="29.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">mit</tspan>
+  <tspan x="42.0" y="612.5" font-size="29.0px" textLength="236.0" lengthAdjust="spacingAndGlyphs">angezogenen</tspan>
+  <tspan x="300.0" y="604.5" font-size="29.0px" textLength="96.0" lengthAdjust="spacingAndGlyphs">Knien</tspan>
+  <tspan x="416.0" y="604.5" font-size="29.0px" textLength="60.0" lengthAdjust="spacingAndGlyphs">ein.</tspan>
+  <tspan x="497.0" y="605.0" font-size="28.0px" textLength="33.0" lengthAdjust="spacingAndGlyphs">Er</tspan>
+  <tspan x="549.0" y="608.0" font-size="38.0px" textLength="77.0" lengthAdjust="spacingAndGlyphs">liegt</tspan>
+  <tspan x="644.0" y="604.0" font-size="30.0px" textLength="95.0" lengthAdjust="spacingAndGlyphs">dabei</tspan>
+  <tspan x="760.0" y="608.0" font-size="38.0px" textLength="108.0" lengthAdjust="spacingAndGlyphs">häufig</tspan>
+  <tspan x="889.0" y="604.0" font-size="30.0px" textLength="56.0" lengthAdjust="spacingAndGlyphs">auf</tspan>
+  <tspan x="963.0" y="604.0" font-size="30.0px" textLength="57.0" lengthAdjust="spacingAndGlyphs">der</tspan>
+  <tspan x="1038.0" y="604.5" font-size="29.0px" textLength="95.0" lengthAdjust="spacingAndGlyphs">Seite.</tspan>
+  <tspan x="1154.0" y="604.5" font-size="29.0px" textLength="54.0" lengthAdjust="spacingAndGlyphs">Die</tspan>
+  <tspan x="1228.0" y="604.0" font-size="30.0px" textLength="208.0" lengthAdjust="spacingAndGlyphs">Bauchdecke</tspan>
+  <tspan x="1454.0" y="604.0" font-size="30.0px" textLength="75.0" lengthAdjust="spacingAndGlyphs">wird</tspan>
+  <tspan x="1549.0" y="604.0" font-size="30.0px" textLength="94.0" lengthAdjust="spacingAndGlyphs">dabei</tspan>
+  <tspan x="1664.0" y="610.0" font-size="34.0px" textLength="187.0" lengthAdjust="spacingAndGlyphs">entspannt,</tspan>
+  <tspan x="1870.0" y="608.5" font-size="21.0px" textLength="67.0" lengthAdjust="spacingAndGlyphs">was</tspan>
+  <tspan x="1955.0" y="604.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="42.0" y="670.0" font-size="30.0px" textLength="193.0" lengthAdjust="spacingAndGlyphs">Schmerzen</tspan>
+  <tspan x="251.0" y="670.0" font-size="30.0px" textLength="125.0" lengthAdjust="spacingAndGlyphs">lindert.</tspan>
+</text>
+<text x="43.0" y="742.0" xml:space="preserve"> </text>
+<text x="43.0" y="743.0">
+  <tspan x="43.0" y="759.0" font-size="28.0px" textLength="61.0" lengthAdjust="spacingAndGlyphs">Das</tspan>
+  <tspan x="118.0" y="758.0" font-size="30.0px" textLength="117.0" lengthAdjust="spacingAndGlyphs">kannst</tspan>
+  <tspan x="248.0" y="758.0" font-size="30.0px" textLength="42.0" lengthAdjust="spacingAndGlyphs">du</tspan>
+  <tspan x="303.0" y="760.0" font-size="26.0px" textLength="68.0" lengthAdjust="spacingAndGlyphs">tun:</tspan>
+</text>
+<text x="42.0" y="830.0" xml:space="preserve"> </text>
+<text x="42.0" y="831.0">
+  <tspan x="42.0" y="851.0" font-size="10.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">+</tspan>
+  <tspan x="68.0" y="848.0" font-size="28.0px" textLength="41.0" lengthAdjust="spacingAndGlyphs">Zu</tspan>
+  <tspan x="126.0" y="847.0" font-size="30.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">den</tspan>
+  <tspan x="204.0" y="851.0" font-size="38.0px" textLength="204.0" lengthAdjust="spacingAndGlyphs">wichtigsten</tspan>
+  <tspan x="426.0" y="846.5" font-size="31.0px" textLength="219.0" lengthAdjust="spacingAndGlyphs">Maßnahmen</tspan>
+  <tspan x="663.0" y="847.0" font-size="30.0px" textLength="49.0" lengthAdjust="spacingAndGlyphs">bei</tspan>
+  <tspan x="729.0" y="847.0" font-size="30.0px" textLength="83.0" lengthAdjust="spacingAndGlyphs">allen</tspan>
+  <tspan x="828.0" y="847.0" font-size="30.0px" textLength="120.0" lengthAdjust="spacingAndGlyphs">akuten</tspan>
+  <tspan x="966.0" y="847.0" font-size="30.0px" textLength="141.0" lengthAdjust="spacingAndGlyphs">Kranken</tspan>
+  <tspan x="1124.0" y="851.0" font-size="38.0px" textLength="118.0" lengthAdjust="spacingAndGlyphs">gehört</tspan>
+  <tspan x="1257.0" y="853.5" font-size="27.0px" textLength="44.0" lengthAdjust="spacingAndGlyphs">es,</tspan>
+  <tspan x="1317.0" y="847.0" font-size="30.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">den</tspan>
+  <tspan x="1399.0" y="846.5" font-size="31.0px" textLength="208.0" lengthAdjust="spacingAndGlyphs">Betroffenen</tspan>
+  <tspan x="1623.0" y="851.5" font-size="21.0px" textLength="37.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="1678.0" y="851.0" font-size="38.0px" textLength="177.0" lengthAdjust="spacingAndGlyphs">beruhigen</tspan>
+  <tspan x="1873.0" y="847.0" font-size="30.0px" textLength="63.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="1954.0" y="846.5" font-size="29.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">ihn</tspan>
+  <tspan x="41.0" y="917.5" font-size="21.0px" textLength="38.0" lengthAdjust="spacingAndGlyphs">zu</tspan>
+  <tspan x="95.0" y="913.0" font-size="30.0px" textLength="166.0" lengthAdjust="spacingAndGlyphs">betreuen.</tspan>
+</text>
+<text x="42.0" y="963.0" xml:space="preserve"> </text>
+<text x="42.0" y="964.0">
+  <tspan x="42.0" y="983.0" font-size="10.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="68.0" y="980.0" font-size="28.0px" textLength="65.0" lengthAdjust="spacingAndGlyphs">Den</tspan>
+  <tspan x="150.0" y="979.0" font-size="30.0px" textLength="141.0" lengthAdjust="spacingAndGlyphs">Kranken</tspan>
+  <tspan x="305.0" y="983.0" font-size="22.0px" textLength="98.0" lengthAdjust="spacingAndGlyphs">warm</tspan>
+  <tspan x="417.0" y="979.0" font-size="30.0px" textLength="164.0" lengthAdjust="spacingAndGlyphs">zudecken</tspan>
+  <tspan x="597.0" y="979.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="677.0" y="979.0" font-size="30.0px" textLength="128.0" lengthAdjust="spacingAndGlyphs">Unruhe</tspan>
+  <tspan x="820.0" y="979.0" font-size="30.0px" textLength="64.0" lengthAdjust="spacingAndGlyphs">und</tspan>
+  <tspan x="900.0" y="979.0" font-size="30.0px" textLength="113.0" lengthAdjust="spacingAndGlyphs">Hektik</tspan>
+  <tspan x="1024.0" y="979.0" font-size="30.0px" textLength="197.0" lengthAdjust="spacingAndGlyphs">vermeiden.</tspan>
+</text>
+<text x="42.0" y="1029.0" xml:space="preserve"> </text>
+<text x="42.0" y="1030.0">
+  <tspan x="42.0" y="1049.0" font-size="10.0px" textLength="11.0" lengthAdjust="spacingAndGlyphs">«</tspan>
+  <tspan x="68.0" y="1046.0" font-size="28.0px" textLength="65.0" lengthAdjust="spacingAndGlyphs">Den</tspan>
+  <tspan x="149.0" y="1045.0" font-size="30.0px" textLength="141.0" lengthAdjust="spacingAndGlyphs">Kranken</tspan>
+  <tspan x="306.0" y="1045.0" font-size="30.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">nach</tspan>
+  <tspan x="400.0" y="1045.5" font-size="29.0px" textLength="112.0" lengthAdjust="spacingAndGlyphs">seinen</tspan>
+  <tspan x="527.0" y="1049.5" font-size="37.0px" textLength="137.0" lengthAdjust="spacingAndGlyphs">eigenen</tspan>
+  <tspan x="678.0" y="1045.0" font-size="30.0px" textLength="181.0" lengthAdjust="spacingAndGlyphs">Wünschen</tspan>
+  <tspan x="875.0" y="1049.0" font-size="38.0px" textLength="118.0" lengthAdjust="spacingAndGlyphs">lagern,</tspan>
+  <tspan x="1006.0" y="1045.0" font-size="30.0px" textLength="105.0" lengthAdjust="spacingAndGlyphs">wobei</tspan>
+  <tspan x="1126.0" y="1045.5" font-size="29.0px" textLength="95.0" lengthAdjust="spacingAndGlyphs">meist</tspan>
+  <tspan x="1235.0" y="1049.0" font-size="22.0px" textLength="58.0" lengthAdjust="spacingAndGlyphs">nur</tspan>
+  <tspan x="1305.0" y="1045.0" font-size="30.0px" textLength="51.0" lengthAdjust="spacingAndGlyphs">die</tspan>
+  <tspan x="1368.0" y="1049.0" font-size="22.0px" textLength="75.0" lengthAdjust="spacingAndGlyphs">vom</tspan>
+  <tspan x="1459.0" y="1045.0" font-size="30.0px" textLength="141.0" lengthAdjust="spacingAndGlyphs">Kranken</tspan>
+  <tspan x="1614.0" y="1045.0" font-size="30.0px" textLength="101.0" lengthAdjust="spacingAndGlyphs">schon</tspan>
+  <tspan x="1730.0" y="1049.5" font-size="37.0px" textLength="276.0" lengthAdjust="spacingAndGlyphs">eingenommene</tspan>
+</text>
+</svg>

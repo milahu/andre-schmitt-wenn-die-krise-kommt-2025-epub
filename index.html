@@ -1,0 +1,1066 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>André Schmitt - Wenn die Krise kommt (2025)</title>
+<meta name="generator" content="hocr-to-epub-fxl">
+<style>
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden;
+  }
+
+  #menu-bar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 10px;
+    background-color: #f0f0f0;
+    border-bottom: 1px solid #ccc;
+  }
+  #menu-bar {
+    transform-origin: top left;
+    /* transition: transform 0.1s ease; */
+    z-index: 10;
+  }
+
+  #menu-bar > * {
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 16px;
+  }
+
+  #menu-bar button {
+    padding: 5px 10px;
+  }
+
+  #menu-bar input {
+    width: 50px;
+    text-align: center;
+  }
+
+  #menu-bar button,
+  #menu-bar input,
+  #menu-bar > a {
+    display: inline-block;
+    padding: 5px 10px;
+    border: solid 1px #5b5b5b;
+    border-radius: 2px;
+    color: black;
+    text-decoration: none;
+    cursor: default;
+  }
+  #menu-bar button:hover,
+  #menu-bar > a:hover {
+    background: #e5e5e5;
+  }
+
+  #viewer {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    overflow-y: auto;
+    background-color: #e0e0e0;
+    scroll-behavior: smooth;
+  }
+
+  iframe {
+    border: none;
+    flex: 1 1 auto;
+    height: 100%;
+    /* ensure full viewport height */
+    /* height: 100vh; */
+    margin: 0 5px;
+    transform-origin: top center;
+  }
+
+  /* Single-page mode */
+  #viewer.single-page iframe {
+    width: 100%;
+    margin: 0;
+  }
+
+  /* Two-page mode */
+  #viewer.two-page iframe {
+    width: 45%;
+  }
+</style>
+</head>
+<body>
+
+<div id="menu-bar">
+  <button id="prevPage">Previous</button>
+  <button id="nextPage">Next</button>
+  <input type="number" id="pageNumber" min="1" value="1">
+  <span id="totalPages"></span>
+  <button id="toggleMode">Two-Page Mode</button>
+  <a href="OEBPS/index.html">All Pages</a>
+</div>
+
+<div id="viewer" class="single-page">
+  <iframe id="page1"></iframe>
+</div>
+
+<script>
+  // --- CONFIG: list of SVG files ---
+  const svgFiles = [
+'OEBPS/0001-00100.svg',
+'OEBPS/0002-00100.svg',
+'OEBPS/0002-00200.svg',
+'OEBPS/0003-00100.svg',
+'OEBPS/0003-00200.svg',
+'OEBPS/0004-00100.svg',
+'OEBPS/0005-00100.svg',
+'OEBPS/0006-00100.svg',
+'OEBPS/0006-00200.svg',
+'OEBPS/0007-00100.svg',
+'OEBPS/0008-00100.svg',
+'OEBPS/0009-00100.svg',
+'OEBPS/0009-00200.svg',
+'OEBPS/0010-00100.svg',
+'OEBPS/0011-00100.svg',
+'OEBPS/0012-00100.svg',
+'OEBPS/0013-00100.svg',
+'OEBPS/0013-00200.svg',
+'OEBPS/0014-00100.svg',
+'OEBPS/0014-00200.svg',
+'OEBPS/0015-00100.svg',
+'OEBPS/0015-00200.svg',
+'OEBPS/0016-00100.svg',
+'OEBPS/0016-00200.svg',
+'OEBPS/0017-00100.svg',
+'OEBPS/0018-00100.svg',
+'OEBPS/0019-00100.svg',
+'OEBPS/0020-00100.svg',
+'OEBPS/0020-00200.svg',
+'OEBPS/0021-00100.svg',
+'OEBPS/0022-00100.svg',
+'OEBPS/0023-00100.svg',
+'OEBPS/0023-00200.svg',
+'OEBPS/0024-00100.svg',
+'OEBPS/0025-00100.svg',
+'OEBPS/0026-00100.svg',
+'OEBPS/0026-00200.svg',
+'OEBPS/0027-00100.svg',
+'OEBPS/0028-00100.svg',
+'OEBPS/0029-00100.svg',
+'OEBPS/0030-00100.svg',
+'OEBPS/0031-00100.svg',
+'OEBPS/0031-00200.svg',
+'OEBPS/0032-00100.svg',
+'OEBPS/0033-00100.svg',
+'OEBPS/0034-00100.svg',
+'OEBPS/0035-00100.svg',
+'OEBPS/0035-00200.svg',
+'OEBPS/0036-00100.svg',
+'OEBPS/0037-00100.svg',
+'OEBPS/0038-00100.svg',
+'OEBPS/0038-00200.svg',
+'OEBPS/0039-00100.svg',
+'OEBPS/0040-00100.svg',
+'OEBPS/0041-00100.svg',
+'OEBPS/0042-00100.svg',
+'OEBPS/0042-00200.svg',
+'OEBPS/0043-00100.svg',
+'OEBPS/0044-00100.svg',
+'OEBPS/0045-00100.svg',
+'OEBPS/0046-00100.svg',
+'OEBPS/0046-00200.svg',
+'OEBPS/0047-00100.svg',
+'OEBPS/0048-00100.svg',
+'OEBPS/0049-00100.svg',
+'OEBPS/0050-00100.svg',
+'OEBPS/0050-00200.svg',
+'OEBPS/0051-00100.svg',
+'OEBPS/0052-00100.svg',
+'OEBPS/0053-00100.svg',
+'OEBPS/0054-00100.svg',
+'OEBPS/0054-00200.svg',
+'OEBPS/0055-00100.svg',
+'OEBPS/0056-00100.svg',
+'OEBPS/0057-00100.svg',
+'OEBPS/0058-00100.svg',
+'OEBPS/0058-00200.svg',
+'OEBPS/0059-00100.svg',
+'OEBPS/0060-00100.svg',
+'OEBPS/0060-00200.svg',
+'OEBPS/0061-00100.svg',
+'OEBPS/0062-00100.svg',
+'OEBPS/0063-00100.svg',
+'OEBPS/0064-00100.svg',
+'OEBPS/0065-00100.svg',
+'OEBPS/0065-00200.svg',
+'OEBPS/0066-00100.svg',
+'OEBPS/0067-00100.svg',
+'OEBPS/0068-00100.svg',
+'OEBPS/0069-00100.svg',
+'OEBPS/0070-00100.svg',
+'OEBPS/0070-00200.svg',
+'OEBPS/0071-00100.svg',
+'OEBPS/0072-00100.svg',
+'OEBPS/0073-00100.svg',
+'OEBPS/0074-00100.svg',
+'OEBPS/0075-00100.svg',
+'OEBPS/0076-00100.svg',
+'OEBPS/0077-00100.svg',
+'OEBPS/0078-00100.svg',
+'OEBPS/0078-00200.svg',
+'OEBPS/0079-00100.svg',
+'OEBPS/0080-00100.svg',
+'OEBPS/0081-00100.svg',
+'OEBPS/0081-00200.svg',
+'OEBPS/0082-00100.svg',
+'OEBPS/0083-00100.svg',
+'OEBPS/0084-00100.svg',
+'OEBPS/0084-00200.svg',
+'OEBPS/0085-00100.svg',
+'OEBPS/0085-00200.svg',
+'OEBPS/0086-00100.svg',
+'OEBPS/0087-00100.svg',
+'OEBPS/0088-00100.svg',
+'OEBPS/0089-00100.svg',
+'OEBPS/0089-00200.svg',
+'OEBPS/0090-00100.svg',
+'OEBPS/0091-00100.svg',
+'OEBPS/0092-00100.svg',
+'OEBPS/0093-00100.svg',
+'OEBPS/0094-00100.svg',
+'OEBPS/0095-00100.svg',
+'OEBPS/0095-00200.svg',
+'OEBPS/0097-00100.svg',
+'OEBPS/0097-00200.svg',
+'OEBPS/0098-00100.svg',
+'OEBPS/0099-00100.svg',
+'OEBPS/0099-00200.svg',
+'OEBPS/0100-00100.svg',
+'OEBPS/0101-00100.svg',
+'OEBPS/0102-00100.svg',
+'OEBPS/0102-00200.svg',
+'OEBPS/0103-00100.svg',
+'OEBPS/0104-00100.svg',
+'OEBPS/0104-00200.svg',
+'OEBPS/0106-00100.svg',
+'OEBPS/0106-00200.svg',
+'OEBPS/0107-00100.svg',
+'OEBPS/0108-00100.svg',
+'OEBPS/0109-00100.svg',
+'OEBPS/0110-00100.svg',
+'OEBPS/0110-00200.svg',
+'OEBPS/0112-00100.svg',
+'OEBPS/0112-00200.svg',
+'OEBPS/0113-00100.svg',
+'OEBPS/0114-00100.svg',
+'OEBPS/0115-00100.svg',
+'OEBPS/0116-00100.svg',
+'OEBPS/0116-00200.svg',
+'OEBPS/0117-00100.svg',
+'OEBPS/0118-00100.svg',
+'OEBPS/0118-00200.svg',
+'OEBPS/0119-00100.svg',
+'OEBPS/0120-00100.svg',
+'OEBPS/0121-00100.svg',
+'OEBPS/0122-00100.svg',
+'OEBPS/0122-00200.svg',
+'OEBPS/0124-00100.svg',
+'OEBPS/0124-00200.svg',
+'OEBPS/0125-00100.svg',
+'OEBPS/0126-00100.svg',
+'OEBPS/0127-00100.svg',
+'OEBPS/0127-00200.svg',
+'OEBPS/0129-00100.svg',
+'OEBPS/0129-00200.svg',
+'OEBPS/0130-00100.svg',
+'OEBPS/0132-00100.svg',
+'OEBPS/0132-00200.svg',
+'OEBPS/0134-00100.svg',
+'OEBPS/0135-00100.svg',
+'OEBPS/0135-00200.svg',
+'OEBPS/0136-00100.svg',
+'OEBPS/0137-00100.svg',
+'OEBPS/0138-00100.svg',
+'OEBPS/0139-00100.svg',
+'OEBPS/0140-00100.svg',
+'OEBPS/0140-00200.svg',
+'OEBPS/0141-00100.svg',
+'OEBPS/0142-00100.svg',
+'OEBPS/0143-00100.svg',
+'OEBPS/0144-00100.svg',
+'OEBPS/0144-00200.svg',
+'OEBPS/0146-00100.svg',
+'OEBPS/0146-00200.svg',
+'OEBPS/0147-00100.svg',
+'OEBPS/0148-00100.svg',
+'OEBPS/0149-00100.svg',
+'OEBPS/0150-00100.svg',
+'OEBPS/0151-00100.svg',
+'OEBPS/0151-00200.svg',
+'OEBPS/0152-00100.svg',
+'OEBPS/0153-00100.svg',
+'OEBPS/0154-00100.svg',
+'OEBPS/0155-00100.svg',
+'OEBPS/0156-00100.svg',
+'OEBPS/0156-00200.svg',
+'OEBPS/0157-00100.svg',
+'OEBPS/0158-00100.svg',
+'OEBPS/0159-00100.svg',
+'OEBPS/0159-00200.svg',
+'OEBPS/0160-00100.svg',
+'OEBPS/0162-00100.svg',
+'OEBPS/0162-00200.svg',
+'OEBPS/0163-00100.svg',
+'OEBPS/0164-00100.svg',
+'OEBPS/0164-00200.svg',
+'OEBPS/0165-00100.svg',
+'OEBPS/0167-00100.svg',
+'OEBPS/0167-00200.svg',
+'OEBPS/0168-00100.svg',
+'OEBPS/0169-00100.svg',
+'OEBPS/0169-00200.svg',
+'OEBPS/0169-00300.svg',
+'OEBPS/0170-00100.svg',
+'OEBPS/0170-00200.svg',
+'OEBPS/0171-00100.svg',
+'OEBPS/0172-00100.svg',
+'OEBPS/0172-00200.svg',
+'OEBPS/0173-00100.svg',
+'OEBPS/0174-00100.svg',
+'OEBPS/0175-00100.svg',
+'OEBPS/0176-00100.svg',
+'OEBPS/0176-00200.svg',
+'OEBPS/0177-00100.svg',
+'OEBPS/0178-00100.svg',
+'OEBPS/0179-00100.svg',
+'OEBPS/0180-00100.svg',
+'OEBPS/0180-00200.svg',
+'OEBPS/0181-00100.svg',
+'OEBPS/0182-00100.svg',
+'OEBPS/0183-00100.svg',
+'OEBPS/0184-00100.svg',
+'OEBPS/0184-00200.svg',
+'OEBPS/0185-00100.svg',
+'OEBPS/0186-00100.svg',
+'OEBPS/0187-00100.svg',
+'OEBPS/0187-00200.svg',
+'OEBPS/0189-00100.svg',
+'OEBPS/0189-00200.svg',
+'OEBPS/0190-00100.svg',
+'OEBPS/0191-00100.svg',
+'OEBPS/0192-00100.svg',
+'OEBPS/0193-00100.svg',
+'OEBPS/0193-00200.svg',
+'OEBPS/0194-00100.svg',
+'OEBPS/0195-00100.svg',
+'OEBPS/0196-00100.svg',
+'OEBPS/0197-00100.svg',
+'OEBPS/0197-00200.svg',
+'OEBPS/0199-00100.svg',
+'OEBPS/0199-00200.svg',
+'OEBPS/0200-00100.svg',
+'OEBPS/0201-00100.svg',
+'OEBPS/0202-00100.svg',
+'OEBPS/0202-00200.svg',
+'OEBPS/0203-00100.svg',
+'OEBPS/0204-00100.svg',
+'OEBPS/0205-00100.svg',
+'OEBPS/0205-00200.svg',
+'OEBPS/0206-00100.svg',
+'OEBPS/0207-00100.svg',
+'OEBPS/0208-00100.svg',
+'OEBPS/0209-00100.svg',
+'OEBPS/0209-00200.svg',
+'OEBPS/0210-00100.svg',
+'OEBPS/0211-00100.svg',
+'OEBPS/0211-00200.svg',
+'OEBPS/0212-00100.svg',
+'OEBPS/0213-00100.svg',
+'OEBPS/0213-00200.svg',
+'OEBPS/0214-00100.svg',
+'OEBPS/0215-00100.svg',
+'OEBPS/0216-00100.svg',
+'OEBPS/0216-00200.svg',
+'OEBPS/0217-00100.svg',
+'OEBPS/0217-00200.svg',
+'OEBPS/0218-00100.svg',
+'OEBPS/0219-00100.svg',
+'OEBPS/0219-00200.svg',
+'OEBPS/0220-00100.svg',
+'OEBPS/0221-00100.svg',
+'OEBPS/0221-00200.svg',
+'OEBPS/0222-00100.svg',
+'OEBPS/0222-00200.svg',
+'OEBPS/0223-00100.svg',
+'OEBPS/0223-00200.svg',
+'OEBPS/0224-00100.svg',
+'OEBPS/0225-00100.svg',
+'OEBPS/0226-00100.svg',
+'OEBPS/0226-00200.svg',
+'OEBPS/0228-00100.svg',
+'OEBPS/0228-00200.svg',
+'OEBPS/0229-00100.svg',
+'OEBPS/0229-00200.svg',
+'OEBPS/0230-00100.svg',
+'OEBPS/0231-00100.svg',
+'OEBPS/0231-00200.svg',
+'OEBPS/0232-00100.svg',
+'OEBPS/0233-00100.svg',
+'OEBPS/0233-00200.svg',
+'OEBPS/0234-00100.svg',
+'OEBPS/0235-00100.svg',
+'OEBPS/0236-00100.svg',
+'OEBPS/0236-00200.svg',
+'OEBPS/0237-00100.svg',
+'OEBPS/0238-00100.svg',
+'OEBPS/0239-00100.svg',
+'OEBPS/0240-00100.svg',
+'OEBPS/0241-00100.svg',
+'OEBPS/0241-00200.svg',
+'OEBPS/0242-00100.svg',
+'OEBPS/0243-00100.svg',
+'OEBPS/0244-00100.svg',
+'OEBPS/0244-00200.svg',
+'OEBPS/0245-00100.svg',
+'OEBPS/0246-00100.svg',
+'OEBPS/0246-00200.svg',
+'OEBPS/0247-00100.svg',
+'OEBPS/0248-00100.svg',
+'OEBPS/0249-00100.svg',
+'OEBPS/0250-00100.svg',
+'OEBPS/0251-00100.svg',
+'OEBPS/0251-00200.svg',
+'OEBPS/0252-00100.svg',
+'OEBPS/0253-00100.svg',
+'OEBPS/0253-00200.svg',
+'OEBPS/0254-00100.svg',
+'OEBPS/0255-00100.svg',
+'OEBPS/0255-00200.svg',
+'OEBPS/0256-00100.svg',
+'OEBPS/0257-00100.svg',
+'OEBPS/0258-00100.svg',
+'OEBPS/0258-00200.svg',
+'OEBPS/0259-00100.svg',
+'OEBPS/0259-00200.svg',
+'OEBPS/0260-00100.svg',
+'OEBPS/0261-00100.svg',
+'OEBPS/0261-00200.svg',
+'OEBPS/0262-00100.svg',
+'OEBPS/0263-00100.svg',
+'OEBPS/0264-00100.svg',
+'OEBPS/0264-00200.svg',
+'OEBPS/0265-00100.svg',
+'OEBPS/0266-00100.svg',
+'OEBPS/0267-00100.svg',
+'OEBPS/0268-00100.svg',
+'OEBPS/0269-00100.svg',
+'OEBPS/0269-00200.svg',
+'OEBPS/0270-00100.svg',
+'OEBPS/0271-00100.svg',
+'OEBPS/0272-00100.svg',
+'OEBPS/0273-00100.svg',
+'OEBPS/0273-00200.svg',
+'OEBPS/0274-00100.svg',
+'OEBPS/0276-00100.svg',
+'OEBPS/0276-00200.svg',
+'OEBPS/0277-00100.svg',
+'OEBPS/0278-00100.svg',
+'OEBPS/0278-00200.svg',
+'OEBPS/0279-00100.svg',
+'OEBPS/0280-00100.svg',
+'OEBPS/0281-00100.svg',
+'OEBPS/0281-00200.svg',
+'OEBPS/0282-00100.svg',
+'OEBPS/0283-00100.svg',
+'OEBPS/0284-00100.svg',
+'OEBPS/0286-00100.svg',
+'OEBPS/0286-00200.svg',
+'OEBPS/0287-00100.svg',
+'OEBPS/0288-00100.svg',
+'OEBPS/0289-00100.svg',
+'OEBPS/0289-00200.svg',
+'OEBPS/0290-00100.svg',
+'OEBPS/0291-00100.svg',
+'OEBPS/0292-00100.svg',
+'OEBPS/0293-00100.svg',
+'OEBPS/0294-00100.svg',
+'OEBPS/0294-00200.svg',
+'OEBPS/0295-00100.svg',
+'OEBPS/0296-00100.svg',
+'OEBPS/0297-00100.svg',
+'OEBPS/0298-00100.svg',
+'OEBPS/0299-00100.svg',
+'OEBPS/0299-00200.svg',
+'OEBPS/0300-00100.svg',
+'OEBPS/0301-00100.svg',
+'OEBPS/0302-00100.svg',
+'OEBPS/0303-00100.svg',
+'OEBPS/0304-00100.svg',
+'OEBPS/0305-00100.svg',
+'OEBPS/0305-00200.svg',
+'OEBPS/0306-00100.svg',
+'OEBPS/0307-00100.svg',
+'OEBPS/0308-00100.svg',
+'OEBPS/0308-00200.svg',
+'OEBPS/0309-00100.svg',
+'OEBPS/0310-00100.svg',
+'OEBPS/0310-00200.svg',
+'OEBPS/0312-00100.svg',
+'OEBPS/0312-00200.svg',
+'OEBPS/0313-00100.svg',
+'OEBPS/0315-00100.svg',
+'OEBPS/0315-00200.svg',
+'OEBPS/0316-00100.svg',
+'OEBPS/0317-00100.svg',
+'OEBPS/0318-00100.svg',
+'OEBPS/0318-00200.svg',
+'OEBPS/0320-00100.svg',
+'OEBPS/0320-00200.svg',
+'OEBPS/0321-00100.svg',
+'OEBPS/0322-00100.svg',
+'OEBPS/0323-00100.svg',
+'OEBPS/0324-00100.svg',
+'OEBPS/0325-00100.svg',
+'OEBPS/0325-00200.svg',
+'OEBPS/0326-00100.svg',
+'OEBPS/0327-00100.svg',
+'OEBPS/0327-00200.svg',
+'OEBPS/0328-00100.svg',
+'OEBPS/0329-00100.svg',
+'OEBPS/0329-00200.svg',
+'OEBPS/0331-00100.svg',
+'OEBPS/0331-00200.svg',
+'OEBPS/0333-00100.svg',
+'OEBPS/0333-00200.svg',
+'OEBPS/0334-00100.svg',
+'OEBPS/0334-00200.svg',
+'OEBPS/0335-00100.svg',
+'OEBPS/0336-00100.svg',
+'OEBPS/0336-00200.svg',
+'OEBPS/0337-00100.svg',
+'OEBPS/0338-00100.svg',
+'OEBPS/0339-00100.svg',
+'OEBPS/0339-00200.svg',
+'OEBPS/0340-00100.svg',
+'OEBPS/0341-00100.svg',
+'OEBPS/0342-00100.svg',
+'OEBPS/0342-00200.svg',
+'OEBPS/0343-00100.svg',
+'OEBPS/0344-00100.svg',
+'OEBPS/0345-00100.svg',
+'OEBPS/0346-00100.svg',
+'OEBPS/0346-00200.svg',
+'OEBPS/0347-00100.svg',
+'OEBPS/0348-00100.svg',
+'OEBPS/0349-00100.svg',
+'OEBPS/0350-00100.svg',
+'OEBPS/0351-00100.svg',
+'OEBPS/0351-00200.svg',
+'OEBPS/0352-00100.svg',
+'OEBPS/0353-00100.svg',
+'OEBPS/0354-00100.svg',
+'OEBPS/0354-00200.svg',
+'OEBPS/0355-00100.svg',
+'OEBPS/0356-00100.svg',
+'OEBPS/0357-00100.svg',
+'OEBPS/0357-00200.svg',
+'OEBPS/0358-00100.svg',
+'OEBPS/0359-00100.svg',
+'OEBPS/0360-00100.svg',
+'OEBPS/0361-00100.svg',
+'OEBPS/0361-00300.svg',
+'OEBPS/0362-00100.svg',
+'OEBPS/0363-00100.svg',
+'OEBPS/0364-00100.svg',
+'OEBPS/0364-00200.svg',
+'OEBPS/0365-00100.svg',
+'OEBPS/0367-00100.svg',
+'OEBPS/0367-00200.svg',
+'OEBPS/0368-00100.svg',
+'OEBPS/0369-00100.svg',
+'OEBPS/0370-00100.svg',
+'OEBPS/0370-00200.svg',
+'OEBPS/0371-00100.svg',
+'OEBPS/0373-00100.svg',
+'OEBPS/0373-00200.svg',
+'OEBPS/0374-00100.svg',
+'OEBPS/0375-00100.svg',
+'OEBPS/0375-00200.svg',
+'OEBPS/0376-00100.svg',
+'OEBPS/0377-00100.svg',
+'OEBPS/0378-00100.svg',
+'OEBPS/0379-00100.svg',
+'OEBPS/0379-00200.svg',
+'OEBPS/0380-00100.svg',
+'OEBPS/0381-00100.svg',
+'OEBPS/0382-00100.svg',
+'OEBPS/0382-00200.svg',
+'OEBPS/0383-00100.svg',
+'OEBPS/0384-00100.svg',
+'OEBPS/0384-00200.svg',
+'OEBPS/0385-00100.svg',
+'OEBPS/0386-00100.svg',
+'OEBPS/0387-00100.svg',
+'OEBPS/0387-00200.svg',
+'OEBPS/0388-00100.svg',
+'OEBPS/0389-00100.svg',
+'OEBPS/0389-00200.svg',
+'OEBPS/0390-00100.svg',
+'OEBPS/0391-00100.svg',
+'OEBPS/0391-00200.svg',
+'OEBPS/0392-00100.svg',
+'OEBPS/0393-00100.svg',
+'OEBPS/0393-00200.svg',
+'OEBPS/0394-00100.svg',
+'OEBPS/0395-00100.svg',
+'OEBPS/0395-00200.svg',
+'OEBPS/0396-00100.svg',
+'OEBPS/0397-00100.svg',
+'OEBPS/0398-00100.svg',
+'OEBPS/0398-00200.svg',
+'OEBPS/0399-00100.svg',
+'OEBPS/0400-00100.svg',
+'OEBPS/0400-00200.svg',
+'OEBPS/0401-00100.svg',
+'OEBPS/0402-00100.svg',
+'OEBPS/0402-00200.svg',
+'OEBPS/0403-00100.svg',
+'OEBPS/0404-00100.svg',
+'OEBPS/0404-00200.svg',
+'OEBPS/0405-00100.svg',
+'OEBPS/0406-00100.svg',
+'OEBPS/0406-00200.svg',
+'OEBPS/0407-00100.svg',
+'OEBPS/0408-00100.svg',
+'OEBPS/0409-00100.svg',
+'OEBPS/0409-00200.svg',
+'OEBPS/0410-00100.svg',
+'OEBPS/0411-00100.svg',
+'OEBPS/0411-00200.svg',
+'OEBPS/0412-00100.svg',
+'OEBPS/0413-00100.svg',
+'OEBPS/0414-00100.svg',
+'OEBPS/0414-00200.svg',
+'OEBPS/0415-00100.svg',
+'OEBPS/0416-00100.svg',
+'OEBPS/0416-00200.svg',
+'OEBPS/0417-00100.svg',
+'OEBPS/0418-00100.svg',
+'OEBPS/0418-00200.svg',
+'OEBPS/0419-00100.svg',
+'OEBPS/0420-00100.svg',
+'OEBPS/0421-00100.svg',
+'OEBPS/0421-00200.svg',
+'OEBPS/0422-00100.svg',
+'OEBPS/0423-00100.svg',
+'OEBPS/0423-00200.svg',
+'OEBPS/0424-00100.svg',
+'OEBPS/0425-00100.svg',
+'OEBPS/0426-00100.svg',
+'OEBPS/0426-00200.svg',
+'OEBPS/0427-00100.svg',
+'OEBPS/0428-00100.svg',
+'OEBPS/0429-00100.svg',
+'OEBPS/0430-00100.svg',
+'OEBPS/0430-00200.svg',
+'OEBPS/0431-00100.svg',
+'OEBPS/0432-00100.svg',
+'OEBPS/0433-00100.svg',
+'OEBPS/0433-00200.svg',
+'OEBPS/0434-00100.svg',
+'OEBPS/0435-00100.svg',
+'OEBPS/0436-00100.svg',
+'OEBPS/0437-00100.svg',
+'OEBPS/0438-00100.svg',
+'OEBPS/0439-00100.svg',
+'OEBPS/0439-00200.svg',
+'OEBPS/0440-00100.svg',
+'OEBPS/0441-00100.svg',
+'OEBPS/0442-00100.svg',
+'OEBPS/0443-00100.svg',
+'OEBPS/0443-00200.svg',
+'OEBPS/0444-00100.svg',
+'OEBPS/0445-00100.svg',
+'OEBPS/0447-00100.svg',
+'OEBPS/0447-00200.svg',
+'OEBPS/0448-00100.svg',
+'OEBPS/0449-00100.svg',
+'OEBPS/0450-00100.svg',
+'OEBPS/0451-00100.svg',
+'OEBPS/0452-00100.svg',
+'OEBPS/0452-00200.svg',
+'OEBPS/0453-00100.svg',
+'OEBPS/0454-00100.svg',
+'OEBPS/0455-00100.svg',
+'OEBPS/0456-00100.svg',
+'OEBPS/0456-00200.svg',
+'OEBPS/0457-00100.svg',
+'OEBPS/0458-00100.svg',
+'OEBPS/0459-00100.svg',
+'OEBPS/0460-00100.svg',
+'OEBPS/0461-00100.svg',
+'OEBPS/0461-00200.svg',
+'OEBPS/0462-00100.svg',
+'OEBPS/0463-00100.svg',
+'OEBPS/0464-00100.svg',
+'OEBPS/0464-00200.svg',
+'OEBPS/0465-00100.svg',
+'OEBPS/0467-00100.svg',
+'OEBPS/0467-00200.svg',
+'OEBPS/0468-00100.svg',
+'OEBPS/0469-00100.svg',
+'OEBPS/0470-00100.svg',
+'OEBPS/0471-00100.svg',
+'OEBPS/0472-00100.svg',
+'OEBPS/0472-00200.svg',
+'OEBPS/0473-00100.svg',
+'OEBPS/0474-00100.svg',
+'OEBPS/0474-00200.svg',
+'OEBPS/0475-00100.svg',
+'OEBPS/0476-00100.svg',
+'OEBPS/0477-00100.svg',
+'OEBPS/0478-00100.svg',
+'OEBPS/0478-00200.svg',
+'OEBPS/0479-00100.svg',
+'OEBPS/0480-00100.svg',
+'OEBPS/0481-00100.svg',
+'OEBPS/0482-00100.svg',
+'OEBPS/0483-00100.svg',
+'OEBPS/0483-00200.svg',
+'OEBPS/0484-00100.svg',
+'OEBPS/0485-00100.svg',
+'OEBPS/0485-00200.svg',
+'OEBPS/0486-00100.svg',
+'OEBPS/0487-00100.svg',
+'OEBPS/0488-00100.svg',
+'OEBPS/0488-00200.svg',
+'OEBPS/0488-00300.svg',
+'OEBPS/0489-00100.svg',
+'OEBPS/0490-00100.svg',
+'OEBPS/0491-00100.svg',
+'OEBPS/0492-00100.svg',
+'OEBPS/0493-00100.svg',
+'OEBPS/0493-00200.svg',
+'OEBPS/0494-00100.svg',
+'OEBPS/0495-00100.svg',
+'OEBPS/0496-00100.svg',
+'OEBPS/0497-00100.svg',
+'OEBPS/0498-00100.svg',
+'OEBPS/0499-00100.svg',
+'OEBPS/0499-00200.svg',
+'OEBPS/0500-00100.svg',
+'OEBPS/0501-00100.svg',
+'OEBPS/0502-00100.svg',
+'OEBPS/0502-00200.svg',
+'OEBPS/0503-00100.svg',
+'OEBPS/0504-00100.svg',
+'OEBPS/0505-00100.svg',
+'OEBPS/0505-00200.svg',
+'OEBPS/0506-00100.svg',
+'OEBPS/0507-00100.svg',
+'OEBPS/0508-00100.svg',
+'OEBPS/0509-00100.svg',
+'OEBPS/0510-00100.svg',
+'OEBPS/0510-00200.svg',
+'OEBPS/0511-00100.svg',
+'OEBPS/0512-00100.svg',
+'OEBPS/0513-00100.svg',
+'OEBPS/0514-00100.svg',
+'OEBPS/0515-00100.svg',
+'OEBPS/0515-00200.svg',
+'OEBPS/0516-00100.svg',
+'OEBPS/0517-00100.svg',
+'OEBPS/0518-00100.svg',
+'OEBPS/0519-00100.svg',
+'OEBPS/0520-00100.svg',
+'OEBPS/0521-00100.svg',
+'OEBPS/0522-00100.svg',
+'OEBPS/0522-00200.svg',
+'OEBPS/0523-00100.svg',
+'OEBPS/0525-00100.svg',
+'OEBPS/0525-00200.svg',
+'OEBPS/0527-00100.svg',
+'OEBPS/0527-00200.svg',
+'OEBPS/0528-00100.svg',
+'OEBPS/0528-00200.svg',
+'OEBPS/0530-00100.svg',
+'OEBPS/0530-00200.svg',
+'OEBPS/0531-00100.svg',
+'OEBPS/0531-00200.svg',
+'OEBPS/0532-00100.svg',
+'OEBPS/0532-00200.svg',
+'OEBPS/0534-00100.svg',
+'OEBPS/0534-00200.svg',
+'OEBPS/0535-00100.svg',
+'OEBPS/0535-00200.svg',
+'OEBPS/0536-00100.svg',
+'OEBPS/0537-00100.svg',
+'OEBPS/0537-00200.svg',
+'OEBPS/0538-00100.svg',
+'OEBPS/0539-00100.svg',
+'OEBPS/0540-00100.svg',
+'OEBPS/0540-00200.svg',
+'OEBPS/0541-00100.svg',
+'OEBPS/0542-00100.svg',
+'OEBPS/0543-00100.svg',
+'OEBPS/0544-00100.svg',
+'OEBPS/0544-00200.svg',
+'OEBPS/0545-00100.svg',
+'OEBPS/0546-00100.svg',
+'OEBPS/0547-00100.svg',
+'OEBPS/0548-00100.svg',
+'OEBPS/0548-00200.svg',
+'OEBPS/0549-00100.svg',
+'OEBPS/0550-00100.svg',
+'OEBPS/0551-00100.svg',
+'OEBPS/0552-00100.svg',
+'OEBPS/0553-00100.svg',
+'OEBPS/0554-00100.svg',
+'OEBPS/0554-00200.svg',
+'OEBPS/0555-00100.svg',
+'OEBPS/0556-00100.svg',
+'OEBPS/0557-00100.svg',
+'OEBPS/0558-00100.svg',
+'OEBPS/0558-00200.svg',
+'OEBPS/0559-00100.svg',
+'OEBPS/0559-00200.svg',
+'OEBPS/0560-00100.svg',
+'OEBPS/0561-00100.svg',
+'OEBPS/0562-00100.svg',
+'OEBPS/0562-00200.svg',
+'OEBPS/0563-00100.svg',
+'OEBPS/0564-00100.svg',
+'OEBPS/0565-00100.svg',
+'OEBPS/0566-00100.svg',
+'OEBPS/0566-00200.svg',
+'OEBPS/0567-00100.svg',
+'OEBPS/0568-00100.svg',
+'OEBPS/0569-00100.svg',
+'OEBPS/0569-00200.svg',
+'OEBPS/0570-00100.svg',
+'OEBPS/0571-00100.svg',
+'OEBPS/0572-00100.svg',
+'OEBPS/0573-00100.svg',
+'OEBPS/0574-00100.svg',
+'OEBPS/0574-00200.svg',
+'OEBPS/0575-00100.svg',
+'OEBPS/0576-00100.svg',
+'OEBPS/0577-00100.svg',
+'OEBPS/0578-00100.svg',
+'OEBPS/0578-00200.svg',
+'OEBPS/0579-00100.svg',
+'OEBPS/0580-00100.svg',
+'OEBPS/0581-00100.svg',
+'OEBPS/0582-00100.svg',
+'OEBPS/0582-00200.svg',
+'OEBPS/0583-00100.svg',
+'OEBPS/0584-00100.svg',
+'OEBPS/0585-00100.svg',
+'OEBPS/0586-00100.svg',
+'OEBPS/0586-00200.svg',
+'OEBPS/0587-00100.svg',
+'OEBPS/0588-00100.svg',
+'OEBPS/0589-00100.svg',
+'OEBPS/0590-00100.svg',
+'OEBPS/0590-00200.svg',
+'OEBPS/0591-00100.svg',
+'OEBPS/0592-00100.svg',
+'OEBPS/0593-00100.svg',
+'OEBPS/0594-00100.svg',
+'OEBPS/0594-00200.svg',
+'OEBPS/0595-00100.svg',
+'OEBPS/0596-00100.svg',
+'OEBPS/0597-00100.svg',
+'OEBPS/0597-00200.svg',
+'OEBPS/0598-00100.svg',
+'OEBPS/0599-00100.svg',
+'OEBPS/0600-00100.svg',
+'OEBPS/0601-00100.svg',
+'OEBPS/0602-00100.svg',
+'OEBPS/0602-00200.svg',
+'OEBPS/0603-00100.svg',
+'OEBPS/0604-00100.svg',
+'OEBPS/0605-00100.svg',
+'OEBPS/0605-00200.svg',
+'OEBPS/0606-00100.svg',
+'OEBPS/0607-00100.svg',
+'OEBPS/0607-00200.svg',
+'OEBPS/0608-00100.svg',
+'OEBPS/0609-00100.svg',
+'OEBPS/0610-00100.svg',
+'OEBPS/0610-00200.svg',
+'OEBPS/0611-00100.svg',
+'OEBPS/0612-00100.svg',
+'OEBPS/0613-00100.svg',
+'OEBPS/0614-00100.svg',
+'OEBPS/0614-00200.svg',
+'OEBPS/0615-00100.svg',
+'OEBPS/0616-00100.svg',
+'OEBPS/0617-00100.svg',
+'OEBPS/0618-00100.svg',
+'OEBPS/0619-00100.svg',
+'OEBPS/0619-00200.svg',
+'OEBPS/0620-00100.svg',
+'OEBPS/0621-00100.svg',
+'OEBPS/0622-00100.svg',
+'OEBPS/0623-00100.svg',
+'OEBPS/0623-00200.svg',
+'OEBPS/0624-00100.svg',
+'OEBPS/0625-00100.svg',
+'OEBPS/0626-00100.svg',
+'OEBPS/0626-00200.svg',
+'OEBPS/0627-00100.svg',
+'OEBPS/0628-00100.svg',
+'OEBPS/0629-00100.svg',
+'OEBPS/0629-00200.svg',
+'OEBPS/0630-00100.svg',
+'OEBPS/0631-00100.svg',
+'OEBPS/0632-00100.svg',
+'OEBPS/0633-00100.svg',
+'OEBPS/0634-00100.svg',
+'OEBPS/0634-00200.svg',
+'OEBPS/0635-00100.svg',
+'OEBPS/0636-00100.svg',
+'OEBPS/0637-00100.svg',
+'OEBPS/0639-00100.svg',
+];
+
+  let currentPage = 1; // 1-based
+  const totalPages = svgFiles.length;
+
+  const viewer = document.getElementById('viewer');
+  const pageNumberInput = document.getElementById('pageNumber');
+  const totalPagesSpan = document.getElementById('totalPages');
+  const toggleBtn = document.getElementById('toggleMode');
+
+  totalPagesSpan.textContent = `/ ${totalPages}`;
+
+  let twoPageMode = false; // single-page default
+
+  function createIframe(id) {
+    const iframe = document.createElement('iframe');
+    iframe.id = id;
+    viewer.appendChild(iframe);
+    return iframe;
+  }
+
+  function getIframe(index) {
+    return document.getElementById(index);
+  }
+
+  function loadPages() {
+    let page1 = document.getElementById('page1');
+    if (!page1) page1 = createIframe('page1');
+
+    let page2 = document.getElementById('page2');
+    if (twoPageMode && !page2) page2 = createIframe('page2');
+    if (!twoPageMode && page2) page2.remove();
+
+    if (twoPageMode) {
+      // Compute spread: left = even page
+      let leftIndex, rightIndex;
+
+      if (currentPage === 1) {
+        leftIndex = -1;       // empty
+        rightIndex = 0;       // page 1
+      } else {
+        leftIndex = currentPage % 2 === 0 ? currentPage - 1 : currentPage - 2;
+        rightIndex = leftIndex + 1;
+      }
+
+      page1.src = leftIndex >= 0 ? svgFiles[leftIndex] : '';
+      page2.src = rightIndex < totalPages ? svgFiles[rightIndex] : '';
+
+    } else {
+      page1.src = svgFiles[currentPage - 1] || '';
+    }
+
+    pageNumberInput.value = currentPage;
+    viewer.scrollTop = 0;
+  }
+
+  function goToPage(page) {
+    if (page < 1) page = 1;
+    if (page > totalPages) page = totalPages;
+    currentPage = page;
+    loadPages();
+  }
+
+  function nextPage() {
+    if (twoPageMode) goToPage(currentPage + 2);
+    else goToPage(currentPage + 1);
+  }
+
+  function prevPage() {
+    if (twoPageMode) goToPage(currentPage - 2);
+    else goToPage(currentPage - 1);
+  }
+
+  function updateMode() {
+    viewer.className = twoPageMode ? 'two-page' : 'single-page';
+    toggleBtn.textContent = twoPageMode ? 'Single-Page Mode' : 'Two-Page Mode';
+    loadPages();
+  }
+
+  document.getElementById('prevPage').addEventListener('click', prevPage);
+  document.getElementById('nextPage').addEventListener('click', nextPage);
+  pageNumberInput.addEventListener('change', () => goToPage(parseInt(pageNumberInput.value)));
+  toggleBtn.addEventListener('click', () => {
+    twoPageMode = !twoPageMode;
+    updateMode();
+  });
+
+  window.addEventListener('resize', () => {
+    // optional: could auto-switch based on width
+  });
+
+  // Keyboard navigation
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowLeft') prevPage();
+    if (e.key === 'ArrowRight') nextPage();
+    if (e.key === 'ArrowUp') viewer.scrollBy({ top: -50, behavior: 'smooth' });
+    if (e.key === 'ArrowDown') viewer.scrollBy({ top: 50, behavior: 'smooth' });
+  });
+
+  // Sync scrolling in two-page mode
+  viewer.addEventListener('scroll', () => {
+    if (twoPageMode) {
+      const page1 = document.getElementById('page1');
+      const page2 = document.getElementById('page2');
+      if (page1?.contentWindow) page1.contentWindow.scrollTo(0, viewer.scrollTop);
+      if (page2?.contentWindow) page2.contentWindow.scrollTo(0, viewer.scrollTop);
+    }
+  });
+
+  // prevent toolbar zoom
+  let lastDevicePixelRatio = window.devicePixelRatio;
+  function updateToolbarScale() {
+    const ratio = window.devicePixelRatio;
+    const toolbar = document.getElementById('menu-bar');
+    // Apply inverse scale so the toolbar stays 1:1 visually
+    toolbar.style.transform = `scale(${1 / ratio})`;
+    // Compensate for layout shrink (otherwise the scaled bar no longer spans full width)
+    toolbar.style.width = `${100 * ratio}%`;
+    lastDevicePixelRatio = ratio;
+  }
+  updateToolbarScale();
+  // Monitor for zoom changes (devicePixelRatio changes)
+  window.matchMedia(`(resolution: ${window.devicePixelRatio}dppx)`)
+    .addEventListener('change', updateToolbarScale);
+  // Also poll periodically as fallback (some browsers don't fire the event reliably)
+  setInterval(() => {
+    if (window.devicePixelRatio !== lastDevicePixelRatio) {
+      updateToolbarScale();
+    }
+  }, 1000);
+
+  // Initial load
+  loadPages();
+  updateMode();
+</script>
+
+</body>
+</html>
